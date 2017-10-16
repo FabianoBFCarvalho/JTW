@@ -10,12 +10,23 @@ import { Bank } from "../../interface/bank";
 
 class serviceMock {
 
-    getBanks() {
-
+    getBanks(): Observable<Bank[]> {
+        return new Observable<Bank[]>(response => {
+            [{
+                code: "string",
+                name: "brasileiro",
+                db_id: 0
+            },
+            {    
+                code: "string",
+                name: "russo",
+                db_id: 0
+            }]
+        });
     }
 
     postBank(name: string, code: string) {
-
+        
     }
 }
 
@@ -46,6 +57,7 @@ describe('Test BankPage', () => {
     beforeEach(() => {
         fixture = TestBed.createComponent(BankPage);
         comp = fixture.componentInstance;
+        fixture.detectChanges();
     });
 
     it('should creat BankPage', () => expect(comp).toBeDefined());

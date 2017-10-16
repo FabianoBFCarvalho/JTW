@@ -7,9 +7,7 @@ export class AuthenticationService {
 	
 	constructor( private http: Http ) { }
 	
-	login(email: string, password: string): Observable<Boolean> {
-        console.log('33333333');
-        
+	login(email: string, password: string): Observable<Boolean> {    
         let headers = new Headers({ 'Content-Type': 'application/json' });
         let options = new RequestOptions({ headers: headers });
         let params: JSON = JSON.parse('{}');
