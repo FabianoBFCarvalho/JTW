@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-navbar>
+      <button ion-button menuToggle>
+          <ion-icon name="menu"></ion-icon>
+      </button>
+  <ion-title>Banks</ion-title>
+</ion-navbar>
+</ion-header>
+
+<ion-content>
+<div col-md-4>
+  <ion-list *ngIf="banks">
+      <ion-item *ngFor="let bank of banks"> 
+          <span>{{bank.name}}</span> 
+      </ion-item>
+  </ion-list>
+</div>
+
+<div col-md-4>
+<ion-input type="text" placeholder="Bank" #bank ></ion-input>
+<ion-input type="text" placeholder="Code" #code ></ion-input>
+
+<button ion-button (click)="postBank(bank.value, code.value)">Add Bank</button>
+</div>
+</ion-content>
