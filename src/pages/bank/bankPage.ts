@@ -33,13 +33,21 @@ export class BankPage {
 	}
 
 	postBanks(name: string, code: string) {
-		this._bankService.postBanks(name, code).subscribe(response => {
-			this.message = response;
-			if(this.message != null) {
-				this.messageToast();
-			}
-			this.newBank = false;
-		});
+		if(name.trim() && code.trim()) {
+			this._bankService.postBanks(name, code).subscribe(response => {
+				this.message = response;
+				if(this.message != null) {
+					this.messageToast();
+				}
+				this.newBank = false;
+			}, 
+			error => {
+
+			});
+		} else {
+			this.message = 'Preencha todos os campos!';
+			this.messageToast();
+		}
 	}
 
 	deleteBank(id: number) {
@@ -52,17 +60,26 @@ export class BankPage {
 	}
 
 	editBank(id: number, name: string, code: string) {
-		this._bankService.postBank(id, name, code).subscribe(response => {
-			this.message = response;
-			if(this.message != null) {
-				this.messageToast();
-			}
-		});
-		
+		if(name.trim() && code.trim()) {
+			this._bankService.postBank(id, name, code).subscribe(response => {
+				this.message = response;
+				if(this.message != null) {
+					this.messageToast();
+				}
+			});
+		} else {
+			const toast = this.toastCtrl.create({
+				message: 'Preencha todos os campos',
+				duration: 2000,
+				position: 'middle'
+			});
+			toast.present();
+		}
 	}
 
 	onSelectBank(bank: Bank) {
 		this.selectedBank = bank;
+		this.newBank = false;
 	}
 
 	creatNewBank() {

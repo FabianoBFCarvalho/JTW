@@ -14,12 +14,17 @@ export class AuthenticationService {
         params['email'] = email;
         params['password'] = password;
         params['device'] = 'core';
-        return new Observable(obserser => {
+        return new Observable(observer => {
             const loginUrl = 'http://api.imobzi.com/v1/login';
-            this.http.post(loginUrl, JSON.stringify(params), options).subscribe(response => {
-                localStorage.setItem('token', response.json().success.token);
-                obserser.next(true);
-            });
+            this.http.post(loginUrl, JSON.stringify(params), options).subscribe(
+                response => {
+                    localStorage.setItem('token', response.json().success.token);
+                    observer.next(true);
+                },
+                 error => {
+                     observer.error(error.status);
+                }
+            );
         });
     }
 }

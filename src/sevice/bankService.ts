@@ -29,6 +29,10 @@ export class BankService {
             let body = JSON.stringify({name: name, code: code});          
             this.http.post(this.urlBanks, body, this.options).subscribe(response => {
              obserser.next(response.json().success.message);
+            },
+            error => {
+                console.log(error + "erro");
+
             });
         });
     }
