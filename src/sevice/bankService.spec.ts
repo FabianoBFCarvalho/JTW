@@ -4,6 +4,7 @@ import { Http, HttpModule, Response,
 import { MockBackend, MockConnection }          from '@angular/http/testing';
 import { BankService }                          from './bankService';
 import { Observable }                           from "rxjs/Observable";
+import { ToastController }                      from "ionic-angular";
 
 const mockResponse = {
     success: { 
@@ -25,6 +26,10 @@ describe('BankService test', () => {
                 {
                     provide: XHRBackend,
                     useClass: MockBackend
+                },
+                {
+                    provide: ToastController,
+                    useValue: 'fake'
                 }
             ]
         })

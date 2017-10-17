@@ -3,7 +3,6 @@ import { BankService } 						from '../../sevice/bankService';
 import { Bank } 							from '../../interface/bank';
 import { ToastController } 					from 'ionic-angular';
 
-
 @Component({
   selector: 'bankPage',
   templateUrl: 'bank.html'
@@ -16,40 +15,74 @@ export class BankPage {
 	) { }
 
 	banks: Bank[];
-	message: string = null;
+	listBanks:Bank[];
+	message: string;
 	selectedBank: Bank;
+	newBank: Boolean;
+	editBankSelected: Boolean;
 
 	ngOnInit() {
 		this.getBanks();
 	}
 
 	getBanks() {
-		this._bankService.getBanks().subscribe(banks => this.banks = banks);
+		this._bankService.getBanks().subscribe(banks =>{
+			this.banks = banks;
+			this.listBanks = banks;	
+		});
 	}
 
 	postBanks(name: string, code: string) {
-		this._bankService.postBanks(name, code).subscribe(response => this.message = response);
-		if(this.message) {
-			this.messageToast();
-		}
+		this._bankService.postBanks(name, code).subscribe(response => {
+			this.message = response;
+			if(this.message != null) {
+				this.messageToast();
+			}
+			this.newBank = false;
+		});
 	}
 
 	deleteBank(id: number) {
-		this._bankService.deleteBank(id).subscribe(response => this.message = response);
-		if(this.message) {
-			this.messageToast();
-		}
+		this._bankService.deleteBank(id).subscribe(response =>{
+			this.message = response;
+			if(this.message != null) {
+				this.messageToast();
+			}
+		});
 	}
 
 	editBank(id: number, name: string, code: string) {
-		this._bankService.postBank(id, name, code).subscribe(response => this.message = response);
-		if(this.message) {
-			this.messageToast();
-		}
+		this._bankService.postBank(id, name, code).subscribe(response => {
+			this.message = response;
+			if(this.message != null) {
+				this.messageToast();
+			}
+		});
+		
 	}
+
 	onSelectBank(bank: Bank) {
 		this.selectedBank = bank;
 	}
+
+	creatNewBank() {
+		this.newBank = true;
+		this.selectedBank = null;
+		this.editBankSelected = null;
+
+	}
+
+	onClickBank(){
+		this.editBankSelected = true;
+		this.newBank = false;
+	}
+
+	cancelar() {
+		this.selectedBank = null;
+		this.editBankSelected = null;
+		this.newBank = false;
+	}
+
 	messageToast() {
 		const toast = this.toastCtrl.create({
 			message: this.message,
@@ -57,7 +90,19 @@ export class BankPage {
 			position: 'middle'
 		});
 		toast.present();
+		this.selectedBank = null;
+		this.editBankSelected = null;
 		this.getBanks();
+	}
+
+	searchBanks(nameBank: any) {
+		this.banks = this.listBanks;
+		let nameSearch = nameBank.target.value;
+		if (nameSearch && nameSearch.trim() != '') {
+			this.banks = this.banks.filter( bank => {
+			return (bank.name.toLowerCase().indexOf(nameSearch.toLowerCase()) > -1);
+			});
+		}
 	}
 }
 

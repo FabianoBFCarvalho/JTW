@@ -33,7 +33,7 @@ export class BankService {
         });
     }
 
-    postBank(id: number, name: string, code: string):Observable<string>  {
+    postBank(id: number, name: string, code: string): Observable<string>  {
         const url = `${'http://api.imobzi.com/v1/bank'}/${id}`; 
         return new Observable(obserser => {
             let body = JSON.stringify({name: name, code: code});          
@@ -43,7 +43,7 @@ export class BankService {
         });
     }
 
-    deleteBank(id: number):Observable<string>  {
+    deleteBank(id: number): Observable<string>  {
         const url = `${'http://api.imobzi.com/v1/bank'}/${id}`; 
         return new Observable(obserser => {
             this.http.delete(url, this.options).subscribe(response => {

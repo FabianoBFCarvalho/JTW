@@ -1,6 +1,6 @@
 import { async, TestBed, ComponentFixture }         from "@angular/core/testing";
 import { DebugElement }                             from "@angular/core";
-import { IonicModule,NavController }                             from "ionic-angular";
+import { IonicModule,NavController }                from "ionic-angular";
 import { By }                                       from "@angular/platform-browser";
 import { HomePage}                                  from "./home";
 import { AuthenticationService }                    from "../../sevice/authenticationService";
@@ -50,5 +50,6 @@ describe('Test HomePage', () => {
     });
 
     it('should creat HomePage', () => expect(comp).toBeDefined());
+    
     
 });

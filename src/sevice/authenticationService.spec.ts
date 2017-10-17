@@ -5,7 +5,7 @@ import { MockBackend, MockConnection }          from '@angular/http/testing';
 import { AuthenticationService }                from './authenticationService';
 import { Observable }                           from "rxjs/Observable";
 
-const mockResponse = 
+const mockResponse =
     { success: {
           token: "token",
           message: "Token successfully generated"
@@ -36,7 +36,7 @@ describe('AuthenticationService test', () => {
             });
             authenticationService.login('felipe@quickfast.com','iquick7s@2017').subscribe(login => {
                 (expect(login).toBe(true));
-            })
+            });
         })
     );    
 });

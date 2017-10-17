@@ -8,20 +8,39 @@
 </ion-header>
 
 <ion-content>
-<div col-md-4>
-  <ion-list *ngIf="banks">
-      <ion-item *ngFor="let bank of banks"
-      [class.selected]="bank === selectedBank"
-      (click)="onSelectBank(bank)"> 
-          <p class='bank'>{{bank.name}}</p> 
-      </ion-item>
-  </ion-list>
-</div>
-
-<div col-md-4>
-<ion-input type="text" placeholder="Bank" #bank ></ion-input>
-<ion-input type="text" placeholder="Code" #code ></ion-input>
-
-<button ion-button (click)="postBanks(bank.value, code.value)">Add Bank</button>
-</div>
+    <ion-grid>
+        <ion-row>
+            <ion-col col-lg-4 col-md-6 col-sm-9 col-xl-3>
+                <ion-searchbar (ionInput)="searchBanks($event)"></ion-searchbar>
+                <ion-list *ngIf="banks">
+                    <ion-item *ngFor="let bank of banks"
+                        [class.selected]="bank === selectedBank"
+                        (click)="onSelectBank(bank)"> 
+                            <p class='bank'>{{bank.name}}</p>
+                    </ion-item>  
+                </ion-list>
+            </ion-col>
+            <ion-col col-lg-1 col-md-2 col-sm-2 col-xl-1>
+                    <button ion-button *ngIf="selectedBank && !editBankSelected" (click)="deleteBank(selectedBank.db_id)"><ion-icon name="trash"></ion-icon></button>
+            </ion-col>
+            <ion-col col-lg-4 col-md-6 col-sm-9 col-xl-3>
+                    <button ion-button (click)="creatNewBank()" *ngIf="!newBank && !editBankSelected">Add new Bank</button>
+                <div *ngIf="newBank">
+                    <ion-input type="text" placeholder="Bank" #bank ></ion-input>
+                    <ion-input type="text" placeholder="Code" #code ></ion-input>
+                    <button ion-button (click)="postBanks(bank.value, code.value)">Add Bank</button>
+                    <button ion-button (click)="cancelar()">Cancelar</button>
+                </div>
+            </ion-col>
+            <ion-col col-lg-3 col-md-3 col-sm-9 col-xl-3>
+                    <button ion-button *ngIf="!editBankSelected && selectedBank" (click)="onClickBank()"> Edit </button>
+                    <div *ngIf="editBankSelected">
+                            <ion-input type="text" placeholder="Bank" #bank ></ion-input>
+                            <ion-input type="text" placeholder="Code" #code ></ion-input>
+                            <button ion-button (click)="editBank(selectedBank.db_id, bank.value, code.value)">Save</button>
+                            <button ion-button (click)="cancelar()">Cancel</button>
+                        </div>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
 </ion-content>

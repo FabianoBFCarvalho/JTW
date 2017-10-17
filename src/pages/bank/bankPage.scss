@@ -1,3 +1,30 @@
 bankPage {
+	ion-list ion-item.selected {
+		background-color: #BBD8DC !important;
+		color: #772727;
+	}
+	ion-list ion-item:hover {
+		color: #991717;
+		background-color: #D2D7E2;
+		left: .1em;
+	}
 
+	ion-list ion-item {
+		cursor: pointer;
+		position: relative;
+		left: 0;
+		background-color: #EEE;
+		margin: .5em;
+		padding: .3em 0;
+		height: 1.6em;
+		border-radius: 26px;
+	}
+
+	.rent {
+		cursor: pointer;
+    }
+    ion-input {
+        background-color: #D6DACA;
+		color: #202019;
+    }
 }

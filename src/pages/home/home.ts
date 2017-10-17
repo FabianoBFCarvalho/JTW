@@ -13,17 +13,12 @@ export class HomePage {
 	  public navCtrl: NavController,
 	  private _authentication: AuthenticationService
 	) { }
-
-  isLoggedIn: Boolean;
-  token: string;
   
   	login(email: string, password: string) {
 		this._authentication.login(email,password).subscribe(res => {
-			this.isLoggedIn = res;
-			if(res){
+			if(res) {
 				this.navCtrl.setRoot(BankPage);
 			}
 		});
 	}
-
 }
