@@ -1,6 +1,7 @@
 import { async, TestBed, ComponentFixture }         from "@angular/core/testing";
 import { DebugElement }                             from "@angular/core";
-import { IonicModule,NavController }                from "ionic-angular";
+import { IonicModule, NavController, 
+    ToastController, Toast}                         from "ionic-angular";
 import { By }                                       from "@angular/platform-browser";
 import { BankPage}                                  from "./bankPage";
 
@@ -8,39 +9,22 @@ import { Observable }                               from "rxjs/Observable";
 import { BankService }                              from "../../sevice/bankService";
 import { Bank }                                     from "../../interface/bank";
 
-class serviceMock {
-    getBanks():Observable<Bank[]> {
-    return new Observable<Bank[]>(response => {
-        response.next(
-            [{
-                code: "string", name: "brasileiro", db_id: 0
-            },
-            {    
-                code: "string", name: "russo", db_id: 0
-            }]
-            ); 
+import { ServiceMock }                              from "../../mock/serviceMock";
+
+
+ class ToastMock {
+    create() {
+        return {
+            message: 'Preencha todos os campos',
+            duration: 2000,
+            position: 'middle'
+        };
+    }
+    public present(): Promise<any> {
+        return new Promise((resolve: Function) => {
+            resolve();
         });
     }
-
-    postBanks(name: string, code: string): Observable<string> {
-        return new Observable(obserser => {
-             obserser.next('sucesso');
-            });
-    }
-
-    postBank(id: number, name: string, code: string):Observable<string>  {
-        return new Observable(obserser => {
-            obserser.next('sucesso');
-        });
-    }
-
-    deleteBank(id: number):Observable<string>  {
-        return new Observable(obserser => {
-            obserser.next('sucesso');;
-        });
-    }
-
-
 }
 
 describe('Test BankPage', () => {
@@ -60,8 +44,16 @@ describe('Test BankPage', () => {
             providers: [
                 {
                     provide: BankService,
-                    useClass: serviceMock
+                    useClass: ServiceMock
                 },
+                {
+                    provide: ToastController,
+                    useClass: ToastMock
+                },
+                {
+                    provide: Toast,
+                    useClass: ToastMock
+                }
             ]
         })
         .compileComponents();

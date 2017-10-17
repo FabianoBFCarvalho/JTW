@@ -40,9 +40,6 @@ export class BankPage {
 					this.messageToast();
 				}
 				this.newBank = false;
-			}, 
-			error => {
-
 			});
 		} else {
 			this.message = 'Preencha todos os campos!';
@@ -86,7 +83,6 @@ export class BankPage {
 		this.newBank = true;
 		this.selectedBank = null;
 		this.editBankSelected = null;
-
 	}
 
 	onClickBank(){
