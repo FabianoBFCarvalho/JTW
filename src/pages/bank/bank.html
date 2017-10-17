@@ -10,8 +10,10 @@
 <ion-content>
 <div col-md-4>
   <ion-list *ngIf="banks">
-      <ion-item *ngFor="let bank of banks"> 
-          <span class='bank'>{{bank.name}}</span> 
+      <ion-item *ngFor="let bank of banks"
+      [class.selected]="bank === selectedBank"
+      (click)="onSelectBank(bank)"> 
+          <p class='bank'>{{bank.name}}</p> 
       </ion-item>
   </ion-list>
 </div>
@@ -20,6 +22,6 @@
 <ion-input type="text" placeholder="Bank" #bank ></ion-input>
 <ion-input type="text" placeholder="Code" #code ></ion-input>
 
-<button ion-button (click)="postBank(bank.value, code.value)">Add Bank</button>
+<button ion-button (click)="postBanks(bank.value, code.value)">Add Bank</button>
 </div>
 </ion-content>

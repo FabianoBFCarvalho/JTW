@@ -24,14 +24,31 @@ export class BankService {
         });
     }
 
-    postBank(name: string, code: string): Observable<Boolean> {
+    postBanks(name: string, code: string): Observable<string> {
         return new Observable(obserser => {
             let body = JSON.stringify({name: name, code: code});          
-            this.http.post(this.urlBanks, this.options, body).subscribe(response => {
-             obserser.next(true);
-
+            this.http.post(this.urlBanks, body, this.options).subscribe(response => {
+             obserser.next(response.json().success.message);
             });
         });
+    }
 
+    postBank(id: number, name: string, code: string):Observable<string>  {
+        const url = `${'http://api.imobzi.com/v1/bank'}/${id}`; 
+        return new Observable(obserser => {
+            let body = JSON.stringify({name: name, code: code});          
+            this.http.post(url, body, this.options).subscribe(response => {
+             obserser.next(response.json().success.message);
+            });
+        });
+    }
+
+    deleteBank(id: number):Observable<string>  {
+        const url = `${'http://api.imobzi.com/v1/bank'}/${id}`; 
+        return new Observable(obserser => {
+            this.http.delete(url, this.options).subscribe(response => {
+             obserser.next(response.json().success.message);
+            });
+        });
     }
 }

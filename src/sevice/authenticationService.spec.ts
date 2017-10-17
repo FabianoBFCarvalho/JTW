@@ -12,7 +12,7 @@ const mockResponse =
         }
     }
 
-describe('UserService test', () => {
+describe('AuthenticationService test', () => {
 
     beforeEach(async(() => {
         TestBed.configureTestingModule({

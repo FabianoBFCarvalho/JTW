@@ -6,28 +6,41 @@ import { BankPage}                                  from "./bankPage";
 
 import { Observable }                               from "rxjs/Observable";
 import { BankService }                              from "../../sevice/bankService";
-import { Bank } from "../../interface/bank";
+import { Bank }                                     from "../../interface/bank";
 
 class serviceMock {
-
-    getBanks(): Observable<Bank[]> {
-        return new Observable<Bank[]>(response => {
+    getBanks():Observable<Bank[]> {
+    return new Observable<Bank[]>(response => {
+        response.next(
             [{
-                code: "string",
-                name: "brasileiro",
-                db_id: 0
+                code: "string", name: "brasileiro", db_id: 0
             },
             {    
-                code: "string",
-                name: "russo",
-                db_id: 0
+                code: "string", name: "russo", db_id: 0
             }]
+            ); 
         });
     }
 
-    postBank(name: string, code: string) {
-        
+    postBanks(name: string, code: string): Observable<string> {
+        return new Observable(obserser => {
+             obserser.next('sucesso');
+            });
     }
+
+    postBank(id: number, name: string, code: string):Observable<string>  {
+        return new Observable(obserser => {
+            obserser.next('sucesso');
+        });
+    }
+
+    deleteBank(id: number):Observable<string>  {
+        return new Observable(obserser => {
+            obserser.next('sucesso');;
+        });
+    }
+
+
 }
 
 describe('Test BankPage', () => {
@@ -61,4 +74,25 @@ describe('Test BankPage', () => {
     });
 
     it('should creat BankPage', () => expect(comp).toBeDefined());
+
+    it('should list', () => {
+        de = fixture.debugElement.query(By.css('p'));
+        expect(de.nativeElement.innerText).toBe('brasileiro');
+    });
+
+    it('test postBanks()', () => {
+        comp.postBanks('teste','teste');
+        expect(comp.message).toBe('sucesso');
+    });
+
+    it('test deleteBank()', () => {
+        comp.deleteBank(2);
+        expect(comp.message).toBe('sucesso');
+    });
+
+    it('test editBank()', () => {
+        comp.editBank(2,'teste','teste');
+        expect(comp.message).toBe('sucesso');
+    });
+
 });
