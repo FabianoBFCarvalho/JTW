@@ -14,7 +14,7 @@ import { HttpModule }                             from '@angular/http';
 import { BankService }                            from '../sevice/bankService';
 import { AuthenticationService }                  from '../sevice/authenticationService';
 import { BankDetail } 							  from '../pages/bankDetail/bankDetail';
-import { DetailBank } 							  from '../component/detailBank';
+
 
 @NgModule({
 	declarations: [
@@ -22,7 +22,6 @@ import { DetailBank } 							  from '../component/detailBank';
 		HomePage,
 		BankPage,
 		BankDetail,
-		DetailBank
 	],
 	imports: [
 		BrowserModule,
@@ -34,9 +33,7 @@ import { DetailBank } 							  from '../component/detailBank';
 		MyApp,
 		HomePage,
 		BankPage,
-		BankDetail,
-		DetailBank
-		
+		BankDetail,		
 	],
 	providers: [
 		StatusBar,

@@ -23,7 +23,6 @@ export class BankPage {
 	message: string;
 	selectedBank: Bank;
 	newBank: Boolean;
-	editBankSelected: Boolean;
 
 
 	ngOnInit() {
@@ -44,7 +43,7 @@ export class BankPage {
 				if(this.message != null) {
 					this.messageToast();
 				}
-				this.newBank = false;
+				this.buttonCancelar();
 			});
 		} else {
 			this.message = 'Preencha todos os campos!';
@@ -54,7 +53,7 @@ export class BankPage {
 
 	onSelectBank(bank: Bank) {
 		this.selectedBank = bank;
-		this.newBank = false;
+		this.buttonCancelar();
 	}
 
 	presentBankDeitalModal() {

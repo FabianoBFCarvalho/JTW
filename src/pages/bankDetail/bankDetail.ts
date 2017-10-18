@@ -61,7 +61,8 @@ export class BankDetail {
 		this._bankService.deleteBank(id).subscribe(response =>{
 			this.message = response;
 			if(this.message != null) {
-				this.messageToast();
+                this.messageToast();
+                this.dismiss();
 			}
 		});
     }
