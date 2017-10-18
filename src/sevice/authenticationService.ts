@@ -11,8 +11,8 @@ export class AuthenticationService {
         let headers = new Headers({ 'Content-Type': 'application/json' });
         let options = new RequestOptions({ headers: headers });
         let params: JSON = JSON.parse('{}');
-        params['email'] = email;
-        params['password'] = password;
+        params['email'] = email.trim();
+        params['password'] = password.trim();
         params['device'] = 'core';
         return new Observable(observer => {
             const loginUrl = 'http://api.imobzi.com/v1/login';

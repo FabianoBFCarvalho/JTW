@@ -1,5 +1,5 @@
 import { Component }        				from '@angular/core';
-import { NavController, ToastController } from 'ionic-angular';
+import { NavController, ToastController } 	from 'ionic-angular';
 import { AuthenticationService }		 	from '../../sevice/authenticationService';
 import { BankPage } 						from '../bank/bankPage';
 
@@ -14,13 +14,11 @@ export class HomePage {
 	  private _authentication: AuthenticationService,
 	  private toastCtrl: ToastController
 	) { }
-
-	
   
 	login(email: string, password: string) {
 		let message;
 		if(email.trim() && password.trim()) {
-			this._authentication.login(email,password).subscribe(res => {
+			this._authentication.login(email.trim(),password.trim()).subscribe(res => {
 				if(res) {
 					this.navCtrl.setRoot(BankPage);
 				}

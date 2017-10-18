@@ -1,7 +1,7 @@
 import { async, TestBed, ComponentFixture }         from "@angular/core/testing";
 import { DebugElement }                             from "@angular/core";
 import { IonicModule, NavController, 
-    ToastController, Toast}                         from "ionic-angular";
+    ToastController }                               from "ionic-angular";
 import { By }                                       from "@angular/platform-browser";
 import { BankPage}                                  from "./bankPage";
 
@@ -11,16 +11,13 @@ import { Bank }                                     from "../../interface/bank";
 
 import { ServiceMock }                              from "../../mock/serviceMock";
 
-
  class ToastMock {
+
     create() {
-        return {
-            message: 'Preencha todos os campos',
-            duration: 2000,
-            position: 'middle'
-        };
+       return new ToastMock;
     }
-    public present(): Promise<any> {
+
+     present(): Promise<any> {
         return new Promise((resolve: Function) => {
             resolve();
         });
@@ -32,7 +29,6 @@ describe('Test BankPage', () => {
     let de: DebugElement;
     let comp: BankPage;
     let fixture: ComponentFixture<BankPage>;
-
 
     beforeEach(async(() => {
         
@@ -50,10 +46,6 @@ describe('Test BankPage', () => {
                     provide: ToastController,
                     useClass: ToastMock
                 },
-                {
-                    provide: Toast,
-                    useClass: ToastMock
-                }
             ]
         })
         .compileComponents();
@@ -74,10 +66,12 @@ describe('Test BankPage', () => {
 
     it('test postBanks()', () => {
         comp.postBanks('teste','teste');
+        fixture.detectChanges();
         expect(comp.message).toBe('sucesso');
     });
 
     it('test deleteBank()', () => {
+        fixture.detectChanges();
         comp.deleteBank(2);
         expect(comp.message).toBe('sucesso');
     });

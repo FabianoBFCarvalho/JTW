@@ -34,7 +34,7 @@ describe('AuthenticationService test', () => {
                     body: JSON.stringify(mockResponse)
                 })));
             });
-            authenticationService.login('felipe@quickfast.com','iquick7s@2017').subscribe(login => {
+            authenticationService.login('teste','iquick7s@2017').subscribe(login => {
                 (expect(login).toBe(true));
             });
         })

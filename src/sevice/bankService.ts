@@ -26,13 +26,9 @@ export class BankService {
 
     postBanks(name: string, code: string): Observable<string> {
         return new Observable(obserser => {
-            let body = JSON.stringify({name: name, code: code});          
+            let body = JSON.stringify({name: name.trim(), code: code.trim()});          
             this.http.post(this.urlBanks, body, this.options).subscribe(response => {
-             obserser.next(response.json().success.message);
-            },
-            error => {
-                console.log(error + "erro");
-
+                obserser.next(response.json().success.message);
             });
         });
     }
@@ -40,7 +36,7 @@ export class BankService {
     postBank(id: number, name: string, code: string): Observable<string>  {
         const url = `${'http://api.imobzi.com/v1/bank'}/${id}`; 
         return new Observable(obserser => {
-            let body = JSON.stringify({name: name, code: code});          
+            let body = JSON.stringify({name: name.trim(), code: code.trim()});          
             this.http.post(url, body, this.options).subscribe(response => {
              obserser.next(response.json().success.message);
             });

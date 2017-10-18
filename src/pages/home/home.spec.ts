@@ -7,8 +7,7 @@ import { AuthenticationService }                    from "../../sevice/authentic
 import { Observable }                               from "rxjs/Observable";
 
 class serviceMock {
-
-    login(): Observable<Boolean> {
+    login(login: string, password: string): Observable<Boolean> {
         return new Observable<Boolean>(response => response.next(true));
     }
 }
@@ -18,15 +17,13 @@ describe('Test HomePage', () => {
     let de: DebugElement;
     let comp: HomePage;
     let fixture: ComponentFixture<HomePage>;
-
     let mockNavController = {push: () => {}};
 
     beforeEach(async(() => {
         
         TestBed.configureTestingModule({
             imports: [
-                IonicModule.forRoot(HomePage),
-                
+                IonicModule.forRoot(HomePage)
             ],
             declarations: [HomePage],
             providers: [
@@ -50,6 +47,5 @@ describe('Test HomePage', () => {
     });
 
     it('should creat HomePage', () => expect(comp).toBeDefined());
-    
-    
+
 });

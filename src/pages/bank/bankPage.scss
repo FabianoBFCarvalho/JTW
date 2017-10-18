@@ -3,6 +3,7 @@ bankPage {
 		background-color: #BBD8DC !important;
 		color: #772727;
 	}
+
 	ion-list ion-item:hover {
 		color: #991717;
 		background-color: #D2D7E2;
@@ -22,13 +23,18 @@ bankPage {
 
 	.rent {
 		cursor: pointer;
-    }
+	}
+	
     ion-input {
         background-color: #D6DACA;
 		color: #202019;
 	}
 	
 	#page {
-		background-color: rgba(37, 46, 48, 0.87)
+		background-color: rgba(8, 8, 6, 0.87)
+	}
+
+	#btnDelete {
+		font-size: 20px;
 	}
 }

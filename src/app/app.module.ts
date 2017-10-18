@@ -13,12 +13,16 @@ import { BankPage }                               from '../pages/bank/bankPage';
 import { HttpModule }                             from '@angular/http';
 import { BankService }                            from '../sevice/bankService';
 import { AuthenticationService }                  from '../sevice/authenticationService';
+import { BankDetail } 							  from '../pages/bankDetail/bankDetail';
+import { DetailBank } 							  from '../component/detailBank';
 
 @NgModule({
 	declarations: [
 		MyApp,
 		HomePage,
-		BankPage
+		BankPage,
+		BankDetail,
+		DetailBank
 	],
 	imports: [
 		BrowserModule,
@@ -29,13 +33,17 @@ import { AuthenticationService }                  from '../sevice/authentication
 	entryComponents: [
 		MyApp,
 		HomePage,
-		BankPage
+		BankPage,
+		BankDetail,
+		DetailBank
+		
 	],
 	providers: [
 		StatusBar,
 		SplashScreen,
 		BankService,
 		AuthenticationService,
+		BankPage,
 		{provide: ErrorHandler, useClass: IonicErrorHandler}
 	]
 })

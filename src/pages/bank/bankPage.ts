@@ -1,17 +1,21 @@
-import { Component } 						from '@angular/core';
-import { BankService } 						from '../../sevice/bankService';
-import { Bank } 							from '../../interface/bank';
-import { ToastController } 					from 'ionic-angular';
+import { Component } 								from '@angular/core';
+import { BankService } 								from '../../sevice/bankService';
+import { Bank } 									from '../../interface/bank';
+import { ToastController, ModalController,
+	 AlertController } 								from 'ionic-angular';
+import { BankDetail } 								from '../bankDetail/bankDetail';
 
 @Component({
   selector: 'bankPage',
   templateUrl: 'bank.html'
 })
 export class BankPage {
-
+	
 	constructor(
 		private _bankService: BankService,
-		private toastCtrl: ToastController
+		private toastCtrl: ToastController,
+		private modalCtrl: ModalController,
+		private alertCtrl: AlertController
 	) { }
 
 	banks: Bank[];
@@ -20,6 +24,7 @@ export class BankPage {
 	selectedBank: Bank;
 	newBank: Boolean;
 	editBankSelected: Boolean;
+
 
 	ngOnInit() {
 		this.getBanks();
@@ -47,52 +52,22 @@ export class BankPage {
 		}
 	}
 
-	deleteBank(id: number) {
-		this._bankService.deleteBank(id).subscribe(response =>{
-			this.message = response;
-			if(this.message != null) {
-				this.messageToast();
-			}
-		});
-	}
-
-	editBank(id: number, name: string, code: string) {
-		if(name.trim() && code.trim()) {
-			this._bankService.postBank(id, name, code).subscribe(response => {
-				this.message = response;
-				if(this.message != null) {
-					this.messageToast();
-				}
-			});
-		} else {
-			const toast = this.toastCtrl.create({
-				message: 'Preencha todos os campos',
-				duration: 2000,
-				position: 'middle'
-			});
-			toast.present();
-		}
-	}
-
 	onSelectBank(bank: Bank) {
 		this.selectedBank = bank;
 		this.newBank = false;
 	}
 
+	presentBankDeitalModal() {
+		let bankModal = this.modalCtrl.create(BankDetail, {bankSelected: this.selectedBank});
+		bankModal.present();
+	}
+
 	creatNewBank() {
 		this.newBank = true;
 		this.selectedBank = null;
-		this.editBankSelected = null;
 	}
 
-	onClickBank(){
-		this.editBankSelected = true;
-		this.newBank = false;
-	}
-
-	cancelar() {
-		this.selectedBank = null;
-		this.editBankSelected = null;
+	buttonCancelar() {
 		this.newBank = false;
 	}
 
@@ -103,8 +78,6 @@ export class BankPage {
 			position: 'middle'
 		});
 		toast.present();
-		this.selectedBank = null;
-		this.editBankSelected = null;
 		this.getBanks();
 	}
 
