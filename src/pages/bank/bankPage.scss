@@ -1,4 +1,5 @@
 bankPage {
+	
 	ion-list ion-item.selected {
 		background-color: #BBD8DC !important;
 		color: #772727;
@@ -20,11 +21,7 @@ bankPage {
 		height: 1.6em;
 		border-radius: 26px;
 	}
-
-	.rent {
-		cursor: pointer;
-	}
-	
+		
     ion-input {
         background-color: #D6DACA;
 		color: #202019;
@@ -32,9 +29,5 @@ bankPage {
 	
 	#page {
 		background-color: rgba(8, 8, 6, 0.87)
-	}
-
-	#btnDelete {
-		font-size: 20px;
 	}
 }

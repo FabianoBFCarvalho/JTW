@@ -1,9 +1,8 @@
-import { Component }                        from '@angular/core'; 
-import { Bank }                             from '../../interface/bank';
+import { Component }                            from '@angular/core'; 
+import { Bank }                                 from '../../interface/bank';
 import { NavParams, ViewController,
-     ToastController, AlertController }     from 'ionic-angular';
-import { BankPage }                         from '../bank/bankPage';
-import { BankService }                      from '../../sevice/bankService';
+        ToastController, AlertController }      from 'ionic-angular';
+import { BankService }                          from '../../sevice/bankService';
 
 @Component({
     selector: 'bankDetail',
@@ -11,54 +10,73 @@ import { BankService }                      from '../../sevice/bankService';
 })
 export class BankDetail {
     
-    constructor
-    (   
+    constructor(
         private _bankService: BankService,
         private params: NavParams,
         public viewCtrl: ViewController,
         private toastCtrl: ToastController,
         private alertCtrl: AlertController,
-       
     ) { }
 
     bank: Bank;
     edit: boolean;
     message: string;
-    selectedBank: Bank;
+    newBank: boolean;
+    name: string;
+    codigo: string;
     
     ngOnInit() {
+        this.newBank = this.params.get('newBank');
         this.bank = this.params.get('bankSelected');
     }
 
-    onClickBank() {
-        this.selectedBank = this.bank;
+    onClickBankEdit() {
+        this.newBank = true;
+        this.name = this.bank.name;
+        this.codigo = this.bank.code;
+        this.edit = true;
     }
 
     dismiss() {
         this.viewCtrl.dismiss();
     }
 
+    postBanks(name: string, code: string) {
+		if(name.trim() && code.trim()) {
+			this._bankService.postBanks(name, code).subscribe(response => {
+				this.message = response;
+				if(this.message != null) {
+                    this.messageToast();
+                    this.dismiss();
+				}
+			});
+        }
+        else {
+			this.message = 'Preencha todos os campos!';
+			this.messageToast();
+		}
+    }
+    
     showConfirmDelete() {
 		let confirm = this.alertCtrl.create({
-		  title: 'Atenção!',
-		  message: 'Deseja realmente apagar o banco '+this.bank.name+' ?',
-		  buttons: [
-			{
-				text: 'Sim',
-				handler: () => {
-					this.deleteBank(this.bank.db_id);
-				}
-			},
-			{
-				text: 'Não', handler: () => { }
-			}
-		  ]
+            title: 'Atenção!',
+            message: 'Deseja realmente apagar '+this.bank.name+' ?',
+            buttons: 
+            [
+                {
+                    text: 'Sim',
+                    handler: () => {
+                        this.deleteBank(this.bank.db_id);
+                    }
+                },
+                { text: 'Não', handler: () => { } }
+            ]
 		});
 		confirm.present();
 	}
 	
     deleteBank(id: number) {
-		this._bankService.deleteBank(id).subscribe(response =>{
+		this._bankService.deleteBank(id).subscribe(response => {
 			this.message = response;
 			if(this.message != null) {
                 this.messageToast();
@@ -88,7 +106,6 @@ export class BankDetail {
 			duration: 2000,
 			position: 'middle'
 		});
-		toast.present();
+        toast.present();
     }
-    
 }

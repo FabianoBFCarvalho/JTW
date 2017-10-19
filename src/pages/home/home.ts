@@ -1,7 +1,8 @@
-import { Component }        				from '@angular/core';
-import { NavController, ToastController } 	from 'ionic-angular';
-import { AuthenticationService }		 	from '../../sevice/authenticationService';
-import { BankPage } 						from '../bank/bankPage';
+import { Component }        						from '@angular/core';
+import { NavController, ToastController,
+		 LoadingController } 						from 'ionic-angular';
+import { AuthenticationService }				 	from '../../sevice/authenticationService';
+import { BankPage } 								from '../bank/bankPage';
 
 @Component({
   selector: 'page-home',
@@ -10,23 +11,23 @@ import { BankPage } 						from '../bank/bankPage';
 export class HomePage {
 
 	constructor(
-	  public navCtrl: NavController,
-	  private _authentication: AuthenticationService,
-	  private toastCtrl: ToastController
+		public navCtrl: NavController,
+		private _authentication: AuthenticationService,
+		private toastCtrl: ToastController,
+		private loadingCtrl: LoadingController
 	) { }
   
 	login(email: string, password: string) {
 		let message;
 		if(email.trim() && password.trim()) {
+			this.loginLoading();
 			this._authentication.login(email.trim(),password.trim()).subscribe(res => {
 				if(res) {
 					this.navCtrl.setRoot(BankPage);
 				}
 			},
 			error => {
-				if(error == 401) {
-					message = 'Senha Invalida';
-				} else if(error == 500) {
+				if(error == 401 || error == 500) {
 					message = 'Usuario ou senha invalido';
 				} else {
 					message = 'Confire os dados novamente';
@@ -45,5 +46,13 @@ export class HomePage {
 			position: 'middle'
 		});
 		toast.present();
+	}
+
+	loginLoading() {
+		let loader = this.loadingCtrl.create({
+		  content: "Carregando...",
+		  duration: 2800
+		});
+		loader.present();
 	}
 }

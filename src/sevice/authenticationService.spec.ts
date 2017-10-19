@@ -5,13 +5,6 @@ import { MockBackend, MockConnection }          from '@angular/http/testing';
 import { AuthenticationService }                from './authenticationService';
 import { Observable }                           from "rxjs/Observable";
 
-const mockResponse =
-    { success: {
-          token: "token",
-          message: "Token successfully generated"
-        }
-    }
-
 describe('AuthenticationService test', () => {
 
     beforeEach(async(() => {
@@ -27,16 +20,17 @@ describe('AuthenticationService test', () => {
         })
     }));
 
-    it('should return getBanks()', 
+    it('should return getBanks()',
         inject([AuthenticationService,XHRBackend],(authenticationService: AuthenticationService, mockBackend: MockBackend) => {
+            const mockResponse = { success: { token: '123'} };
             mockBackend.connections.subscribe((connection: MockConnection) => {
                 connection.mockRespond(new Response(new ResponseOptions({
                     body: JSON.stringify(mockResponse)
                 })));
             });
-            authenticationService.login('teste','iquick7s@2017').subscribe(login => {
+            authenticationService.login('teste','teste').subscribe(login => {
                 (expect(login).toBe(true));
             });
         })
-    );    
+    );
 });

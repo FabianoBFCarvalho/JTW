@@ -6,16 +6,6 @@ import { BankService }                          from './bankService';
 import { Observable }                           from "rxjs/Observable";
 import { ToastController }                      from "ionic-angular";
 
-const mockResponse = {
-    success: { 
-        banks: 
-        [
-            { code: "string", name: "brasileiro", db_id: 0 },
-            { code: "string", name: "russo",db_id: 0 }
-        ]
-    }
-}
-
 describe('BankService test', () => {
 
     beforeEach(async(() => {
@@ -37,6 +27,15 @@ describe('BankService test', () => {
 
     it('should return getBanks()', 
         inject([BankService,XHRBackend],(bankService: BankService, mockBackend: MockBackend) => {
+            const mockResponse = {
+                success: { 
+                    banks: 
+                    [
+                        { code: "string", name: "brasileiro", db_id: 0 },
+                        { code: "string", name: "russo",db_id: 0 }
+                    ]
+                }
+            }
             mockBackend.connections.subscribe((connection: MockConnection) => {
                 connection.mockRespond(new Response(new ResponseOptions({
                     body: JSON.stringify(mockResponse)
@@ -50,9 +49,7 @@ describe('BankService test', () => {
 
     it('should return postBanks()', 
         inject([BankService,XHRBackend],(bankService: BankService, mockBackend: MockBackend) => {
-            const mockCreate = {
-                success: { message: "Banco Adicionado!", bank: 5 }
-            }
+            const mockCreate = { success: { message: "Banco Adicionado!", bank: 5 }};
             mockBackend.connections.subscribe((connection: MockConnection) => {
                 connection.mockRespond(new Response(new ResponseOptions({
                     body: JSON.stringify(mockCreate)
@@ -82,16 +79,14 @@ describe('BankService test', () => {
 
     it('should return deleteBank()',
         inject([BankService,XHRBackend],(bankService: BankService, mockBackend: MockBackend) => {
-            const mockDelete = {
-                success: { message: "Deu certo!" }
-            }
+            const mockDelete = { success: { message: "Deletado!" } };
             mockBackend.connections.subscribe((connection: MockConnection) => {
                 connection.mockRespond(new Response(new ResponseOptions({
                     body: JSON.stringify(mockDelete)
                 })));
             });
             bankService.deleteBank(15).subscribe(post => {
-                expect(post).toBe('Deu certo!');
+                expect(post).toBe('Deletado!');
             });
         })
     );

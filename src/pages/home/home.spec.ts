@@ -8,7 +8,7 @@ import { Observable }                               from "rxjs/Observable";
 
 class serviceMock {
     login(login: string, password: string): Observable<Boolean> {
-        return new Observable<Boolean>(response => response.next(true));
+        return new Observable<Boolean>(observer => observer.next(true));
     }
 }
 
@@ -17,7 +17,10 @@ describe('Test HomePage', () => {
     let de: DebugElement;
     let comp: HomePage;
     let fixture: ComponentFixture<HomePage>;
-    let mockNavController = {push: () => {}};
+    let mockNavController = {
+        push: () => {}, 
+        setRoot() { }
+    };
 
     beforeEach(async(() => {
         

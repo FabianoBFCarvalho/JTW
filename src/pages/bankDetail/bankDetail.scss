@@ -1,6 +1,27 @@
 BankDetail {
     #page {
         background-color: rgb(255, 255, 255);
-        // text-align: center; 
+        text-align: center; 
+    }
+
+    ion-input {
+        background-color: #D6DACA;
+		color: #202019;
+    }
+    ion-list ion-item {
+		cursor: pointer;
+		position: relative;
+		left: 0;
+		background-color: #EEE;
+		margin: .5em;
+		padding: .3em 0;
+		height: 1.6em;
+		border-radius: 26px;
+    }
+    ion-card-content span {
+        font-style: italic;
+    }
+    #btnDelete {
+		font-size: 20px;
     }
 }

@@ -1,5 +1,5 @@
 import { Injectable } 										from '@angular/core';
-import { Http, Headers, RequestOptions, Response } 			from '@angular/http';
+import { Http, Headers, RequestOptions }         			from '@angular/http';
 import { Observable } 										from 'rxjs';
 
 @Injectable()
@@ -7,7 +7,7 @@ export class AuthenticationService {
 	
 	constructor( private http: Http ) { }
 	
-	login(email: string, password: string): Observable<Boolean> {    
+	login(email: string, password: string): Observable<Boolean> {
         let headers = new Headers({ 'Content-Type': 'application/json' });
         let options = new RequestOptions({ headers: headers });
         let params: JSON = JSON.parse('{}');
@@ -22,7 +22,7 @@ export class AuthenticationService {
                     observer.next(true);
                 },
                  error => {
-                     observer.error(error.status);
+                    observer.error(error.status);
                 }
             );
         });
