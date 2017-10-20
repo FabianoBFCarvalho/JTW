@@ -48,6 +48,16 @@ export class BankDetail {
 				this.message = response;
                 this.messageToast();
                 this.dismiss();
+            },
+        
+            error => {
+                if (error == 403)
+                this.message = 'Você não possui autorização para criar um banco.';
+                else 
+                this.message = 'Ocorreu um problema, consulte o suporte.';
+    
+                this.messageToast();
+                this.dismiss();  
             });
         }
         else {
@@ -79,7 +89,17 @@ export class BankDetail {
 			this.message = response;
             this.messageToast();
             this.dismiss();
-		});
+        },
+        error => {
+            if (error == 403)
+            this.message = 'Você não possui autorização para apagar';
+            else 
+            this.message = 'Ocorreu um problema, consulte o suporte.';
+
+            this.messageToast();
+            this.dismiss();
+        }
+    );
     }
 
     editBank(name: string, code: string) {
@@ -91,7 +111,13 @@ export class BankDetail {
                 this.dismiss();
             },
         error => {
-            console.log('entrou no erro');
+            if (error == 403)
+            this.message = 'Você não possui autorização para editar';
+            else 
+            this.message = 'Ocorreu um problema, consulte o suporte.';
+
+            this.messageToast();
+            this.dismiss();
         });
 		} else {
             this.message = 'Preencha todos os campos!';

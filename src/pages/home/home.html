@@ -3,34 +3,35 @@
 		<ion-row class="row">
 			<ion-col col xl-5 col-lg-6 col-md-9 col-sm-8 col-xs-4
 			offset-lg-3 offset-md-2 offset-sm-3 >
-				<ion-list>
-					<img id="imobzi-logo" 
-					src="./assets/image/logo-imobzi.svg"
-					col-xl-5 col-lg-7 col-md-5 col-sm-6 col-xs-2
-					offset-lg-3 offset-md-2 offset-sm-2 
-					>
-					<ion-item col-xl-10 col-lg-12 col-md-9 col-sm-10>
-						<ion-input type="text" 
-						placeholder="Email" 
-						#email 
-						value = "eduardo@quickfast.com" 
-						class="input">
-					</ion-input>
-					</ion-item>
-					<ion-item col-xl-10 col-lg-12 col-md-9 col-sm-10 >
-						<ion-input
-							type="password"
-							placeholder="Password"
-							#password
+				<form>
+					<ion-list>
+						<img id="imobzi-logo" 
+						src="./assets/image/logo-imobzi.svg"
+						col-xl-5 col-lg-7 col-md-5 col-sm-6 col-xs-2
+						offset-lg-3 offset-md-2 offset-sm-2>
+						<ion-item col-xl-10 col-lg-12 col-md-9 col-sm-10>
+							<ion-input type="text" 
+							placeholder="Email" 
+							#email 
+							value = "eduardo@quickfast.com" 
 							class="input">
 						</ion-input>
-					</ion-item>
-					<button ion-button
-						(click)="login(email.value, password.value)" 
-						col-xl-10 col-lg-12 col-md-9 col-sm-10 >
-							Sign In
-					</button>
-				</ion-list>
+						</ion-item>
+						<ion-item col-xl-10 col-lg-12 col-md-9 col-sm-10 >
+							<ion-input
+								type="password"
+								placeholder="Password"
+								#password
+								class="input">
+							</ion-input>
+						</ion-item>
+						<button ion-button
+							(click)="login(email.value, password.value)" 
+							col-xl-10 col-lg-12 col-md-9 col-sm-10 >
+								Sign In
+						</button>
+					</ion-list>
+				</form>
 			</ion-col>
 		</ion-row>
 	</ion-grid>
