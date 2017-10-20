@@ -1,28 +1,50 @@
 <ion-content id="page">
     <ion-grid>
         <ion-row>
-            <ion-col col-lg-6 col-md-8 col-sm-12 col-xs-12 offset-lg-3 offset-md-2>              
-                <div *ngIf="!newBank">
+            <ion-col col-lg-6 col-md-8 col-sm-12 col-xs-12 offset-lg-3 offset-md-2>
+                <div *ngIf="newBank; else editarAndDelete">
+                    <ion-input type="text" placeholder="Bank" 
+                        #bank 
+                        value={{name}}
+                        maxlength=120>                   
+                    </ion-input>
+                    <ion-input type="text" placeholder="Code"
+                        #code 
+                        value={{codigo}}
+                        maxlength=120>         
+                    </ion-input>
+                    <button ion-button 
+                        *ngIf="edit, else saveBank"
+                        (click)="editBank(bank.value, code.value)">
+                        Save
+                    </button>
+                    <ng-template #saveBank>
+                    <button ion-button
+                        (click)="postBanks(bank.value, code.value)">
+                            Add Bank
+                    </button>
+                    </ng-template>
+                </div>
+                <ng-template #editarAndDelete>
                     <ion-card> 
                         <ion-card-content>
-                            ID:  <span> {{bank.db_id}} </span>
+                            ID:  <span>{{bank.db_id}}</span>
                         </ion-card-content>
                         <ion-card-content>
-                            Nome:  <span> {{bank.name}} </span>
+                            Nome:  <span>{{bank.name}}</span>
                         </ion-card-content>
                         <ion-card-content>
-                            Código:  <span> {{bank.code}} </span>
+                            Código:  <span>{{bank.code}}</span>
                         </ion-card-content>
                     </ion-card>
-                    <button ion-button (click)="showConfirmDelete()" id="btnDelete"><ion-icon name="trash"></ion-icon></button>
-                    <button ion-button (click)="onClickBankEdit()"> Editar </button>    
-                </div>
-                <div *ngIf="newBank">
-                    <ion-input type="text" placeholder="Bank" #bank value={{name}}></ion-input>
-                    <ion-input type="text"  placeholder="Code" #code   value={{codigo}} ></ion-input>
-                    <button ion-button (click)="editBank(bank.value, code.value)" *ngIf="edit">Save</button>
-                    <button ion-button  (click)="postBanks(bank.value, code.value)" *ngIf="!edit">Add Bank</button>
-                </div>
+                    <button ion-button (click)="showConfirmDelete()" 
+                        id="btnDelete">
+                        <ion-icon name="trash"></ion-icon>
+                    </button>
+                    <button ion-button (click)="onClickBankEdit()">
+                         Editar
+                    </button>
+                </ng-template>
                 <button ion-button (click)="dismiss()">Voltar</button>
             </ion-col>
         </ion-row>

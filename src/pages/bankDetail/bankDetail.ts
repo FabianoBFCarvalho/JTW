@@ -1,7 +1,7 @@
 import { Component }                            from '@angular/core'; 
 import { Bank }                                 from '../../interface/bank';
 import { NavParams, ViewController,
-        ToastController, AlertController }      from 'ionic-angular';
+         ToastController, AlertController }     from 'ionic-angular';
 import { BankService }                          from '../../sevice/bankService';
 
 @Component({
@@ -42,14 +42,13 @@ export class BankDetail {
     }
 
     postBanks(name: string, code: string) {
-		if(name.trim() && code.trim()) {
-			this._bankService.postBanks(name, code).subscribe(response => {
+		if (name.trim() && code.trim()) {
+            this._bankService.postBanks(name, code)
+            .subscribe(response => {
 				this.message = response;
-				if(this.message != null) {
-                    this.messageToast();
-                    this.dismiss();
-				}
-			});
+                this.messageToast();
+                this.dismiss();
+            });
         }
         else {
 			this.message = 'Preencha todos os campos!';
@@ -61,8 +60,7 @@ export class BankDetail {
 		let confirm = this.alertCtrl.create({
             title: 'Atenção!',
             message: 'Deseja realmente apagar '+this.bank.name+' ?',
-            buttons: 
-            [
+            buttons: [
                 {
                     text: 'Sim',
                     handler: () => {
@@ -76,24 +74,25 @@ export class BankDetail {
 	}
 	
     deleteBank(id: number) {
-		this._bankService.deleteBank(id).subscribe(response => {
+        this._bankService.deleteBank(id)
+        .subscribe(response => {
 			this.message = response;
-			if(this.message != null) {
-                this.messageToast();
-                this.dismiss();
-			}
+            this.messageToast();
+            this.dismiss();
 		});
     }
 
     editBank(name: string, code: string) {
-		if(name.trim() && code.trim()) {
-			this._bankService.postBank(this.bank.db_id, name, code).subscribe(response => {
+		if (name.trim() && code.trim()) {
+            this._bankService.postBank(this.bank.db_id, name, code)
+            .subscribe(response => {
 				this.message = response;
-				if(this.message != null) {
-					this.messageToast();
-                    this.dismiss();
-                }
-			});
+				this.messageToast();
+                this.dismiss();
+            },
+        error => {
+            console.log('entrou no erro');
+        });
 		} else {
             this.message = 'Preencha todos os campos!';
             this.messageToast();

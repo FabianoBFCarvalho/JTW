@@ -1,14 +1,17 @@
 
-import { Injectable }                                       from '@angular/core';
-import { Http, Headers, RequestOptions }                    from '@angular/http';
-import { Observable }                                       from 'rxjs';
-import { Bank }                                             from '../interface/bank';
+import { Injectable }                                from '@angular/core';
+import { Http, Headers, RequestOptions }             from '@angular/http';
+import { Observable }                                from 'rxjs';
+import { Bank }                                      from '../interface/bank';
 
 @Injectable()
 export class BankService {
 
 	private urlBanks = 'http://api.imobzi.com/v1/banks';
-	private headers = new Headers({ 'Content-Type': 'application/json', 'Authorization': localStorage.getItem('token')});
+    private headers = new Headers({ 
+        'Content-Type': 'application/json',
+        'Authorization': localStorage.getItem('token')
+    });
 	private options = new RequestOptions({ headers: this.headers });
 	
     constructor( private http: Http ) { }
@@ -24,8 +27,9 @@ export class BankService {
 
     postBanks(name: string, code: string): Observable<string> {
         return new Observable(observer => {
-            let body = JSON.stringify({name: name.trim(), code: code.trim()});          
-            this.http.post(this.urlBanks, body, this.options).subscribe(response => {
+            let body = JSON.stringify({name: name.trim(), code: code.trim()});         
+            this.http.post(this.urlBanks, body, this.options)
+            .subscribe(response => {
                 observer.next(response.json().success.message);
             });
         });
@@ -34,7 +38,7 @@ export class BankService {
     postBank(id: number, name: string, code: string): Observable<string> {
         const url = `${'http://api.imobzi.com/v1/bank'}/${id}`; 
         return new Observable(observer => {
-            let body = JSON.stringify({name: name.trim(), code: code.trim()});          
+            let body = JSON.stringify({name: name.trim(), code: code.trim()});         
             this.http.post(url, body, this.options).subscribe(response => {
                 observer.next(response.json().success.message);
             });

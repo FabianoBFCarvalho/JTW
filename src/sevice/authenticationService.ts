@@ -18,7 +18,8 @@ export class AuthenticationService {
             const loginUrl = 'http://api.imobzi.com/v1/login';
             this.http.post(loginUrl, JSON.stringify(params), options).subscribe(
                 response => {
-                    localStorage.setItem('token', response.json().success.token);
+                    localStorage.setItem('token',
+                    response.json().success.token);
                     observer.next(true);
                 },
                  error => {
@@ -26,5 +27,9 @@ export class AuthenticationService {
                 }
             );
         });
+    }
+
+    logout() {
+        localStorage.removeItem('token');
     }
 }

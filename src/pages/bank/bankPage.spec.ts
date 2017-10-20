@@ -3,24 +3,11 @@ import { DebugElement }                             from "@angular/core";
 import { IonicModule, NavController, 
          ToastController }                          from "ionic-angular";
 import { By }                                       from "@angular/platform-browser";
-
-import { BankPage}                                  from "./bankPage";
+import { BankPage }                                 from "./bankPage";
 import { BankService }                              from "../../sevice/bankService";
 import { Bank }                                     from "../../interface/bank";
-import { ServiceMock }                              from "../../mock/serviceMock";
-
- class ToastMock {
-     
-    create() {
-       return new ToastMock;
-    }
-
-    present(): Promise<any> {
-        return new Promise((resolve: Function) => {
-            resolve();
-        });
-    }
-}
+import { ToastMock }                                from "../../mock/toastMock";
+import { BankServiceMock }                          from "../../mock/bankServiceMock";
 
 describe('Test BankPage', () => {
 
@@ -33,11 +20,13 @@ describe('Test BankPage', () => {
             imports: [
                 IonicModule.forRoot(BankPage),
             ],
-            declarations: [BankPage],
+            declarations: [
+                BankPage
+            ],
             providers: [
                 {
                     provide: BankService,
-                    useClass: ServiceMock
+                    useClass: BankServiceMock
                 },
                 {
                     provide: ToastController,

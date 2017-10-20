@@ -33,16 +33,19 @@ export class BankPage {
 	}
 
 	presentBankDeitalModal(newBank: boolean) {
-		let bankModal = this.modalCtrl.create(BankDetail, {bankSelected: this.selectedBank, newBank: newBank});
+		let bankModal = this.modalCtrl.create(BankDetail, {
+			bankSelected: this.selectedBank, 
+			newBank: newBank
+		});
 		bankModal.present();
 		bankModal.onWillDismiss(() => this.getBanks());
 	}
 
-	searchBanks(nameBank: any) {
-		let nameSearch = nameBank.target.value;
-		if (nameSearch && nameSearch.trim() != '') {
-			this.banks = this.banks.filter( bank => {
-			return (bank.name.toLowerCase().indexOf(nameSearch.toLowerCase()) > -1);
+	searchBanks(inputSearch: any) {
+		let bankName = inputSearch.target.value;
+		if (bankName && bankName.trim() != '') {
+			this.banks = this.banks.filter(bank => {
+				return (bank.name.toLowerCase().indexOf(bankName.toLowerCase()) > -1);
 			});
 		}
 		else {
@@ -50,4 +53,3 @@ export class BankPage {
 		}
 	}
 }
-

@@ -5,15 +5,13 @@ import { IonicModule, NavController,
          ToastController, NavParams,
          ViewController, AlertController}           from "ionic-angular";
 import { By }                                       from "@angular/platform-browser";
-
 import { BankDetail }                               from "./bankDetail";
 import { Bank }                                     from "../../interface/bank";
 import { BankService }                              from "../../sevice/bankService";
-
-import { ServiceMock }                              from "../../mock/serviceMock";
+import { BankServiceMock }                          from "../../mock/bankServiceMock";
 import { ViewControllerMock }                       from '../../mock/viewControllerMock';
 import { ToastMock }                                from '../../mock/toastMock';
-import {NavParamsMock }                             from '../../mock/navParamsMock';
+import { NavParamsMock }                            from '../../mock/navParamsMock';
 
 describe('Test BankDetail', () => {
 
@@ -26,11 +24,13 @@ describe('Test BankDetail', () => {
             imports: [
                 IonicModule.forRoot(BankDetail),
             ],
-            declarations: [BankDetail],
+            declarations: [
+                BankDetail
+            ],
             providers: [
                 {
                     provide: BankService,
-                    useClass: ServiceMock
+                    useClass: BankServiceMock
                 },
                 {
                     provide: ToastController,
@@ -45,8 +45,7 @@ describe('Test BankDetail', () => {
                     useClass: ViewControllerMock
                 }
             ]
-        })
-        .compileComponents();
+        }).compileComponents();
     }));
 
     beforeEach(() => {
@@ -58,13 +57,16 @@ describe('Test BankDetail', () => {
     it('should creat BankDetail', () => expect(comp).toBeDefined());
 
     it('test postBanks()', () => {
-        comp.postBanks('teste','teste');
-        fixture.detectChanges();
+        comp.postBanks('Banco de Teste','123');
         expect(comp.message).toBe('Banco adicionado');
+    });
+
+    it('test postBank empty', () => {
+        comp.postBanks('','');
+        expect(comp.message).toBe('Preencha todos os campos!');
     });
     
     it('test deleteBank()', () => {
-        fixture.detectChanges();
         comp.deleteBank(2);
         expect(comp.message).toBe('Banco deletado');
     });
@@ -72,5 +74,17 @@ describe('Test BankDetail', () => {
     it('test editBank()', () => {
         comp.editBank('teste','teste');
         expect(comp.message).toBe('Banco atualizado');
+    });
+
+    it('test editBank with field empty', () => {
+        comp.editBank('  ','  ');
+        expect(comp.message).toBe('Preencha todos os campos!');
+    });
+
+    it('should detail bank', () => {
+        comp.bank =  { code: "31", name: "Banco 2", db_id: 3 };
+        fixture.detectChanges();
+        expect(fixture.debugElement.queryAll(By.css('ion-card-content span'))[1]
+        .nativeElement.innerText).toBe('Banco 2');
     });
 });

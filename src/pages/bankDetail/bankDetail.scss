@@ -8,6 +8,7 @@ BankDetail {
         background-color: #D6DACA;
 		color: #202019;
     }
+
     ion-list ion-item {
 		cursor: pointer;
 		position: relative;
@@ -18,9 +19,11 @@ BankDetail {
 		height: 1.6em;
 		border-radius: 26px;
     }
+
     ion-card-content span {
         font-style: italic;
     }
+    
     #btnDelete {
 		font-size: 20px;
     }

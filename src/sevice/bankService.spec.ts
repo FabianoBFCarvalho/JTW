@@ -8,6 +8,14 @@ import { ToastController }                      from "ionic-angular";
 
 describe('BankService test', () => {
 
+    let backEnd = (mockBackend,mockResponse) => {
+        mockBackend.connections.subscribe((connection: MockConnection) => {
+            connection.mockRespond(new Response(new ResponseOptions({
+                body: JSON.stringify(mockResponse)
+            })));
+        });
+    }
+
     beforeEach(async(() => {
         TestBed.configureTestingModule({
             imports: [ HttpModule],
@@ -16,75 +24,56 @@ describe('BankService test', () => {
                 {
                     provide: XHRBackend,
                     useClass: MockBackend
-                },
-                {
-                    provide: ToastController,
-                    useValue: 'fake'
                 }
             ]
         })
     }));
 
     it('should return getBanks()', 
-        inject([BankService,XHRBackend],(bankService: BankService, mockBackend: MockBackend) => {
+        inject([BankService,XHRBackend],
+            (bankService: BankService, mockBackend: MockBackend) => {
             const mockResponse = {
                 success: { 
-                    banks: 
-                    [
+                    banks: [
                         { code: "string", name: "brasileiro", db_id: 0 },
                         { code: "string", name: "russo",db_id: 0 }
                     ]
                 }
             }
-            mockBackend.connections.subscribe((connection: MockConnection) => {
-                connection.mockRespond(new Response(new ResponseOptions({
-                    body: JSON.stringify(mockResponse)
-                })));
-            });
+          backEnd(mockBackend,mockResponse);
             bankService.getBanks().subscribe(banks => {
-                (expect(banks[0].name).toBe('brasileiro'));
+                expect(banks[0].name).toBe('brasileiro');
             });
         })
     );
 
     it('should return postBanks()', 
-        inject([BankService,XHRBackend],(bankService: BankService, mockBackend: MockBackend) => {
-            const mockCreate = { success: { message: "Banco Adicionado!", bank: 5 }};
-            mockBackend.connections.subscribe((connection: MockConnection) => {
-                connection.mockRespond(new Response(new ResponseOptions({
-                    body: JSON.stringify(mockCreate)
-                })));
-            });
-            bankService.postBanks('nome','code').subscribe(post => {
+        inject([BankService,XHRBackend],
+            (bankService: BankService, mockBackend: MockBackend) => {
+            const mockResponse = { success: { message: "Banco Adicionado!" }};
+            backEnd(mockBackend,mockResponse);
+            bankService.postBanks('name','code').subscribe(post => {
                 expect(post).toBe('Banco Adicionado!');
             });
         })
     );
 
     it('should return EditBank()',
-        inject([BankService,XHRBackend],(bankService: BankService, mockBackend: MockBackend) => {
-            const mockUpdate = {
-                success: { message: "Atualizado!", bank: 5 }
-            }
-            mockBackend.connections.subscribe((connection: MockConnection) => {
-                connection.mockRespond(new Response(new ResponseOptions({
-                    body: JSON.stringify(mockUpdate)
-                })));
-            });
-            bankService.postBank(1,'nome','code').subscribe(post => {
+        inject([BankService,XHRBackend],
+            (bankService: BankService, mockBackend: MockBackend) => {
+            const mockResponse = { success: { message: "Atualizado!" }};
+            backEnd(mockBackend,mockResponse);
+            bankService.postBank(1,'name','code').subscribe(post => {
                 expect(post).toBe('Atualizado!');
             });
         })
     );
 
     it('should return deleteBank()',
-        inject([BankService,XHRBackend],(bankService: BankService, mockBackend: MockBackend) => {
-            const mockDelete = { success: { message: "Deletado!" } };
-            mockBackend.connections.subscribe((connection: MockConnection) => {
-                connection.mockRespond(new Response(new ResponseOptions({
-                    body: JSON.stringify(mockDelete)
-                })));
-            });
+        inject([BankService,XHRBackend],
+            (bankService: BankService, mockBackend: MockBackend) => {
+            const mockResponse = { success: { message: "Deletado!" }};
+            backEnd(mockBackend,mockResponse);
             bankService.deleteBank(15).subscribe(post => {
                 expect(post).toBe('Deletado!');
             });
