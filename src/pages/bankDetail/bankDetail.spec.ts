@@ -67,7 +67,7 @@ describe('Test BankDetail', () => {
     });
     
     it('test deleteBank()', () => {
-        comp.deleteBank(2);
+        comp.deleteBank(1);
         expect(comp.message).toBe('Banco deletado');
     });
     
@@ -87,4 +87,20 @@ describe('Test BankDetail', () => {
         expect(fixture.debugElement.queryAll(By.css('ion-card-content span'))[1]
         .nativeElement.innerText).toBe('Banco 2');
     });
+
+    it('permission test to delete', () => {
+        comp.deleteBank(2);
+        expect(comp.message).toBe('Você não possue autorização para esta ação!');
+    });
+
+    it('permission test to add Bank', () => {
+        comp.postBanks('Banco 2','123');
+        expect(comp.message).toBe('Você não possue autorização para esta ação!');
+    });
+
+    it('permission test to edit Bank', () => {
+        comp.editBank('Banco 2','123');
+        expect(comp.message).toBe('Você não possue autorização para esta ação!');
+    });
+
 });

@@ -52,10 +52,7 @@ export class BankDetail {
         
             error => {
                 if (error == 403)
-                this.message = 'Você não possui autorização para criar um banco.';
-                else 
-                this.message = 'Ocorreu um problema, consulte o suporte.';
-    
+                this.messageError(error);
                 this.messageToast();
                 this.dismiss();  
             });
@@ -91,40 +88,40 @@ export class BankDetail {
             this.dismiss();
         },
         error => {
-            if (error == 403)
-            this.message = 'Você não possui autorização para apagar';
-            else 
-            this.message = 'Ocorreu um problema, consulte o suporte.';
-
+            this.messageError(error);
             this.messageToast();
             this.dismiss();
-        }
-    );
+        });
     }
 
     editBank(name: string, code: string) {
 		if (name.trim() && code.trim()) {
-            this._bankService.postBank(this.bank.db_id, name, code)
-            .subscribe(response => {
-				this.message = response;
-				this.messageToast();
-                this.dismiss();
-            },
-        error => {
-            if (error == 403)
-            this.message = 'Você não possui autorização para editar';
-            else 
-            this.message = 'Ocorreu um problema, consulte o suporte.';
-
-            this.messageToast();
-            this.dismiss();
-        });
-		} else {
+            this._bankService.postBank(
+                this.bank.db_id, name, code).subscribe(
+                response => {this.message = response;
+                    this.messageToast();
+                    this.dismiss();
+                },
+                error => {
+                    this.messageError(error);
+                    this.messageToast();
+                    this.dismiss();
+                }
+            );
+        } 
+        else {
             this.message = 'Preencha todos os campos!';
             this.messageToast();
         }
     }
     
+    messageError(error) {
+        if (error == 403)
+            this.message = 'Você não possue autorização para esta ação!'
+        else 
+            this.message = 'Ocorreu um problema, consulte o suporte.'
+    }
+
     messageToast() {
 		const toast = this.toastCtrl.create({
 			message: this.message,

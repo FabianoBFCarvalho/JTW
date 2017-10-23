@@ -14,19 +14,28 @@ export class BankServiceMock {
 
     postBanks(name: string, code: string): Observable<string> {
         return new Observable(observer => {
-             observer.next('Banco adicionado');
+            if(name == 'Banco 2')
+                observer.error(403)
+            else
+                observer.next('Banco adicionado');
         });
     }
 
     postBank(id: number, name: string, code: string):Observable<string> {
         return new Observable(observer => {
-            observer.next('Banco atualizado');
+            if(name == 'Banco 2')
+                observer.error(403);
+            else
+                observer.next('Banco atualizado');
         });
     }
 
     deleteBank(id: number):Observable<string> {
         return new Observable(observer => {
-            observer.next('Banco deletado');
+            if (id == 2)
+                observer.error(403);
+            else
+                observer.next('Banco deletado');
         });
     }
 }
