@@ -18,10 +18,14 @@ export class BankService {
 
 	getBanks(): Observable<Bank[]> {
         return new Observable<Bank[]>(observer => {
-            this.http.get(this.urlBanks, this.options)
-            .subscribe( response => {
-                observer.next(response.json().success.banks);
-            });
+            this.http.get(this.urlBanks, this.options).subscribe(
+                response => {
+                    observer.next(response.json().success.banks);
+                },
+                erro => {
+                    
+                }
+            );
         });
     }
 

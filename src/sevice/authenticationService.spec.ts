@@ -33,10 +33,9 @@ describe('AuthenticationService test', () => {
                     body: JSON.stringify(mockResponse)
                 })));
             });
-            authenticationService.login('teste','teste')
-            .subscribe(login => {
-                (expect(login).toBe(true));
-            });
+            authenticationService.login('teste', 'teste').subscribe(
+                login => (expect(login).toBe(true))
+            );
         })
     );
 
