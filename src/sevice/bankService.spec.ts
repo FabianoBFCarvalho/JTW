@@ -36,11 +36,11 @@ describe('BankService test', () => {
                 success: { 
                     banks: [
                         { code: "string", name: "brasileiro", db_id: 0 },
-                        { code: "string", name: "russo",db_id: 0 }
+                        { code: "string", name: "russo", db_id: 0 }
                     ]
                 }
             }
-          backEnd(mockBackend,mockResponse);
+            backEnd(mockBackend, mockResponse);
             bankService.getBanks().subscribe(banks => {
                 expect(banks[0].name).toBe('brasileiro');
             });

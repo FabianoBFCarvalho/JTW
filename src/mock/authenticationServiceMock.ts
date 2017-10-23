@@ -7,6 +7,7 @@ export class AuthenticationServiceMock {
         else
             return new Observable<Boolean>(observer => observer.error(500));
     }
+
     logout() {
         return { }
     }
