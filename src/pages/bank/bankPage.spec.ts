@@ -50,4 +50,11 @@ describe('Test BankPage', () => {
         expect(de.nativeElement.innerText).toBe('brasileiro');
     });
 
+    it('test searchBanks()', () => {
+        comp.searchBanks('ru');
+        fixture.detectChanges();
+        de = fixture.debugElement.query(By.css('p'));
+        expect(de.nativeElement.innerText).toBe('russo');
+    });
+
 });

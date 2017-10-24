@@ -42,7 +42,8 @@ export class BankPage {
 	}
 
 	searchBanks(inputSearch: any) {
-		let bankName = inputSearch.target.value;
+		let bankName = inputSearch;
+		console.log(bankName);
 		if (bankName && bankName.trim() != '') {
 			this.banks = this.banks.filter(bank => {
 				return (bank.name.toLowerCase().indexOf(
