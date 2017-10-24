@@ -23,7 +23,10 @@ export class AuthenticationService {
                     observer.next(true);
                 },
                  error => {
-                    observer.error(error.status);
+                    if (error.status == 401 || error.status == 500)             
+                        observer.error('Usuario ou senha invalido');
+                    else
+                        observer.error('Verifique a sua conexão!');
                 }
             );
         });

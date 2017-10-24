@@ -2,7 +2,7 @@ import { Component }                            from '@angular/core';
 import { Bank }                                 from '../../interface/bank';
 import { NavParams, ViewController,
          ToastController, AlertController }     from 'ionic-angular';
-import { BankService }                          from '../../sevice/bankService';
+import { BankService }                          from '../../service/bankService';
 
 @Component({
     selector: 'bankDetail',
@@ -43,19 +43,17 @@ export class BankDetail {
 
     postBanks(name: string, code: string) {
 		if (name.trim() && code.trim()) {
-            this._bankService.postBanks(name, code)
-            .subscribe(response => {
+            this._bankService.postBanks(name, code).subscribe(
+                response => {
 				this.message = response;
                 this.messageToast();
                 this.dismiss();
-            },
-        
-            error => {
-                if (error == 403)
-                this.messageError(error);
-                this.messageToast();
-                this.dismiss();  
-            });
+                },
+                error => {
+                    this.message = error;
+                    this.messageToast();
+                    this.dismiss();  
+                });
         }
         else {
 			this.message = 'Preencha todos os campos!';
@@ -81,17 +79,17 @@ export class BankDetail {
 	}
 	
     deleteBank(id: number) {
-        this._bankService.deleteBank(id)
-        .subscribe(response => {
-			this.message = response;
-            this.messageToast();
-            this.dismiss();
-        },
-        error => {
-            this.messageError(error);
-            this.messageToast();
-            this.dismiss();
-        });
+        this._bankService.deleteBank(id).subscribe(
+            response => {
+                this.message = response;
+                this.messageToast();
+                this.dismiss();
+            },
+            error => {
+                this.message = error;
+                this.messageToast();
+                this.dismiss();
+            });
     }
 
     editBank(name: string, code: string) {
@@ -103,7 +101,7 @@ export class BankDetail {
                     this.dismiss();
                 },
                 error => {
-                    this.messageError(error);
+                    this.message = error;
                     this.messageToast();
                     this.dismiss();
                 }
@@ -115,13 +113,6 @@ export class BankDetail {
         }
     }
     
-    messageError(error) {
-        if (error == 403)
-            this.message = 'Você não possue autorização para esta ação!'
-        else 
-            this.message = 'Ocorreu um problema, consulte o suporte.'
-    }
-
     messageToast() {
 		const toast = this.toastCtrl.create({
 			message: this.message,

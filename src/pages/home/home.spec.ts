@@ -4,7 +4,7 @@ import { IonicModule, NavController,
          ToastController, LoadingController }       from "ionic-angular";
 import { By }                                       from "@angular/platform-browser";
 import { HomePage}                                  from "./home";
-import { AuthenticationService }                    from "../../sevice/authenticationService";
+import { AuthenticationService }                    from "../../service/authenticationService";
 import { MockNavController }                        from "../../mock/mockNavController";
 import { ToastMock }                                from '../../mock/toastMock';
 import { AuthenticationServiceMock }                from '../../mock/authenticationServiceMock';

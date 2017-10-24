@@ -9,7 +9,7 @@ describe('AuthenticationService test', () => {
 
     beforeEach(async(() => {
         TestBed.configureTestingModule({
-            imports: [ 
+            imports: [
                 HttpModule
              ],
             providers: [
@@ -26,23 +26,23 @@ describe('AuthenticationService test', () => {
         inject([AuthenticationService,XHRBackend],
         (authenticationService: AuthenticationService,
         mockBackend: MockBackend) => {
-            const mockResponse = { success: { token: '123'} };
-            mockBackend.connections
-            .subscribe((connection: MockConnection) => {
-                connection.mockRespond(new Response(new ResponseOptions({
-                    body: JSON.stringify(mockResponse)
-                })));
+            const mockResponse = { success: { token: '123'}};
+            mockBackend.connections .subscribe(
+                (connection: MockConnection) => {
+                    connection.mockRespond(new Response(new ResponseOptions({
+                        body: JSON.stringify(mockResponse)
+                    })));
             });
             authenticationService.login('teste','teste')
             .subscribe(login => {
-                (expect(login).toBe(true));
+                expect(login).toBe(true);
             });
         })
     );
 
     it('should test logout()', 
         inject([AuthenticationService],
-            (authenticationService: AuthenticationService ) => {
+            (authenticationService: AuthenticationService) => {
             localStorage.setItem('token','2');
             authenticationService.logout();
             expect(localStorage.getItem('token')).toBeNull();

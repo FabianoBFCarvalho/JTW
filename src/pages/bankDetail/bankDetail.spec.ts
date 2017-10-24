@@ -7,7 +7,7 @@ import { IonicModule, NavController,
 import { By }                                       from "@angular/platform-browser";
 import { BankDetail }                               from "./bankDetail";
 import { Bank }                                     from "../../interface/bank";
-import { BankService }                              from "../../sevice/bankService";
+import { BankService }                              from "../../service/bankService";
 import { BankServiceMock }                          from "../../mock/bankServiceMock";
 import { ViewControllerMock }                       from '../../mock/viewControllerMock';
 import { ToastMock }                                from '../../mock/toastMock';

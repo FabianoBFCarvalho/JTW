@@ -9,8 +9,8 @@ import { MyApp }                                  from './app.component';
 import { HomePage }                               from '../pages/home/home';
 import { BankPage }                               from '../pages/bank/bankPage';
 import { BankDetail } 							  from '../pages/bankDetail/bankDetail';
-import { BankService }                            from '../sevice/bankService';
-import { AuthenticationService }                  from '../sevice/authenticationService';
+import { BankService }                            from '../service/bankService';
+import { AuthenticationService }                  from '../service/authenticationService';
 
 @NgModule({
 	declarations: [

@@ -1,5 +1,5 @@
 import { Component } 								from '@angular/core';
-import { BankService } 								from '../../sevice/bankService';
+import { BankService } 								from '../../service/bankService';
 import { Bank } 									from '../../interface/bank';
 import { ModalController }			 				from 'ionic-angular';
 import { BankDetail } 								from '../bankDetail/bankDetail';
@@ -45,7 +45,8 @@ export class BankPage {
 		let bankName = inputSearch.target.value;
 		if (bankName && bankName.trim() != '') {
 			this.banks = this.banks.filter(bank => {
-				return (bank.name.toLowerCase().indexOf(bankName.toLowerCase()) > -1);
+				return (bank.name.toLowerCase().indexOf(
+					bankName.toLowerCase()) > -1);
 			});
 		}
 		else {
