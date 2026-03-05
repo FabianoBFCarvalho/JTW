@@ -3,7 +3,7 @@
     "id": "ent-01",
     "title": "A Bíblia é a palavra de Deus",
     "composer": "Paulo Roberto",
-    "lyrics": "A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo\n\nDeus é bom, nos ensina a viver\nNos revela o caminho a seguir\nSó no amor, partilhando seus dons\nSua presença iremos sentir\n\nA Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo\n\nSomos povo, o povo de Deus\nE formamos o reino de irmãos\nE a palavra que é viva nos guia\nE alimenta a nossa união\n\nA Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo",
+    "lyrics": "<b>A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>\n\nDeus é bom, nos ensina a viver\nNos revela o caminho a seguir\nSó no amor, partilhando seus dons\nSua presença iremos sentir\n\n<b>A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>\n\nSomos povo, o povo de Deus\nE formamos o reino de irmãos\nE a palavra que é viva nos guia\nE alimenta a nossa união\n\nA <b>Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>",
     "celebrationTypeIds": ["missa"],
     "momentIds": ["entrada", "final"],
     "liturgicalSeasons": ["tempoComum"]
