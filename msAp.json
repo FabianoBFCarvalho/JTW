@@ -1,11 +1,871 @@
 [
+    {
+        "id": "ent-01",
+        "title": "A Bíblia é a palavra de Deus",
+        "composer": "Paulo Roberto",
+        "lyrics": "<b>A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>\n\nDeus é bom, nos ensina a viver\nNos revela o caminho a seguir\nSó no amor, partilhando seus dons\nSua presença iremos sentir\n\n<b>A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>\n\nSomos povo, o povo de Deus\nE formamos o reino de irmãos\nE a palavra que é viva nos guia\nE alimenta a nossa união\n\nA <b>Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>",
+        "momentIds": [
+            "entrada",
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
   {
-    "id": "ent-01",
-    "title": "A Bíblia é a palavra de Deus",
-    "composer": "Paulo Roberto",
-    "lyrics": "<b>A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>\n\nDeus é bom, nos ensina a viver\nNos revela o caminho a seguir\nSó no amor, partilhando seus dons\nSua presença iremos sentir\n\n<b>A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>\n\nSomos povo, o povo de Deus\nE formamos o reino de irmãos\nE a palavra que é viva nos guia\nE alimenta a nossa união\n\nA <b>Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>",
-    "celebrationTypeIds": ["missa"],
-    "momentIds": ["entrada", "final"],
-    "liturgicalSeasons": ["tempoComum"]
-  }
+        "id": "ent-0b1251eb",
+        "title": "Ressucitou",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Novo dia surgiu\nE o povo que andava nas trevas viu\nUma intensa luz, teu clarão\nTua glória a resplandecer\nNovo povo a trilhar\nUm caminho aberto por tuas mãos\nObra nova enfim\nJá podemos ver, nova criação\nSomos nós este povo alcançado por tua luz\nFruto da tua obra na cruz\n\nO Senhor, nosso Deus\nQue merece o louvor, todo nosso amor\nÉ o Rei que venceu\nAo Cordeiro a vitória, o poder, honra e glória\n\nO Senhor, nosso Deus\nQue merece o louvor, todo nosso amor\nÉ o Rei que venceu\nAo Cordeiro a vitória, o poder, honra e glória\nRessuscitou\nRessuscitou\n\nUm só povo, um só corpo, um só canto pra Teu louvor\nTua Igreja, tua esposa celebra o Teu amor\nSoberano\nMajestoso\nGlorioso\nVencedor!\nTodos juntos\nPovo em festa\nNum banquete que não findará\n\nO Senhor, nosso Deus\nQue merece o louvor, todo nosso amor\nÉ o Rei que venceu\nAo Cordeiro a vitória, o poder, honra e glória\n\nO Senhor, nosso Deus\nQue merece o louvor, todo nosso amor\nÉ o Rei que venceu\nAo Cordeiro a vitória, o poder, honra e glória\nRessuscitou!\nRessuscitou!\n\nUm só povo, um só corpo, um só canto pra Teu louvor\n(Teu louvor)\nTua Igreja, tua esposa celebra o Teu amor\n(Teu amor)\nSoberano!\nMajestoso!\nGlorioso!\nVencedor!\nTodos juntos\nPovo em festa\nNum banquete que não findará\n(Que não findará)\n\nO Senhor, nosso Deus\nQue merece o louvor, todo nosso amor\nÉ o Rei que venceu\nAo Cordeiro a vitória, o poder, honra e glória\n\nO Senhor, nosso Deus\nQue merece o louvor, todo nosso amor\nÉ o Rei que venceu\nAo Cordeiro a vitória, o poder, honra e glória\n\nRessuscitou!\n(Ressuscitou, ressuscitou, ressuscitou)\nRessuscitou!\n(Ressuscitou, ressuscitou, ressuscitou)",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "entrada",
+            "final"
+        ],
+        "liturgicalSeasons": [
+            "pascoa"
+        ]
+    },
+      {
+    "id": "glo-3fe1fb9a",
+    "title": "Glória Salvista",
+    "composer": "Ministério Salvista",
+    "lyrics": "Glória a Deus nas alturas\nE paz na terra aos homens por Ele amados\nGlória a Deus nas alturas\nE paz na terra aos homens por Ele amados\n\nSenhor Deus, Rei dos céus, Deus Pai todo poderoso\nNós vos louvamos Nós vos bendizemos\nNós vos adoramos Nós vos glorificamos\nNós vos damos graças, por vossa imensa glória\nNós vos damos graças, por vossa imensa glória\nSenhor, Jesus Cristo, Filho unigênito\nSenhor Deus, cordeiro de Deus, filho de Deus Pai\n\nVós que tirais o pecado do mundo, tende piedade de nós\nVós que tirais o pecado do mundo, acolhei a nossa súplica\nVós que estais à direita do Pai Tende piedade de nós\nMas Vós que estais à direita do Pai Tende, tende piedade de nós\nSó vós sois Santo só vós o Senhor, só vós o Altíssimo, Jesus Cristo\nCom Espírito Santo\n\nNa glória de Deus Pai\nNa glória de Deus Pai\nNa glória de Deus Pai\nAmém",
+    "celebrationTypeIds": [
+        "missa"
+    ],
+    "momentIds": [
+        "gloria"
+    ],
+    "liturgicalSeasons": [
+        "natal",
+        "pascoa",
+        "tempoComum"
+    ]
+},
+    {
+        "id": "fin-82abace4",
+        "title": "Oração pela Familia",
+        "composer": "Padre Zezinho",
+        "lyrics": "Que nenhuma família comece em qualquer de repente\nQue nenhuma família termine por falta de amor\nQue o casal seja um para o outro de corpo e de mente\nE que nada no mundo separe um casal sonhador!\n\nQue nenhuma família se abrigue debaixo da ponte\nQue ninguém interfira no lar e na vida dos dois\nQue ninguém os obrigue a viver sem nenhum horizonte\nQue eles vivam do ontem, do hoje em função de um depois\n\nQue a família comece e termine sabendo onde vai\nE que o homem carregue nos ombros a graça de um pai\nQue a mulher seja um céu de ternura, aconchego e calor\nE que os filhos conheçam a força que brota do amor!\n\nAbençoa, Senhor, as famílias! Amém!\nAbençoa, Senhor, a minha também\n\nAbençoa, Senhor, as famílias! Amém!\nAbençoa, Senhor, a minha também\n\nQue marido e mulher tenham força de amar sem medida\nQue ninguém vá dormir sem pedir ou sem dar seu perdão\nQue as crianças aprendam no colo, o sentido da vida\nQue a família celebre a partilha do abraço e do pão!\n\nQue marido e mulher não se traiam, nem traiam seus filhos\nQue o ciúme não mate a certeza do amor entre os dois\nQue no seu firmamento a estrela que tem maior brilho\nSeja a firme esperança de um céu aqui mesmo e depois\n\nQue a família comece e termine sabendo onde vai\nE que o homem carregue nos ombros a graça de um pai\nQue a mulher seja um céu de ternura, aconchego e calor\nE que os filhos conheçam a força que brota do amor!\n\nAbençoa, Senhor, as famílias! Amém!\nAbençoa, Senhor, a minha também\n\nAbençoa, Senhor, as famílias! Amém!\nAbençoa, Senhor, a minha também",
+        "momentIds": [
+            "final",
+            "casamento-pais",
+            "casamento-saida"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cas-3471ecd9",
+        "title": "Tua Familia",
+        "composer": "Anjos de Resgate",
+        "lyrics": "Percebe E entende que os melhores amigos\nSão aqueles que estão em casa\nEsperando por ti\n\nAcredita\nNos momentos mais difíceis da vida\nEles sempre estarão por perto\nPois só sabem te amar\n\nE se por acaso a dor chegar\nAo teu lado vão estar\nPra te acolher e te amparar\nPois não há nada como um lar\n\nTua família Volta pra ela\nTua família Te ama e te espera\nPara ao teu lado sempre estar\n\nTua família Volta pra ela\nTua família Te ama e te espera\nPara ao teu lado sempre estar\nTua família\n\nÀs vezes\nMuitas pedras surgem pelo caminho\nMas em casa, alguém feliz te espera\nPra te amar\n\nNão, não deixe\nQue a fraqueza tire a tua visão\nQue um desejo engane o teu coração\nSó Deus não é ilusão\n\nE se por acaso a dor chegar\nAo teu lado vão estar\nPra te acolher e te amparar\nPois não há nada como o lar\n\nTua família Volta pra ela\nTua família Te ama e te espera\nPara ao teu lado sempre estar\n\nTua família Volta pra ela\nTua família Te ama e te espera\nPara ao teu lado sempre estar\nTua família\n\nTua família\nNossa família",
+        "momentIds": [
+            "casamento-pais"
+        ],
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "ent-f3d64e7d",
+        "title": "Sagrada Familia",
+        "composer": "Padre Robson",
+        "lyrics": "Dos presentes que o Senhor já te deu\nTua família é\nUm dos mais importantes tesouros\nPlano do amor de Deus\nE por mais que difícil estiver\nNem penses em desistir\nNão abandones a tua família precisa de ti\n\nCrê na força do amor que tudo pode mudar\nAma tua família, amor vencerá\nComo foi feliz a santa família de Nazaré\nA tua também será se tiveres fé\n\nJesus, Maria, José\nMinha família vossa é\nJesus, Maria, José\nMinha família vossa é\n\nAbençoai a minha casa\nCuidai bem dela pra mim\nVou amar minha família até o fim",
+        "momentIds": [
+            "entrada",
+            "casamento-pais"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "cas-fd4f4e18",
+        "title": "Utopia",
+        "composer": "Padre Zezinho",
+        "lyrics": "Das muitas coisas\nDo meu tempo de criança\nGuardo vivo na lembrança\nO aconchego do meu lar\nNo fim da tarde\nQuando tudo se aquietava\nA família se ajuntava\nLá no alpendre, a conversar\n\nMeus pais não tinham\nNem escola, nem dinheiro\nTodo dia, o ano inteiro\nTrabalhavam sem parar\nFaltava tudo\nMas a gente nem ligava\nO importante não faltava\nSeu sorriso e seu olhar\n\nEu, tantas vezes\nVi meu pai chegar cansado\nMas aquilo era sagrado\nUm por um ele afagava\nE perguntava\nQuem fizera estripulia\nE mamãe nos defendia\nE tudo aos poucos se ajeitava\n\nO Sol se punha\nA viola alguém trazia\nTodo mundo então queria\nVer papai cantar com a gente\nDesafinado, meio rouco e voz cansada\nEle cantava mil toadas\nSeu olhar no Sol poente\n\nCorreu o tempo\nHoje eu vejo a maravilha\nDe se ter uma família\nQuando tantos não a tem\nAgora falam do desquite e do divórcio\nO amor virou consórcio\nCompromisso de ninguém\n\nE há tantos filhos\nQue bem mais do que um palácio\nGostariam de um abraço\nE do carinho entre seus pais\nSe os pais amassem\nO divórcio não viria\nChamam a isso de utopia\nEu a isso chamo paz",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-pais"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-9070b32d",
+        "title": "Pais e Mães",
+        "composer": "Banda Louvor e Glória",
+        "lyrics": "Queremos louvar e agradecer a Deus sua bondade e a vida que nos deu.\nQueremos lembrar e também agradecer aos nossos pais.\nQue nos fez nascer, cuidou de nós nos fez crescer.\nCom carinho e amor queremos declarar nosso amor por vocês.\n\nQueremos viver e agradecer a Deus sua bondade e a vida que nos deu.\nQueremos lembrar e também agradecer aos nossos pais.\nQue nos fez nascer, cuidou de nós nos fez crescer.\nCom carinho e amor queremos declarar nosso amor por vocês.\n\nOh! Pai ainda lembro dos momentos que ao teu lado eu vivi.\nQuantas coisas com você eu aprendi...\n\nPeço perdão das vezes que eu te ofendi.\nTe amo pai, se te fiz chorar quero te fazer sorrir.\n\nOh! Mãe como posso esquecer o que você já fez por mim.\nQuantas dores sofrimentos que você passou por mim...\n\nPeço perdão das vezes que eu te ofendi.\nTe amo mãe se te fiz chorar quero te fazer sorrir.\n\nRefrão 2 VEZES\n\nMeus pais, como valeu a pena ter vocês como meus pais, me sinto tão feliz por ter vocês por meus pais, e quero agradecer o bem que vocês me fizeram.\nMeu Deus, perdão das vezes que eu não dei valor aos meus pais, mas reconheço e te agradeço obrigado meu Deus, proteja e abençoe sempre os meus pais.\n\nMeus pais... amamos vocês.",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-pais"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-a98cbc86",
+        "title": "Minha Família É Uma Benção",
+        "composer": "Frei Gilson",
+        "lyrics": "Eu e minha casa serviremos ao Senhor\nEu e minha casa serviremos ao Senhor\nEu e minha casa serviremos ao Senhor\nEu e minha casa serviremos ao Senhor\n\nA minha família é uma bênção\nVontade de Deus, maior riqueza\nA minha família é uma bênção\nVontade de Deus, maior riqueza\n\nVem proteger toda a minha família\nNenhum mal tem poder sobre nós\nVem proteger toda a minha família\nNenhum mal tem poder sobre nós\n\nE as trevas vem tentando destruir\nConfusões vem tentando dividir\nAlguns querem se afastar de ti\nNão desistirei daqueles que o Senhor me deu\n\nNão desistirei da minha família\nNão desistirei dos meus\nNão desistirei da minha família\nNão desistirei dos meus\n\nEu e minha casa serviremos ao Senhor\nEu e minha casa serviremos ao Senhor\nEu e minha casa serviremos ao Senhor\nEu e minha casa serviremos ao Senhor\n\nA minha família é um bênção\nVontade de Deus, maior riqueza\nA minha família é um bênção\nVontade de Deus, maior riqueza\n\nVem proteger toda a minha família\nNenhum mal tem poder sobre nós\nVem proteger toda a minha família\nNenhum mal tem poder sobre nós\n\nE as trevas vem tentando destruir\nConfusões vem tentando dividir\nAlguns querem se afastar de ti\nNão desistirei daqueles que o Senhor me deu\n\nEu não desistirei da minha família\nNão desistirei dos meus\nNão desistirei da minha família\nNão desistirei dos meus\n\nA minha família, a tua família\nÉ uma bênção",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-pais"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-06c16bcf",
+        "title": "Anjo Guardião",
+        "composer": "Canal da Graça",
+        "lyrics": "Deus confiou a mim tuas lágrimas\nMe deu a missão de estar contigo aonde for\nTe socorrer quando andares mal\nSer teu conforto quando sentires dor\n\nSou mais que um amigo, sou teu anjo guardião\nAquele que te leva ao céu, te carrego pela mão\n\nE sempre serei os teus olhos quando a dor te cegar\nTe levo em meu colo se o teu passo falhar\nSerei um elo entre o céu e você\nPra sempre serei tua luz se a escuridão te assustar\nO abraço e o ombro pro teu pranto rolar\nSerei um elo entre o céu e você\nSou teu anjo guardião\n\nDeus confiou a mim teus segredos\nTudo do teu coração pra que eu possa te ajudar\nSer teu abrigo quando a chuva vir\nSer teu apoio pra não te deixar cair\n\nSou mais que um amigo, sou teu anjo guardião\nAquele que te leva ao céu, te carrego pela mão\n\nE sempre serei os teus olhos quando a dor te cegar\nTe levo em meu colo se o teu passo falhar\nSerei um elo entre o céu e você\nPra sempre serei tua luz se a escuridão te assustar\nO abraço e o ombro pro teu pranto rolar\nSerei um elo entre o céu e você\nSou teu anjo guardião\n\nVou te abraçar com minhas asas\nLevarei teu coração ao coração de Deus\n\nE sempre serei os teus olhos quando a dor te cegar\nTe levo em meu colo se o teu passo falhar\nSerei um elo entre o céu e você\nPra sempre serei tua luz se a escuridão te assustar\nO abraço e o ombro pro teu pranto rolar\nSerei um elo entre o céu e você\nSou teu anjo guardião\n\nE sempre serei os teus olhos quando a dor te cegar\nTe levo em meu colo se o teu passo falhar\nSerei um elo entre o céu e você\nPra sempre serei tua luz se a escuridão te assustar\nO abraço e o ombro pro teu pranto rolar\nSerei um elo entre o céu e você\nSou teu anjo guardião\nSou teu anjo guardião",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-padrinhos"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-d2467bca",
+        "title": "Sou teu Anjo",
+        "composer": "Anjos de Resgate",
+        "lyrics": "Resolvi pedir a Deus\nPra que eu possa te guardar\nSer teu anjo protetor\nTe velar e te cuidar\n\nQuando eu precisei\nPôs tua vida em mim\nDeus permita-me\nSer teu anjo aqui\n\nEu pedi pra Deus gravar\nO teu nome em minha mão\nDeus foi muito mais além\nTe gravou em meu coração\n\nJá não posso mais esquecer de ti\nTua vida Deus transplantou em mim\n\nHá um anjo aqui que intercede por ti\nTrago um pedaço do céu num olhar pra te dar\nHá um anjo aqui, bem pertinho de ti\nBasta acreditar, sou teu anjo aqui\n\nHá um anjo aqui que intercede por ti\nTrago um pedaço do céu num olhar pra te dar\nHá um anjo aqui, bem pertinho de ti\nBasta acreditar, sou teu anjo aqui\n\nHá um anjo aqui, bem pertinho de ti\nBasta acreditar, sou teu anjo aqui\nBasta acreditar, sou teu anjo aqui",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-padrinhos"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-532fad1a",
+        "title": "Eternos Amigos",
+        "composer": "Anjos de Resgate",
+        "lyrics": "Se eu tentasse definir o quão especial tu és pra mim\nPalavras não teriam fim\nDefinir o amor não dá, então direi apenas obrigado\nE sei que entenderás\n\nPrecioso és para Deus e para mim\nSe acaso precisar, podes contar comigo\nPrecioso és para Deus e para mim\nQue a fé de Deus nos faça eternos amigos\n\nQuero e vou renunciar parte de mim mesmo\nPara ser muito mais contigo\nSabes bem quem sou e como sou\nPor favor, insista em me perdoar\nNão desista de me amar\n\nPrecioso és para Deus e para mim\nSe acaso precisar, podes contar comigo (oh)\nPrecioso és para Deus e para mim\nQue a fé de Deus nos faça eternos amigos\n\nPrecioso és para Deus e para mim\nSe acaso precisar, podes contar comigo\nPrecioso és para Deus e para mim\nQue a fé de Deus nos faça eternos amigos",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-padrinhos"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-fbe36aea",
+        "title": "Amigo Fiel",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Deus te enviou, meu amigo\nSei que em ti posso confiar\nAmor sincero eu sei que ao teu lado posso encontrar\nPois aprendi a ser feliz e hoje posso perceber\nQue a vida é muito mais que só viver\n\nAmigo fiel, te trago em meu peito\nPor ti vou à luta, venço todo o medo\nConsolo do pai, bem mais que um abrigo\nPois Deus te escolheu, meu amigo\n\nNem mesmo a distância fará essa amizade em mim morrer\nNem qualquer pessoa ou qualquer razão\nMe fará deixar de ser sempre\nTeu verdadeiro irmão",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-padrinhos"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-42516014",
+        "title": "Coração em Comunhão",
+        "composer": "Toca de Assis",
+        "lyrics": "Hoje posso perceber o valor de uma amizade\nPois, Divino amigo, com carinho me ensinaste\nSe eu pudesse compreender o tamanho do teu amor por mim.\nMais nada esconderia daquilo que já sabes\nTudo te entregaria Jesus minha alegria.\nMeu amigo\nHoje posso perceber que um amigo de verdade\nNão sou eu a escolher vós em mim o enxertastes\nQue é mais fácil te seguir ao lado de um amigo\nE mesmo se ele tropeçar ou tão fraco vacilar\nQueres Senhor que eu encontre a Ti a Tua vida\nNo coração de um grande amigo.\n\nAmigo fiel refúgio poderoso\nQuem o descobriu encontrou um tesouro\nPrefiguração de Deus certeza do céu\nQuero tê-lo aqui no peito meu\nMeu anjo meu abrigo meu\nAmigo Fiel refúgio poderoso\nQuem o descobriu encontrou um tesouro\nPermaneceremos até o fim na amizade do Senhor\nE se me amar te causar a dor\nCom o mesmo amor me cures meu amigo\n\nHoje posso perceber que a glória da amizade\nConsiste em tudo perder na renúncia da vontade\nPara ter um bem maior: A misericórdia do Senhor\nE salvar quando preciso for,\nComo a cada dia salvo eu sou\nQuero realmente amar assim\nE nunca abandonar os meus amigos\nDeus meu Deus cuida de mim dá-me ser amigo\nEm ti Amado Salvador,\nDe meus irmãos queridos,\nLeva-me onde quiseres, Esposo de minh'alma\nE quando longe eu estiver e Saudades levar comigo\nSeja ela esperança de reencontrar\nO coração de um grande amigo\n\nAmigo Fiel...",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-padrinhos"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-c14232c0",
+        "title": "Para ser amado",
+        "composer": "Ziza Fernandes",
+        "lyrics": "Para ser lembrado é bom lembrar\nPara ser amado é só amar\nPra ser esquecido e esquecer\nÉ só preciso perdoar\n\nPra ser recebido e passar bem\nÉ preciso amigo e querer bem\nPra se ter estrada é bom sonhar\nUm sonho faz gente caminhar\n\nUm amigo leva a gente pra longe\nMesmo se a gente se esconde\nSilêncio e abraço faz viver\nFaz a gente renascer\n\nPara dar risada é bom saber\nTodo mundo erra e vai crescer\nSe for convidado pra amar\nÉ preciso alimentar\n\nPra se ler mensagens, enviar\nPra sorrir de graça, se entregar\nÉ preciso história e muito mais\nPerdão, estrada e muita paz",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-padrinhos"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-3dd37af2",
+        "title": "Basta Querer",
+        "composer": "Padre Marcelo Rossi",
+        "lyrics": "Meu pensamento vive em Você\nA luz do meu viver, Senhor\nBasta entrar e eu me abrir pra Te amar\nNem precisa perguntar, Te amo\n\nHá um clima todo diferente\nQue aquece e mexe com o coração da gente\n\nÉ como um sonho, é como um sonho\nEu me dou por inteiro\nTeu é o meu coração\n\nE ao Teu lado, eu sempre sigo\nJá não há mais talvez\nBasta querer pra Te ver outra vez\nOutra vez\n\nMeu pensamento vive em Você\nA luz do meu viver, Senhor\nBasta entrar e eu me abrir pra Te amar\nNem precisa perguntar, Te amo\n\nHá um clima todo diferente\nQue aquece e mexe com o coração da gente\n\nÉ como um sonho, é como um sonho\nEu me dou por inteiro\nTeu é o meu coração\n\nE ao Teu lado, eu sempre sigo\nJá não há mais talvez\nBasta querer pra Te ver outra vez\nOutra vez\n\nMeu pensamento vive em Você\nA luz do meu viver, Senhor\nBasta entrar e eu me abrir pra Te amar\nNem precisa perguntar, Te amo\n\nHá um clima todo diferente\nQue aquece e mexe com o coração da gente\n\nÉ como um sonho, é como um sonho\nEu me dou por inteiro\nTeu é o meu coração\n\nE ao Teu lado, eu sempre sigo\nJá não há mais talvez\nBasta querer pra Te ver outra vez\nBasta querer pra Te ver outra vez",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-872bd9b0",
+        "title": "Com Tua mão",
+        "composer": "Davidson Silva",
+        "lyrics": "Com Tua mão, ó meu Senhor\nSegura a minha\nPois não me atrevo a um passo só\nSem teu amparo, sem teu apoio\n\nEu não darei\nEu só iria fraquejar\nEu andaria a vacilar\nSem Tua mão a me sustentar!\nMas, se Tua mão me segurar\nEu correrei até voar\nSubirei apoiado em Ti!",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-969892d2",
+        "title": "Simplesmente José",
+        "composer": "Eugênio Jorge",
+        "lyrics": "Eu, tão simples, tão pequeno\nUm carpinteiro e nada mais\nMas meu Deus olhou pra mim e\nMe escolheu pra ser pai do filho seu\n\nEis-me aqui, faça-se em mim\nO teu querer\nSou teu José, simples José e nada mais\n\nEu, tão simples, tão pequeno\nUm carpinteiro e nada mais\nMas meu Deus olhou pra mim e\nMe escolheu pra ser pai do filho seu\n\nEis-me aqui, faça-se em mim\nO teu querer\nSou teu José, simples José e nada mais\n\nEu sou escravo de tua promessa\nFeito pra amar até o fim\nEu sou escravo de tua promessa e\nSou feliz vivendo assim\nEu, tão simples, tão pequeno\nUm carpinteiro e nada mais\n\nEu sou escravo de tua promessa\nFeito pra amar até o fim\nEu sou escravo de tua promessa e\nSou feliz vivendo assim\n\nEu sou feliz vivendo assim\nSim, sou feliz\nEu sou feliz, ooh",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-dfd601c9",
+        "title": "Nossos Caminhos",
+        "composer": "Nelsinho Corrêa",
+        "lyrics": "Nossos caminhos não se cruzaram por acaso\nPois Deus no Seu carinho te queria a meu lado\n\nTe amo, tu me amas\nHá entre nós a mesma chama, a chama do amor\nHá entre nos a chama da fé\nCremos em Deus, fonte do nosso amor\nCremos em Deus!\n\nDeus abençoa essa nossa união\nMaria mãe tão boa, nos estenda sua mão\n\nTe amo, tu me amas\nHá entre nós a mesma chama, a chama do amor\nHá entre nos a chama da fé\nCremos em Deus, fonte do nosso amor\nCremos em Deus!\n\nTe amo",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-907e4917",
+        "title": "Namorando",
+        "composer": "Grecco",
+        "lyrics": "Eu quero te entender\nEu quero te levar pra conhecer\nOs vales do Senhor\nAonde corre o leite, o mel e o amor\nEu quero a tua mão\nFazer morada no teu coração\nEu quero estar e ser contigo em Deus\n\n\nEu quero te abraçar\nAssim como eu abraço a minha fé\nEu quero construir\nA estrada do futuro desde já\nEu quero me unir\nNa a benção que o amigo vai nos dar\nEu quero estar e ser contigo em Deus\n\n\nAh, Deus queira que assim eu possa amar\n\nTe dar o meu coração, essa é a minha vocação\n\nContigo o amor não se acaba\n\nAh, Deus queira que assim eu possa amar\n\nDar antes de receber, ter paciência entender\n\nContigo o amor não se acaba\n\n\nEu quero envelhecer\nEstando sempre aqui ao lado teu\nContigo até o fim\nContigo até quando Deus quiser\nOs filhos por aí\nE você sempre aqui ao lado meu\nNo fim será só eu, você e Deus",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-54caf68f",
+        "title": "Vou te amar",
+        "composer": "Marcio Todeschini",
+        "lyrics": "Eu tanto esperei pra te ver assim,\nJá sofremos juntos, sonhamos juntos,\nQue bom poder dizer: \"Chegamos aqui\"!\n\nTão bom é o nosso Deus que nos quis assim,\nNossa humanidade tão diferente,\nCom Ele a gente aprende o que é o amor!\n\nÉ negar-se a si mesmo sempre que for preciso,\nPra fazer o outro feliz!\nÉ dizer a verdade com carinho e ternura,\nÉ estar presente, ser presença, ser amigo e cuidar!\n\nVou te amar, porque Deus me ensina a ser teu,\nVou te amar, meu caminho pro Céu é contigo.\nFoi fazendo a vontade do nosso Deus,\nque te encontrei!\nVou te amar!",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-2726f9de",
+        "title": "Oração de São Francisco",
+        "composer": "Cantores de Deus",
+        "lyrics": "Senhor, fazei-me instrumento de vossa paz\nOnde houver ódio, que eu leve o amor\nOnde houver ofensa, que eu leve o perdão\nOnde houver discórdia, que eu leve a união\nOnde houver dúvida, que eu leve a fé\nOnde houver erro, que eu leve a verdade\nOnde houver desespero, que eu leve a esperança\nOnde houver tristeza, que eu leve a alegria\nOnde houver trevas, que eu leve a luz\n\nÓ mestre, fazei que eu procure mais\nConsolar, que ser consolado\nCompreender, que ser compreendido\nAmar, que ser amado\nPois é dando que se recebe\nÉ perdoando que se é perdoado\nE é morrendo que se vive para a vida eterna",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-1ca2264d",
+        "title": "Pai Nosso",
+        "composer": "Padre Marcelo Rossi",
+        "lyrics": "Pai nosso que estais no céu\nSantificado seja o Teu nome\nE venha a nós o Teu reino\nE seja feita a Tua vontade\n\nPai, meu Pai do céu, meu Pai do céu\nEu quase me esqueci, me esqueci\nQue o Teu amor vela por mim, vela por mim\nQue seja feito assim\n\nMeu Pai, meu Pai do céu, meu Pai do céu\nEu quase me esqueci, me esqueci\nQue o Teu amor vela por mim, vela por mim\nQue seja feito assim\n\nO alimento desse dia\nDai-nos agora e sempre\nE perdoai nossas ofensas\nDe um modo maior com que perdoamos\n\nPai, meu Pai do céu, meu Pai do céu\nEu quase me esqueci, me esqueci\nQue o Teu amor vela por mim, vela por mim\nQue seja feito assim\n\nMeu Pai, meu Pai do céu, meu Pai do céu\nEu quase me esqueci, me esqueci\nQue o Teu amor vela por mim, vela por mim\nQue seja feito assim\n\nE não nos deixeis cair em tentação\nMas livrai-nos de todo o mal, amém",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-866b5b89",
+        "title": "O primeiro olhar",
+        "composer": "Anjos de Resgate",
+        "lyrics": "Quando nós trocamos o primeiro olhar\nO meu coração pediu pra se apaixonar\nIgual ao Sol que nasce e só pertence ao dia\nQuando nasci, o meu amor já te pertencia\n\nSe não existisses, eu te inventaria\nAs estrelas, se eu pudesse, te daria\nPrometi a Deus que ao céu vou te levar\nE vou gritar pro mundo ouvir\nQue sempre te amei e vou te amar\n\nFoi no primeiro olhar\nQue eu te consagrei o meu amor\nE nada vai nos separar, na alegria ou na dor\nO mundo não verá o nosso amor se acabar\n\nLogo no primeiro olhar, Deus nos casou (no primeiro olhar)\nE escreveu seu nome e o meu no azul do céu\nPra sempre vou te amar\n\nSe não existisses, eu te inventaria\nAs estrelas, se eu pudesse, te daria (oh, oh)\nPrometi a Deus que ao céu vou te levar\nE vou gritar pro mundo ouvir\nQue sempre te amei e vou te amar\n\nFoi no primeiro olhar\nQue eu te consagrei o meu amor\nE nada vai nos separar, na alegria ou na dor\nO mundo não verá o nosso amor se acabar\n\nLogo no primeiro olhar, Deus nos casou (no primeiro olhar)\nE escreveu seu nome e o meu no azul do céu\nOh\n\nFoi no primeiro olhar\nQue eu te consagrei o meu amor\nE nada vai nos separar, na alegria ou na dor\nO mundo não verá o nosso amor se acabar\n\nLogo no primeiro olhar, Deus nos casou\nE escreveu seu nome e o meu (e o meu) no azul do céu (do céu)\nLogo no primeiro olhar (logo no primeiro olhar)\nDeus nos casou (no primeiro olhar)\nE escreveu seu nome e o meu no azul do céu",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noivo",
+            "casamento-noiva"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-29b668f0",
+        "title": "Manda teus anjos",
+        "composer": "Anjos de Resgate",
+        "lyrics": "Manda Teus anjos sobre nós\nE abençoa todos que esperam em Vós\nManda Teus anjos pra nos ensinar\nA Te louvar e glorificar\n\nManda Teus anjos sobre nós\nE abençoa todos que esperam em Vós\nManda Teus anjos pra nos ensinar\nA Te louvar e glorificar\n\nEnvia também Teu Espírito de paz e amor\nO meu coração tem sede do meu Criador\nEnvia, Senhor, os Teus anjos pra nos resgatar\nPra nos proteger de todo mal, para nos guiar, Senhor\n\nManda Teus anjos sobre nós\nE abençoa todos que esperam em Vós\nManda Teus anjos pra nos ensinar\nA Te louvar e glorificar\n\nQuando acordo olho o céu e canto o meu louvor\nDe todas as manhãs Tu és o meu Senhor\nLevantai-nos, ó meu Deus, e estende Tuas mãos\nTu és o meu refúgio nas minhas opressões, Senhor\n\nConfio em Vós\nRevele Tua face para nós\nLevanta-te\nE põe o Teu escudo sobre nós\n\nManda Teus anjos\nManda Teus anjos sobre nós (manda, Senhor, e manda, Senhor)\nE abençoa todos que esperam em Vós (esperam em vós)\nManda Teus anjos pra nos ensinar\nA Te louvar e glorificar (Te louvar, Senhor)\nA Te louvar e glorificar (a Te louvar)\nA Te louvar e Te amar",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-criancas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "aca-cec41d29",
+        "title": "Amar Como Jesus Amou",
+        "composer": "Padre Zezinho",
+        "lyrics": "Um dia uma criança me parou\nOlhou-me nos meus olhos a sorrir\nCaneta e papel na sua mão\nTarefa escolar para cumprir\nE perguntou no meio de um sorriso\nO que é preciso para ser feliz?\n\nAmar como Jesus amou\nSonhar como Jesus sonhou\nPensar como Jesus pensou\nViver como Jesus viveu\nSentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz\n\nSentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz\n\nOuvindo o que eu falei ela me olhou\nE disse que era lindo o que eu falei\nPediu que eu repetisse, por favor\nMas não dissesse tudo de uma vez\nE perguntou de novo num sorriso\nO que é preciso para ser feliz?\n\nAmar como Jesus amou\nSonhar como Jesus sonhou\nPensar como Jesus pensou\nViver como Jesus viveu\nSentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz\n\nSentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz\n\nDepois que eu terminei de repetir\nSeus olhos não saíam do papel\nToquei no seu rostinho e a sorrir\nPedi que, ao transmitir, fosse fiel\nE ela deu-me um beijo demorado\nE ao meu lado foi dizendo assim\n\nAmar como Jesus amou\nSonhar como Jesus sonhou\nPensar como Jesus pensou\nViver como Jesus viveu\nSentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz\n\nSentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz\n\nE ao chegar ao fim do dia\nEu sei que eu dormiria",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-criancas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-9d59f70c",
+        "title": "Anjos de Deus",
+        "composer": "Padre Marcelo Rossi",
+        "lyrics": "Se acontecer um barulho perto de você\nÉ um anjo chegando para receber\nSuas orações e levá-las a Deus\n\nEntão, abra o coração e comece a louvar\nSinta o gosto do céu que se derrama no altar\nQue o anjo já vem com a bênção nas mãos\n\nTem anjos voando neste lugar\nNo meio do povo, em cima do altar\nSubindo e descendo em todas as direções\nNão sei se a Igreja subiu ou se o céu desceu\nSó sei que está cheio de anjos de Deus\nPorque o próprio Deus está aqui (2x)\n\n\nQuando os anjos passeiam, a Igreja se alegra\nEla canta, ela chora, ela ri e congrega\nAbala o inferno e dissipa o mal\n\nSinta o vento das asas dos anjos agora\nConfia irmão, pois é a tua hora\nA bênção chegou e você vai levar\n\nTem anjos voando neste lugar\nNo meio do povo, em cima do altar\nSubindo e descendo em todas as direções\nNão sei se a Igreja subiu ou se o céu desceu\nSó sei que está cheio de anjos de Deus\nPorque o próprio Deus está aqui (2x)",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-criancas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-a0b9ead1",
+        "title": "Doce é sentir",
+        "composer": "Ziza Fernandes",
+        "lyrics": "Doce é sentir\nEm meu coração\nHumildemente\nVai nascendo amor\n\nDoce é saber\nNão estou sozinho\nSou uma parte\nDe uma imensa vida\n\nQue generosa\nReluz em torno a mim\nImenso dom\nDo teu amor sem fim\n\nQue generosa\nReluz em torno a mim\nImenso dom\nDo teu amor sem fim\n\nO céu nos deste\nE as estrelas claras\nNosso irmão Sol\nNossa irmã Lua\n\nNossa mãe Terra\nCom frutos, campos, flores\nO fogo e o vento\nO ar e a água pura\n\nFonte de vida\nDe tua criatura\n\nQue generosa\nReluz em torno a mim\nImenso dom\nDo teu amor sem fim\n\nQue generosa\nReluz em torno a mim\nImenso dom\nDo teu amor sem fim\n\nFonte de vida (que generosa)\nReluz em mim\nE nessa luz\nDo teu amor sem fim (sem fim)\nDo teu amor sem fundo (imenso dom)",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-criancas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "fin-1aedccd7",
+        "title": "Cheiro de rosas",
+        "composer": "Colo de Deus",
+        "lyrics": "Estás aqui, Agraciada\nPosso sentir Teu perfume\nEstás aqui, Mãe do meu Senhor\nVem ficar perto de mim\n\nCheiro de rosas nesse lugar\nMaria aqui está, e o Espírito de Deus descerá\nCheiro de rosas nesse lugar\nA Rainha presente está\nPentecostes acontecerá\n\nEstás aqui, Agraciada\nPosso sentir Teu perfume\nEstás aqui, Mãe do meu Senhor\nVem ficar perto de mim\n\nCheiro de rosas nesse lugar\nMaria aqui está, e o Espírito de Deus descerá\nCheiro de rosas nesse lugar\nA Rainha presente está\nPentecostes acontecerá\nAcontecerá\n\nCheiro de rosas nesse lugar\nMaria aqui está, e o Espírito de Deus descerá\nCheiro de rosas nesse lugar\nA Rainha aqui está\nPentecostes acontecerá\nPentecostes acontecerá",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "final",
+            "casamento-criancas"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "cas-a1c9117f",
+        "title": "Quero colorir seu mundo",
+        "composer": "Simone Medeiros",
+        "lyrics": "Pode o tempo passar e até tudo mudar meu amor não acabará\nA memória falhar e o rosto enrugar\nE assim vou te amar\n\nQuero colorir seu mundo\nE cantar a melodia\nNo abraço do compasso\nDentro do coração\nDe mãos dadas no caminho\nE cuidando um do outro\nAté ficarmos bem velhinhos\nE ver o eterno chegar\n\nDeus me trouxe você para amar e cuidar\nE dançar até o amanhecer\nMe casar com você cada dia em nosso lar\nComo a primeira vez\n\nQuero colorir seu mundo\nE cantar a melodia\nNo abraço do compasso\nDentro do coração\nDe mãos dadas no caminho\nE cuidando um do outro\nAté ficarmos bem velhinhos\nE ver o eterno chegar\n\nTudo é suportável, tudo é tão mais fácil\nSe estás aqui, se estás aqui\nTudo tem sabor, tudo tem mais cor\nSe estás aqui, se estás aqui\nTudo é tão mais belo, tudo é tão completo\nSe estás aqui, se estás aqui\nO meu existir é por você existir\nVocê existir",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-criancas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-56abf658",
+        "title": "Ave Maria (Versão português)",
+        "composer": "Franz Schubert",
+        "lyrics": "Ave Maria\nMãe das estrelas\nMãe do céu\nAlma doce da natureza\nOh seiva viva que nutre esse chão\nDá a tua luz a tudo que vive e respira\nLeva a dor do coração\nOh doce mãe estende teu manto\nNessa terra que tanto precisa de ti\nTransforma os corações dos homens\nPara que o paraíso aconteça aqui\nSanta Maria",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noiva"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-09c6315c",
+        "title": "Cantiga de matrimônio",
+        "composer": "Padre Zezinho",
+        "lyrics": "Eu te agradeço tanto\nPor esse amor bonito\nQue entrou na minha vida\nEntrou e foi ficando e me envolveu\n\nMe trouxe um novo encanto\nMostrou-me o infinito\nE aquela dor doída\nA dor da solidão não mais doeu\n\nEu disse aonde eu ia\nContei-te os sonhos meus\nDisseste que era teu o meu caminho\nEncheste a minha vida de carinho\nDisseste que também buscavas Deus\n\nEu te agradeço tanto\nPor este matrimônio\nQue se tornou meu sonho\nQue é muito mais bonito que eu pensei\n\nÉ grande, é puro, é santo\nÉ cheio de lembranças\nÉ feito de esperanças\nTe amo e para sempre te amarei\n\nCom Deus por testemunha\nEu juro neste altar\nQue venha o que vier em nossos dias\nPor entre mil tristezas e alegrias\nPra sempre, sempre, sempre vou te amar",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noiva"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "fin-da61abb3",
+        "title": "O cantico de Maria",
+        "composer": "Ministério Adoração e Vida",
+        "lyrics": "A minha alma engrandece\nE glorifica ao Senhor\nMeu espírito se alegra em Deus\nMeu salvador\nMeu salvador, meu salvador\nMeu salvador, meu salvador\n\nEle olhou minha pequenez\nFez-me bendita entre as nações\nRealizou em mim maravilhas\nO poderoso\nPoderoso, poderoso\nPoderoso, poderoso\n\nA sua misericórdia\nÉ de geração em geração\nSobre os que temem aquele\nCujo nome é santo\nÉ santo, é santo\nÉ santo, é santo\n\nAgiu com poder, com o Seu braço forte\nOrgulhosos dispersou, poderosos destronou\nExaltou os humildes, saciou os famintos\nDespediu os ricos sem nada\n\nLembrou-se do amor a Israel, o Seu servo\nConforme prometeu outrora a nossos pais\nEm favor de Abraão e sua posteridade\nPara todo o sempre\nPara sempre, para sempre\nPara sempre, para sempre\n\nAgiu com poder, com o Seu braço forte\nOrgulhosos dispersou, poderosos destronou\nExaltou os humildes, saciou os famintos\nDespediu os ricos sem nada\n\nLembrou-se do amor a Israel, o Seu servo\nConforme prometeu outrora a nossos pais\nEm favor de Abraão e sua posteridade\nPara todo o sempre\nPara sempre (sempre), para sempre (sempre)\nPara sempre (e nos Seus braços), para sempre (meu salvador)\n\nMeu salvador poderoso\nCujo nome é santo para sempre\nMeu salvador poderoso (poderoso!)\n(Santo) cujo nome é santo para sempre (sempre)\n\nMeu salvador poderoso (poderoso)\nCujo nome é santo (cujo nome é santo) para sempre\nPara sempre, para sempre\nSempre",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "final",
+            "casamento-noiva"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "cas-93dc73e5",
+        "title": "Hallelujah",
+        "composer": "Adriana Arydes",
+        "lyrics": "Sei que você estava aqui, e sempre pude te sentir\nMas nunca, soube como, procurar\nVocê chegou sem avisar, me fez sorrir, me fez cantar\nMe deu o dom da vida, Aleluia!\n\nAleluia, Aleluia, Aleluia, Aleluia\n\nA minha alma se acendeu, o mundo todo renasceu\nMeu coração agora vive em paz\nE nem as mais belas canções, poemas, salmos, orações\nDescrevem o que eu sinto, aleluia!\n\nAleluia, Aleluia, Aleluia, Aleluia\n\n\nEu vejo o céu, eu vejo o mar\nEu vejo a noite e o luar\nEu vejo como é grande o teu amor\nEu vejo o dia amanhecer, eu quero tanto agradecer\nE é por isso que eu canto, aleluia!\n\nAleluia, Aleluia, Aleluia, Aleluia",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noiva"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "aca-c7e36158",
+        "title": "Eu serei o amor",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Com meu amor, quero Te alegrar\nTu bem sabes, só a Ti quero agradar\nRealiza, oh Jesus, o meu mais ardente desejo\nQue é Te amar acima de tudo e de todos\n\nÉ teu amor, Jesus, o que eu peço\nÉ teu amor que há de me transformar\nSim, poderei Te amar como se ama\nE Te bendizer como se faz no Céu\n\nOh, Jesus, meu amor\nEncontrei, afinal, minha vocação\nOh, Jesus, meu amor, eu serei o amor\nE desse modo serei tudo\n\nTransforma o meu nada em amor\nTransforma o meu nada em amor\nTransforma o meu nada em amor\nTransforma o meu nada em amor\n\nTransforma o meu nada em amor\nTransforma o meu nada em amor\nTransforma o meu nada em amor\nTransforma o meu nada em amor\n\nOh, Jesus, meu amor\nEncontrei, afinal, minha vocação\nOh, Jesus, meu amor, eu serei o amor\nE desse modo serei tudo",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "acaoDeGracas",
+            "casamento-noiva"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cas-5c96a51d",
+        "title": "Colo de mãe",
+        "composer": "Adriana Arydes",
+        "lyrics": "Ave cheia de graça, bendita sejas mãe\nTe amo com amor eterno, singelo de coração\nQuero então colocar minha vida em tuas mãos\nSentir que podes ninar-me, mãezinha, com tua proteção\n\nEu quero deixar que o teu plano em mim\nPossa realizar sem limitações\nE quero tentar, sem porém saber\nSer um pouquinho do que tu és\n\nEu quero deixar que o teu plano em mim\nPossa realizar sem limitações\nE quero tentar, sem porém saber\nSer um pouquinho do que tu és",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noiva"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-49c8f1d3",
+        "title": "Esposa das esposas",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Não, não há, Maria, alma esposa\nQue não se una a Ti, Esposa das esposas!\n\nNão, não há um olhar\nQue contemple, ame o Filho\nFora do Teu olhar\n\nNão, não há, coração que se una ao Dele\nSem ser um com Teu coração\nTeus olhos para nós\nQual chagas de dor e amor\nSão janelas pelas quais\nPassa a luz da verdade\n\nDo amor com que Deus ama o mundo\nDo amor com que Deus ama, ama\nMaria, Ave Maria, Maria, Maria\n\nO amor com que Deus ama o mundo\nChega a nós por teu olhar\n\nO amor com que Deus ama o mundo\nChega a nós por teu olhar\n\nMaria, Maria, Maria, Ave Maria\nMaria, Ave Maria, Maria, Maria\n\nO amor com que Deus ama o mundo\nChega a nós por teu olhar",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-noiva"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-9ec93999",
+        "title": "Cada dia",
+        "composer": "Davidson Silva",
+        "lyrics": "Recebe essa aliança\nSinal do meu amor\nSinal do amor de Deus que nos escolheu\nE nos entregou um ao outro (bis)\n\nRecebe essa aliança\nSinal de Deus conosco\nSinal de que será pra sempre\n\nRecebe essa aliança\nSinal de Deus conosco\nSinal de que estará pra sempre entre nós",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-aliancas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-b205c499",
+        "title": "Essa aliança",
+        "composer": "Entretons",
+        "lyrics": "Essa aliança, sinal do amor de Deus\nem nós. Com essa aliança, sinal do\nnosso amor, escolho te amar e, assim,\nviver ao teu lado para sempre! (2x)\n\nHoje a minha vida já não é mais\nminha, pois, em um só corpo, Deus\nnos une aqui. Recebe essa aliança\ncomo prova do meu amor e da\nminha fidelidade agora e para\nsempre! (2x)",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-aliancas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-0914227f",
+        "title": "Aliança verdadeira",
+        "composer": "Carol Carolo",
+        "lyrics": "Nesta noite eu te dou o meu coração, meu amor\nQuero caminhar contigo\nSob os olhos do Senhor que nos escolheu pra ser um só\nE hoje nos abençoou\n\nEstá aliança será sinal do meu amor\nDe todas as promessas que eu fiz\nDiante do altar do Senhor, te recebo e me dou\nEm aliança verdadeira este é meu sim",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-aliancas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "cas-f1ca3f69",
+        "title": "Aliança eterna",
+        "composer": "Simone Medeiros",
+        "lyrics": "Bem mais que ter\nQuerer ou ser\nBem mais que a minha vida \n\nÉ tua vida em mim\n\nEm nossas mãos\nPoder sentir\nO elo sem início, meio ou fim\n\nRecebe essa aliança\nSinal do meu amor\nSinal do Eterno Amor de Deus\nDos sonhos que sonhou\nFidelidade até o fim\nNa alegria ou na dor\nPara sempre, pra todo sempre\nUm só\n\nA aliança tem valor\nPois moldada foi\nO ouro, no fogo se purificou\nE o amor moldou\nE tudo mudou",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-comunhao"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "com-ac1e4064",
+        "title": "Como és Lindo",
+        "composer": "Vida Reluz",
+        "lyrics": "Que bom, Senhor, ir ao Teu encontro\nPoder chegar e adentrar a Tua casa\nSentar-me contigo e partilhar da mesma mesa\n\nTe olhar\nTe tocar\nE Te dizer: Meu Deus, como és lindo\nTe olhar\nTe tocar\nE Te dizer: Meu Deus, como és lindo\n\nÓ meu Senhor, sei que não sou nada\nSem merecer, fizeste em mim Tua morada\nMas, ao receber-Te, perfeita comunhão se cria\n\nSou em Ti\nÉs em mim\nMinh'alma diz: Meu Deus, como és lindo\nSou em Ti\nÉs em mim\nMinh'alma diz: Meu Deus, como és lindo\n\nComo és lindo",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "comunhao",
+            "casamento-comunhao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-d8cf5054",
+        "title": "Rumo ao altar",
+        "composer": "Toca de Assis",
+        "lyrics": "Quando entro nesta procissão\nNão consigo explicar\nEntrego o meu coração\nQue somente quer te amar\nComo a noiva que caminha rumo ao altar\nE o noivo a te esperar (2x)\n\nJesus teu Corpo e Sangue me sustenta\nJesus toda Minh ‘alma se estremece\nJesus és razão da minha vida\nÉs o amor, o amor\nJesus teu Corpo e Sangue me sustenta\nJesus toda Minh ‘alma se estremece\nJesus és razão da minha vida\nO motivo maior do meu viver\n\nQuando entro nesta procissão\nNão consigo explicar\nEntrego o meu coração\nQue somente quer te amar\nComo a noiva que caminha rumo ao altar\nE o noivo a te esperar\n\nJesus teu Corpo e Sangue me sustenta\nJesus toda Minh ‘alma se estremece\nJesus és razão da minha vida\nÉs o amor, o amor\nJesus teu Corpo e Sangue me sustenta\nJesus toda Minh ‘alma se estremece\nJesus és razão da minha vida\nO motivo maior do meu viver\n\nNão, não há momento igual a este\nNão, não há lugar melhor\nNão há nada que se possa comparar\nA esse amor que me faz feliz\nSomos a noiva que caminha rumo ao altar\nE o noivo bem aqui a nos esperar",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "comunhao",
+            "casamento-comunhao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-11472943",
+        "title": "Em Teu altar",
+        "composer": "Ministério Adoração e Vida",
+        "lyrics": "Diante de Tua presença me encontro, Senhor\nDeus infinito\nO Teu olhar me acompanha e sabes quem sou\n\nAo enxergar Tua grandeza e minha pequenez\nEu reconheço\nQue minha história é nada sem o Teu amor\n\nPor isso venho Te buscar\nPorque eu preciso, meu Deus\nEm Teus braços estar\nMorar em Teu coração\nE entregar-me a Ti, inteiramente\n\nMe abandonarei em Ti, Senhor\nEm Ti repousarei\nA Tua ternura me acolhe\nUm refúgio seguro encontrei\n\nO meu coração venho a Ti render\nToma meu ser, meu querer\nRecebe, Senhor, minha vida\nComo prova viva de amor\nEm Teu altar, Senhor\n\nPor isso venho Te buscar\nPorque eu preciso, meu Deus\nEm Teus braços estar\nMorar em Teu coração\nE entregar-me a Ti, inteiramente\n\nMe abandonarei em Ti, Senhor\nEm Ti repousarei\nA Tua ternura me acolhe\nUm refúgio seguro encontrei\n\nO meu coração venho a Ti render\nToma meu ser, meu querer\nRecebe, Senhor, minha vida\nComo prova viva de amor\nEm Teu altar, Senhor",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "comunhao",
+            "casamento-comunhao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-eca86a52",
+        "title": "Gratidão",
+        "composer": "Vida Reluz",
+        "lyrics": "Eu encontrei um amor perfeito\nUm tesouro escondido diante desse altar\nSeu valor é maior que tudo, nada poderá se igualar\n\nTe adorarei com todo meu ser\nQuando estou mais perto de Ti, fortaleces o meu viver\nTe exaltarei com meu coração\nMajestade, estou aqui para Te render meu amor, minha gratidão\n\nA quem irei se tua voz é vida\nTua presença é tão clara, é tão forte como o Sol\nSou feliz porque sei que vivo estás\nTudo o que me resta é Te amar\n\nTe adorarei com todo meu ser\nQuando estou mais perto de Ti, fortaleces o meu viver\nTe exaltarei com meu coração\nMajestade, estou aqui para Te render meu amor, minha gratidão\n\nLevantarei minhas mãos\nMinha adoração irá tocar o céu\nForte cantarei, Te adorarei\nPão da Vida\n\nTe adorarei com todo meu ser\nQuando estou mais perto de Ti, fortaleces o meu viver\nTe exaltarei com meu coração\nMajestade, estou aqui para Te render meu amor, minha gratidão\n\nTe adorarei com todo meu ser\nQuando estou mais perto de Ti, fortaleces o meu viver\nTe exaltarei com meu coração\nMajestade, estou aqui para Te render meu amor, minha gratidão",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "comunhao",
+            "casamento-comunhao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-7c489afd",
+        "title": "Mistica Sublime",
+        "composer": "Colo de Deus",
+        "lyrics": "Mística sublime Te receber e ter comunhão\nTer correndo em mim Teu sangue, Deus\nEstou em comunhão\n\nAlguém dirá que um Deus tão grande assim\nNão se dará por mim\nO que os meus olhos veem\nNão é o que minh'alma diz\n\nMística sublime Te receber e ter comunhão\nTer correndo em mim Teu sangue, Deus\nEstou em comunhão\n\nAlguém dirá que um Deus tão grande assim\nNão se dará por mim\nO que os meus olhos veem\nNão é o que minh'alma diz\nE ela diz\n\nJá não é mais vinho, não\nÉ o sangue do meu Deus\nJá não é mais pão aqui\nÉ o corpo do meu amor, do meu amor\n\nNesse lugar, eu posso dizer\nQue estás dentro de mim\nE eu dentro de Você\n\nNesse lugar, eu posso dizer\nQue estás dentro de mim\nE eu dentro de Você\n\nE eu dentro de Você\nE eu dentro de Você\nE eu dentro de Você\nE eu dentro de Você\n\nE eu dentro de Você\nE eu dentro de Você\nE eu dentro de Você\nE eu dentro de Você\n\nAgora nós dois somos um\nAgora nós dois somos um\nAgora nós dois somos um\nAgora nós dois somos um",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "comunhao",
+            "casamento-comunhao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cas-0f84a9f7",
+        "title": "Ao Teu encontro",
+        "composer": "Eliana Ribeiro",
+        "lyrics": "O meu coração tem sede de amar\nVim ao teu encontro ansiosa em Te adorar\nO meu coração tem sede de amar\nVim ao teu encontro ansiosa em Te adorar\n\nMeu Deus, eu creio e adoro, espero e Te amo\nPor aqueles que não Te amam!\nO Céu se faz presente aqui e olhas para mim\nPor que me amas sem igual\n\nO meu coração tem sede de amar\nVim ao teu encontro ansiosa em Te adorar\nO meu coração tem sede de amar\nVim ao teu encontro ansiosa em Te adorar\n\nMeu Deus, eu creio e adoro, espero e Te amo\nPor aqueles que não Te amam!\nO Céu se faz presente aqui e olhas para mim\nPor que me amas sem igual\n\nMeu Deus, eu creio e adoro, espero e Te amo\nPor aqueles que não Te amam!\nO Céu se faz presente aqui e olhas para mim\nPor que me amas sem igual",
+        "celebrationTypeIds": [
+            "casamento",
+            "adoracao"
+        ],
+        "momentIds": [
+            "casamento-comunhao",
+            "adoracao-adoracao"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "com-f55ceacb",
+        "title": "Inigualável Comunhão",
+        "composer": "Missionário Shalom",
+        "lyrics": "Ó vida de minh'alma\nPresença e paz profunda\nInigualável comunhão\nMeu Tudo, meu Mestre\nTe das a mim tão pobre\nIncomparável gratidão\n\nO que fazer, ó Senhor\nSenão amar-Te\nPerdidamente, sem reservas\nE, na minha fraqueza, me dar inteiro\nE ser pra sempre um servo Teu?\n\nSó Tua voz me acalma\nSó o Teu amor me sacia\nDoce chama ardente que consome tudo que tenho e sou\nEm seu infinito Amor",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "comunhao",
+            "casamento-comunhao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cas-a015ab6f",
+        "title": "Você e eu",
+        "composer": "Eliana Ribeiro",
+        "lyrics": "Quero estar com você\nLembrar de cada momento bom\nReviver a nossa história nosso amor\nQuem nos uniu foi Deus\nPara fazer um só, você e eu\n\nAgora somos um do outro\nNosso amor foi crescendo aos poucos\nProvado na dor\nComo o ouro provado no fogo\nPra poder se tornar com o tempo\nUm belo tesouro, tão raro no mundo\nSacramento selado por Deus, você e eu",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-assinaturas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "aca-338faaf8",
+        "title": "Terra Seca",
+        "composer": "Fraternidade São João Paulo II",
+        "lyrics": "Somente em Ti construirei a minha casa\nSomente em Ti colocarei minha esperança\nSomente em Ti construirei a minha casa\nSomente em Ti colocarei minha esperança\n\nPois só em Ti minh’alma achou descanso\nSó em Ti eu pude respirar\nPois só em Ti minh’alma achou descanso\nSó em Ti eu pude respirar\n\nE o meu coração deseja Te encontrar\nComo a terra seca anseia pela chuva\nVem me saciar\nPois eu descobri\nQue aqui é o meu lugar\n\nE o meu coração deseja Te encontrar\nComo a terra seca anseia pela chuva\nVem me saciar\nPois eu descobri\nQue aqui é o meu lugar",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento",
+            "adoracao"
+        ],
+        "momentIds": [
+            "acaoDeGracas",
+            "casamento-assinaturas",
+            "adoracao-adoracao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cas-d6de8dd2",
+        "title": "Com poesia",
+        "composer": "Suely Façanha",
+        "lyrics": "Ah quem dera com palavras explicar o amor\nAh quisera com poesia comparar seu valor\n\nÉ como as águas da chuva caindo ao encontro do mar\nTornando-se um só\nComo a águia nos braços do vento vai\nOu a rosa e os raios de sol\nNosso amor assim será\n\nDeus é nosso horizonte nós dois o céu e a terra\nEle uniu nossas vidas e fez sagrada nossa família\nMais que a glória de um homem\nBem mais que as dores e o que vier\nDeus será nossa força nossa alegria\nSustento da nossa fé\n\nE pra sempre eu serei tua Maria\nE para mim serás meu José",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-assinaturas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "aca-d1236133",
+        "title": "Amar-te Mais",
+        "composer": "Davidson Silva",
+        "lyrics": "Amar-Te mais que a mim mesmo\nAmar-Te mais que tudo que há aqui\nAmar-Te mais que aos mais queridos\nAmar-Te e dar a vida só por Ti\n\nCom as minhas forças, com a minha alma\nDe toda o coração viverei eu só pra Te amar.\nAmar-Te...\nAmar-Te, amar-Te e dar a vida só por Ti.",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento",
+            "adoracao"
+        ],
+        "momentIds": [
+            "acaoDeGracas",
+            "casamento-assinaturas",
+            "adoracao-adoracao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cas-e00af705",
+        "title": "Juramento",
+        "composer": "Padre Zezinho",
+        "lyrics": "Teus pais serão meus pais\nMeus pais serão teus pais\nTeu lar será meu lar\nTeus sonhos hão de ser também os meus\n\nTeus ais serão meus ais\nE cada dia mais\nNa dor e na alegria\nSeremos este par apaixonado\n\nSe foi amor o que nos fez olhar na mesma direção\nSe foi amor o que nos fez tomar a mesma decisão\nSe foi amor, que fale o coração\nE nunca mais se canse de falar\n\nTe amo e te amarei!\nTe amo e te amarei!\nTe amo e te amarei!\nTe amo e te amarei!",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-assinaturas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "aca-a177d2ea",
+        "title": "Abraço eterno",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Amor tão grande, amor tão forte,amor suave,amor sem fim\nQue a própria morte transforma em vida abraço eterno\nde Deus em mim\nNem as torrentes das grandes águas, conseguirão apagar\nesse amor\nPois suas chamas são fogo ardente mais do que a morte\né tão forte esse amor\nDe abraço esmagante, de ausência torturante\nDe noite e luz é feito esse amor\nDe dor incomparável, consolo imensurável\nDe vida e cruz é feito esse amor\nNem as torrentes das grandes águas, conseguirão apagar\nesse amor\nPois suas chamas são fogo ardente\nmais do que a morte é tão forte esse amor",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "acaoDeGracas",
+            "casamento-assinaturas"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cas-2a0a21a6",
+        "title": "Faz do meu nada amor",
+        "composer": "Ir. Kelly Patricia",
+        "lyrics": "Eu queria só te dizer\nQue me fizesse entender o que é a vida\nQue alegria e dor andam juntas em mim\nMas o que conta é o amor\n\nVem, toma posse de mim\nVence minha impotência\nO meu nada, Senhor\nAh! Tudo quero te dar\nMesmo o que não tenho\nMesmo o que não sou\nPois o que conta é o amor, o amor!\n\nFaz do meu nada amor!\nSó amor, amor!\nFaz do meu nada amor!\n\nSei que viver é amar\nQue amar é sofrer, que amar é se dar\nAh! Bem pequena eu sou\nComo, então, desejar só viver de amor?\n\nMas tudo podes em mim\nUm teu único olhar tudo em mim mudará\nE não sendo mais do que eu sou\nSendo toda amor\nViverei para sempre ao teu lado, Senhor\nSendo toda amor!\n\nFaz do meu nada amor!\nSó amor, amor!\nFaz do meu nada amor!",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-assinaturas"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "ent-9eb4cae5",
+        "title": "Chuva de graça",
+        "composer": "Eliana Ribeiro",
+        "lyrics": "Chuva de graça, pedimos a Ti\nChuva de graça, derrama em nós\nChuva de graça, neste lugar\nDerrama\n\nHá uma chuva de graça aqui\nEstá chovendo sobre todos nós\nE quem mais se entregar\nMais se molhará\n\nHá uma semente pra germinar\nE muitos frutos a se produzir\nNa terra do coração\nDerrama tua graça\n\nChuva de graça, pedimos a Ti\nChuva de graça, derrama em nós\nChuva de graça, neste lugar\nDerrama",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento",
+            "louvor"
+        ],
+        "momentIds": [
+            "entrada",
+            "final",
+            "casamento-saida",
+            "louvor-abertura"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "ent-74421147",
+        "title": "Derrama o Teu amor aqui",
+        "composer": "Celina Borges",
+        "lyrics": "Senhor, eu quero obedecer a Tua voz\nDerrama o Teu Espírito sobre todos nós\nSenhor, eu quero mergulhar, me comprometer\nEntrar na intimidade do Teu coração\nDerrama em nós Tua unção\n\nDerrama o Teu amor aqui\nDerrama o Teu amor aqui\nFaz chover sobre nós Água Viva (2x)\n\nSenhor, eu quero obedecer a Tua voz\nDerrama o Teu Espírito sobre todos nós\nSenhor, eu quero mergulhar, me comprometer\nEntrar na intimidade do Teu coração\nDerrama em nós Tua unção\n\nDerrama o Teu amor aqui\nDerrama o Teu amor aqui\nFaz chover sobre nós Água Viva (2x)\n\n\nUma igreja renovada\nPovo santo reunido\nFamílias restauradas\nPelo poder do Teu Espírito\n\nDerrama o Teu amor aqui\nDerrama o Teu amor aqui\nFaz chover sobre nós Água Viva (2x)",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "entrada",
+            "casamento-saida"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "cas-f649d0bb",
+        "title": "Serviremos a Ti",
+        "composer": "Entretons",
+        "lyrics": "Minha casa, meu lar, quero Te consagrar\nTe servir e ofertar os nossos dons\nVamos, diante do altar, nossa vida Te dar\nE o nosso futuro entregar em Tuas mãos, oh, Senhor\nCom Tua graça vem nos abençoar\n\nEu e minha casa serviremos a Ti em louvor\nEu e minha casa serviremos a Ti, oh, Senhor",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-saida"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "fin-fd559289",
+        "title": "Deixa Deus sonhar em ti",
+        "composer": "Frei Gilson",
+        "lyrics": "Deixa Deus sonhar em ti\nDeixa, deixa Deus sonhar em ti\nNão tenhas medo\nÉ Deus quem te segura (2x)\n\nVerás um caminho difícil demais\nVerás tempestades que te assustarão\nMas quando o sonho é de Deus, ninguém destruirá\nSe Ele prometeu, também cumprirá\nTenha paciência e saiba esperar\nO melhor de Deus virá\n\nSegue além\nSegue além\nSegue além\nSegue além",
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "momentIds": [
+            "final",
+            "casamento-saida"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "cas-efb5a586",
+        "title": "Tudo posso",
+        "composer": "Celina Borges",
+        "lyrics": "Posso, tudo posso Naquele que me fortalece\nNada e ninguém no mundo vai me fazer desistir\nQuero, tudo quero, sem medo entregar meus projetos\nDeixar-me guiar nos caminhos que Deus desejou pra mim\nE ali estar\n\nVou perseguir tudo aquilo que Deus já escolheu pra mim\nVou persistir e mesmo nas marcas daquela dor\nDo que ficou, vou me lembrar\n\nE realizar o sonho mais lindo que Deus sonhou\nEm meu lugar estar na espera de um novo que vai chegar\nVou persistir, continuar a esperar e crer\nE mesmo quando a visão se turva e o coração só chora\nMas na alma há certeza da vitória\n\nPosso, tudo posso Naquele que me fortalece\nNada e ninguém no mundo vai me fazer desistir\n\nVou perseguir tudo aquilo que Deus já escolheu pra mim\nVou persistir, e mesmo nas marcas daquela dor\nDo que ficou, vou me lembrar\n\nE realizar o sonho mais lindo que Deus sonhou\nEm meu lugar estar na espera de um novo que vai chegar\nVou persistir, continuar a esperar e crer\nEu vou sofrendo, mas seguindo enquanto tantos não entendem\n\nVou cantando minha história, profetizando\nQue eu posso, tudo posso... em Jesus!",
+        "celebrationTypeIds": [
+            "casamento"
+        ],
+        "momentIds": [
+            "casamento-saida"
+        ],
+        "liturgicalSeasons": []
+    }
 ]
