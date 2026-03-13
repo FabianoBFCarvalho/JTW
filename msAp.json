@@ -3,10 +3,9 @@
         "id": "ent-01",
         "title": "A Bíblia é a palavra de Deus",
         "composer": "Paulo Roberto",
-        "lyrics": "<b>A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>\n\nDeus é bom, nos ensina a viver\nNos revela o caminho a seguir\nSó no amor, partilhando seus dons\nSua presença iremos sentir\n\n<b>A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>\n\nSomos povo, o povo de Deus\nE formamos o reino de irmãos\nE a palavra que é viva nos guia\nE alimenta a nossa união\n\nA <b>Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo</b>",
+        "lyrics": "A Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo\n\nDeus é bom, nos ensina a viver\nNos revela o caminho a seguir\nSó no amor, partilhando seus dons\nSua presença iremos sentir\n\nA Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo\n\nSomos povo, o povo de Deus\nE formamos o reino de irmãos\nE a palavra que é viva nos guia\nE alimenta a nossa união\n\nA Bíblia é a palavra de Deus\nSemeada no meio do povo\nQue cresceu, cresceu e nos transformou\nEnsinando-nos viver um mundo novo",
         "momentIds": [
-            "entrada",
-            "final"
+            "entrada"
         ],
         "celebrationTypeIds": [
             "missa"
@@ -1131,11 +1130,11 @@
         "title": "Plenitude da verdade",
         "composer": "Musicas Católicas",
         "lyrics": "Senhor que sois a plenitude da verdade\ne da graça\nKyrie eleisson\nKyrie eleisson\nCristo que vos tornaste pobre\nPara nos enriquecer\nCriste, eleisson\nCriste, eleisson\nSenhor, que vieste pra fazer de nós\nO vosso povo santo\nKyrie eleisson\nKyrie eleisson",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1146,11 +1145,11 @@
         "title": "Tende piedade dos corações arrependidos",
         "composer": "Musicas Católicas",
         "lyrics": "Senhor, tende piedade dos corações arrependidos\nTende piedade de nós tende piedade de nós (2x)\n\nJesus, tende piedade dos pecadores, tão humilhados!\nTende piedade de nós tende piedade de nós (2x)\n\nSenhor, tende piedade intercedendo por nós ao pai!\nTende piedade de nós tende piedade de nós (2x)",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1161,11 +1160,11 @@
         "title": "Quero confessar (kyrie)",
         "composer": "Ministério Amor e Adoração",
         "lyrics": "Quero confessar a ti\nIlumina a minha alma\nEu reconheço, sou pecador\nDiante de mim eu sei\nEstá sempre o meu pecado\nFoi contra vós que eu pequei\n\nKyrie eleison\nChriste eleison\nKyrie eleison",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1176,11 +1175,11 @@
         "title": "Senhor que viestes salvar",
         "composer": "Musicas Católicas",
         "lyrics": "Senhor que viestes salvar\nOs corações arrependidos\nPiedade, Piedade\nPiedade de nós (2x)\n\nÓ, Cristo que viestes chamar\nOs pecadores humilhados\nPiedade, Piedade\nPiedade de nós (2x)\n\nSenhor que intercedeis por nós\nJunto a Deus Pai que nos perdoa\nPiedade, Piedade\nPiedade de nós (2x)",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1191,11 +1190,11 @@
         "title": "Compadece-Te",
         "composer": "Muscias Católicas",
         "lyrics": "Senhor, tem piedade.\nSenhor, tem piedade de nós.\nCompadece-te, Senhor, tem piedade!\n\nCristo, tem piedade.\nCristo, tem piedade de nós.\nCompadece-te, Cristo, tem piedade!\n\nSenhor, tem piedade.\nSenhor, tem piedade de nós.\nCompadece-te, Senhor, tem piedade!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1206,11 +1205,11 @@
         "title": "Oh Senhor",
         "composer": "Ministério Amor e Adoração",
         "lyrics": "Oh Senhor, tende piedade de nós!\nOh Senhor, tende piedade de nós!\n\nCristo, tende piedade de nós!\nCristo, tende piedade de nós!\n\nOh Senhor, tende piedade de nós!\nOh Senhor, tende piedade de nós!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1221,11 +1220,11 @@
         "title": "Kyrie Eleison",
         "composer": "JMJ 2013",
         "lyrics": "Senhor que vieste salvar\nOs corações arrependidos\nKyrie Eleison, Eleison, Eleison (2x)\n\nO Cristo que vieste chamar\nOs pecadores humilhados\nChriste Eleison, Eleison, Eleison (2x)\n\nSenhor que intercedeis por nós\nJuntos a Deus Pai que nos perdoa\nKyrie Eleison, Eleison, Eleison (2x)",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1236,11 +1235,11 @@
         "title": "Senhor, Vós sois o Caminho",
         "composer": "Coral Palestrina",
         "lyrics": "1. Senhor vós sois o caminho\nGuiai-nos ao Pai com carinho\nDe nós tende piedade\nSenhor, tende piedade!\n\n2. Ó Cristo, sois a verdade\nEnchei-nos de caridade\nDe nós tende piedade,\nÓ Cristo, tende piedade!\n\n3. Senhor, vós sois nossa vida\nBuscais a ovelha perdida\nDe nós tende piedade\nSenhor, tende piedade!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1251,11 +1250,11 @@
         "title": "Kyrie Eleison - Ovelha perdida",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Como a ovelha perdida, pelo pecado ferida\nEu te suplico perdão, ó bom pastor.\nKyrie eleison (3x)\n\nComo o ladrão perdoado, encontro o paraíso ao teu lado\nLembra-te de mim, pecador por tua cruz.\nChriste eleison (3x)\n\nComo a pecadora caída, derramo aos teus pés minha vida\nVê as lágrimas do meu coração e salva-me!\nKyrie eleison (3x)",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1266,11 +1265,11 @@
         "title": "Contrito",
         "composer": "Frei Gilson",
         "lyrics": "Contrito, humilhado\nProstrado meu coração está\nPreciso muito de ti\nMeu Senhor, vem me socorrer\n\nContrito, humilhado\nProstrado meu coração está\nPreciso muito de ti\nMeu Senhor, vem me socorrer\n\nE tem misericórdia de mim\nE tem misericórdia de mim filho de Davi\nE tem misericórdia de mim\nE tem misericórdia de mim filho de Davi\n\nMisericórdia, misericórdia\nMisericórdia Filho de Davi\nMisericórdia, misericórdia\nMisericórdia Filho de Davi\n\nSenhor, piedade! Cristo, piedade!\nSenhor piedade, piedade de nós",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1281,11 +1280,11 @@
         "title": "Glória - banda Ciros",
         "composer": "Banda Ciros",
         "lyrics": "Glória, glória a Deus no céu e paz na Terra\n\nDeus e Pai nós vos louvamos\nAdoramos, bendizemos\nDamos glória ao vosso nome\nVossos dons agradecemos\n\nGlória, glória a Deus no céu e paz na Terra\n\nSenhor nosso Jesus Cristo\nUnigênito do Pai\nVoz de Deus, Cordeiro Santo\nNossas culpas perdoai\n\nGlória, glória a Deus no céu e paz na Terra\n\nVós que estais junto do Pai\nComo nosso intercessor\nAcolhei nossos pedidos\nAtendei nosso clamor\n\nGlória, glória a Deus no céu e paz na Terra\n\nVós, somente, sois o Santo\nO Altíssimo, o Senhor\nCom o Espírito Divino\nDe Deus Pai no esplendor\n\nGlória, glória a Deus no céu e paz na Terra\nGlória, glória a Deus no céu e paz na Terra",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1296,11 +1295,11 @@
         "title": "Gloria - paz na terra",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Glória, glória, glória a Deus nas alturas\nGlória, glória, glória a Deus e aos homens toda a paz, sua paz\n\nSenhor Deus rei dos céus, Deus Pai onipotente\nNós vos louvamos, bendizemos, adoramos\nVos glorificamos, e damos graças\nPor vossa imensa glória\n\nGlória, glória, glória a Deus nas alturas\nGlória, glória, glória a Deus e aos homens toda a paz, sua paz\n\nSenhor Jesus Cristo, filho unigênito\nSenhor Deus cordeiro de Deus Filho de Deus Pai\nVós que tirais o pecado do mundo tende piedade de nós\nVós que tirais o pecado do mundo acolhei a nossa súplica\nVós que estais sentado a direita do Pai\ntende piedade de nós\n\nGlória, glória, glória a Deus nas alturas\nGlória, glória, glória a Deus e aos homens toda a paz, sua paz\n\nSó vós sois o Santo, só Vós o Senhor\nSó Vós o Altíssimo Cristo Jesus\nCom o Espirito Santo na glória de Deus pai de Deus Pai \n\nAmém, amém, amém, amém!\nAmém, amém, amém, amém, amém!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1311,11 +1310,11 @@
         "title": "Gloria - Eliana",
         "composer": "Eliana Ribeiro",
         "lyrics": "Glória A Deus Nas Alturas\nE Paz Na Terra Aos Homens Por Ele Amados.\nSenhor Deus, Rei Dos Céus, Deus Pai Todo Poderoso\n\nNós Vos Louvamos,\nNós Vos Bendizemos,\nNós Vos Adoramos,\nNós Vos Glorificamos,\nNós Vos Damos Graças, Por Vossa Imensa Glória.\n\nSenhor Jesus Cristo, Filho Unigênito,\nSenhor Deus, Cordeiro De Deus, Filho De Deus Pai:\nVós Que Tirais O Pecado Do Mundo, Tende Piedade De Nós;\nVós Que Tirais O Pecado Do Mundo, Acolhei A Nossa Súplica;\nVós Que Estais À Direita Do Pai, Tende Piedade De Nós.\n\nSó Vós Sois O Santo; Só Vós, O Senhor;\nSó Vós, O Altíssimo, Jesus Cristo;\nCom O Espírito Santo,\nNa Glória De Deus Pai. Amém! (2x)",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1326,11 +1325,11 @@
         "title": "Tua palavra",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Aleluia, aleluia, aleluia!\nAleluia, aleluia, aleluia!\n\nTua palavra é como fogo\nQue faz arder o coração\nTraz a verdade e ilumina a nossa vida\n\nAleluia, aleluia, aleluia!\nAleluia, aleluia, aleluia!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "pascoa",
@@ -1342,11 +1341,11 @@
         "title": "Buscai primeiro",
         "composer": "Musicas Católicas",
         "lyrics": "Buscai primeiro o reino de Deus e a sua justiça\nE tudo o mais vós será acrescentado, aleluia, aleluia\n\nNão só de pão o Homem viverá, mas de toda palavra\nQue procede da boca de Deus aleluia, aleluia\n\nSe vos perseguem por causa de mim, não esqueçais o porque\nNão é o servo maior que o senhor, aleluia, aleluia",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "tempoComum"
@@ -1357,11 +1356,11 @@
         "title": "A minh'alma abrírei",
         "composer": "Musicas Católicas",
         "lyrics": "Aleluia, aleluia! A minh'alma abrirei!\nAleluia, aleluia! Cristo é meu Rei.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "natal",
@@ -1374,11 +1373,11 @@
         "title": "Salve, oh Cristo Obediente",
         "composer": "Musicas Católicas",
         "lyrics": "Salve, ó cristo obediente!\nSalve, amor onipotente,\nQue te entregou à cruz\nE te recebeu na luz!\n\nO Cristo obedeceu até a morte,\nHumilhou-se e obedeceu o bom Jesus,\nHumilhou-se e obedeceu, sereno e forte,\nHumilhou-se e obedeceu até a cruz.\n\nPor isso o pai do céu o exaltou,\nExaltou-o e lhe deu um grande nome,\nExaltou-o e lhe deu poder e glória,\nDiante deles céus e terra se ajoelhem!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "quaresma"
@@ -1389,11 +1388,11 @@
         "title": "Palavra de Salvação",
         "composer": "Musicas Católicas",
         "lyrics": "Palavra de salvação somente o céu tem pra dar\nPor isso meu coração se abre para escutar\n\nPor mais difícil que seja seguir\nTua palavra queremos ouvir\nPor mais difícil de se praticar\nTua palavra queremos guardar\n\nPalavra de salvação somente o céu tem pra dar\nPor isso meu coração se abre para escutar\n\nCom Simão Pedro diremos também\nQue não é fácil dizer sempre amém\nMas não há outro na Terra e no céu\nMais companheiro, mais santo e fiel\n\nPalavra de salvação somente o céu tem pra dar\nPor isso meu coração se abre para escutar\nSe abre para escutar\nSe abre para escutar",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1404,11 +1403,11 @@
         "title": "Louvor e Glória",
         "composer": "Musicas Católicas",
         "lyrics": "Louvor e glória a ti, Senhor,\nCristo palavra de Deus, \nCristo palavra de Deus!\n\nNuma nuvem  resplendente \nfez-se ouvir a voz do Pai\nEis meu filho muito amado, \nEscutai-o todos vós!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1419,11 +1418,11 @@
         "title": "No principio era a Palavra",
         "composer": "Musicas Católicas",
         "lyrics": "Aleluia! Aleluia! (2x)\n\nNo princípio era a Palavra\nE a Palavra se encarnou\nE nós vimos sua glória\nSeu amor nos libertou!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "natal",
@@ -1435,11 +1434,11 @@
         "title": "Quando estamos unidos",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Aleluia, aleluia, aleluia\nAleluia, aleluia, aleluia\n\nQuando estamos unidos, estás entre nós\nE nos falarás da tua vida\nEste nosso mundo sentido terá\nSe tua palavra renovar\n\n\nAleluia, aleluia, aleluia\nAleluia, aleluia, aleluia",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "tempoComum"
@@ -1450,11 +1449,11 @@
         "title": "Principe da paz",
         "composer": "Missionário Shalom",
         "lyrics": "Aleluia! Aleluia!\nAleluia! Aleluia!\nJesus, Príncipe Da Paz,\nVem Nos Falar Da Salvação\n\nE Anunciar O Tempo Da Graça,\nE Juntos Cantar: Aleluia!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "natal",
@@ -1466,11 +1465,11 @@
         "title": "Nossa oferta de amor",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Vidas que se ofertam neste altar\nPara novas vidas gerar\nComo o grão de trigo cai e morre para frutificar\n\nDons que se consagram neste altar\nO eterno vem o tempo tocar\nSacrifício de amor que sempre se renovará\nComo no altar da cruz, o milagre da vida se fará\n\nHoje nossa pobreza se encontra no altar\nCom a tua grandeza, Senhor\nNossa vida perdida no vinho e no pão\nEis a nossa oferta de amor\nDe amor\nDe amor",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1481,11 +1480,11 @@
         "title": "Sabes Senhor",
         "composer": "Musicas Católicas",
         "lyrics": "Sabes, senhor\nO que temos é tão pouco pra dar\nMas esse pouco\nNós queremos com os irmãos compartilhar\n\nQueremos nesta hora\nDiante dos irmãos\nComprometer a vida\nBuscando a união\n\nSabes, senhor\nO que temos é tão pouco pra dar\nMas esse pouco\nNós queremos com os irmãos compartilhar\n\nSabemos que é difícil\nOs bens compartilhar\nMas com a tua graça\nSenhor, podemos dar\n\nSabes, senhor\nO que temos é tão pouco pra dar\nMas esse pouco\nNós queremos com os irmãos compartilhar\n\nOlhando o teu exemplo\nSenhor, vamos seguir\nFazendo o bem a todos\nSem nada exigir\n\nSabes, senhor\nO que temos é tão pouco pra dar\nMas esse pouco\nNós queremos com os irmãos compartilhar",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1496,11 +1495,11 @@
         "title": "Muitos grãos de trigo",
         "composer": "Musicas Católicas",
         "lyrics": "Muitos grãos de trigo, se tornaram pão\nHoje são Teu corpo, ceia e comunhão\nMuitos grãos de trigo, se tornaram pão\n\nToma, Senhor, nossa vida em ação\nPara mudá-la em fruto e missão\nToma, Senhor, nossa vida em ação\nPara mudá-la em missão\n\nMuitos cachos de uva, se tornaram vinho\nHoje são teu sangue, força no caminho\nMuitos cachos de uva, se tornaram vinho\n\nMuitas são as vidas, feitas vocação\nHoje oferecidas em consagração\nMuitas são as vidas, feitas vocação",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1511,11 +1510,11 @@
         "title": "Meu coração é para Ti",
         "composer": "Padre Marcelo Rossi",
         "lyrics": "1. Meu coração é para Ti, Senhor\nMeu coração é para Ti, Senhor\nMeu coração é para Ti, Senhor\nMeu coração é para Ti\n\nPorque Tu me deste a vida\nPorque Tu me deste o existir\nPorque Tu me deste o carinho\nMe deste o amor (2x)\n\n2. A minha vida é para Ti, Senhor\nO meu trabalho é para Ti, Senhor\nA minha casa é para Ti, Senhor\nA minha vida é para Ti\n\n3. Pão e vinho são para Ti, Senhor\nPão e vinho são para Ti, Senhor\nPão e vinho são para Ti, Senhor\nPão e vinho são para Ti, Senhor",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1526,11 +1525,11 @@
         "title": "Um coração para amar",
         "composer": "Padre Zezinho",
         "lyrics": "1. Um coração para amar, pra perdoar e sentir\nPara chorar e sorrir, ao me criar tu me destes\nUm coração pra sonhar, inquieto e sempre a bater\nAnsioso por entender as coisas que tu disseste\n\nEis o que eu venho te dar\nEis o que eu ponho no altar\nToma, Senhor, que ele é teu\nMeu coração não é meu (2x)\n\n2. Quero que o meu coração seja tão cheio de paz\nQue não se sinta capaz de sentir ódio ou rancor\nQuero que a minha oração possa me amadurecer\nLeve-me a compreender as consequências do amor",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1541,11 +1540,11 @@
         "title": "Nossa oferta",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "É teu tudo o que somos\nTodo o nosso coração\nNossa vida, pão e vinho neste altar\n\nO trigo que trazemos\nDo labor de nossas mãos\nNossa oferta, em novo pão transformará\n\nSe transformará\nEm teu corpo e sangue\n\nPara ti o nosso pobre coração\nLivremente ofertamos em tuas mãos\nNossa vida entregamos neste altar\nHoje e sempre um novo sim\n\nDa videira vem o fruto\nPor bondade tu nos dás\nOdres novos, vinho novo transformará\n\nSe transformará\nEm teu corpo e sangue\nPurificará\nA nossa oferta\n\nPara ti o nosso pobre coração\nLivremente ofertamos em tuas mãos\nNossa vida entregamos neste altar\nHoje e sempre um novo sim",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1556,11 +1555,11 @@
         "title": "Do céu vai descer o Cordeiro",
         "composer": "Coral Palestrina",
         "lyrics": "1. Do céu vai descer o cordeiro!\nÉ dom, puro dom, salvação!\nNo altar do penhor verdadeiro,\nTambém vamos ser oblação.\n\nEis, senhor, a tua vinha.\nFrutos mil te traz, senhor.\nMas teu povo que caminha,\nMais que fruto é dom de amor!\n\n2. Na terra já brota a esperança,\nE a graça de deus vem dizer\nQue o povo da nova aliança\nTambém oferenda vai ser.\n\n3. Irmãos na fé viva exultante,\nPartilham o pão sempre mais.\nE campos já mais verdejantes\nTambém já se tornam trigais!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "advento"
@@ -1571,11 +1570,11 @@
         "title": "Cristãos, vinde todos",
         "composer": "Musicas Católicas",
         "lyrics": "Cristãos, vinde todos, com alegres cantos.\nOh! Vinde, oh! Vinde até Belém.\nVede nascido, vosso Rei Eterno.\n\nOh! Vinde adoremos, oh! Vinde adoremos,\nOh! Vinde adoremos o Salvador!\n\nHumildes pastores deixam seu rebanho\nE alegres acorrem ao Rei do Céu.\nNós, igualmente, cheios de alegria.\n\nO Deus invisível de eterna grandeza,\nSob véus de humildade, podemos ver.\nDeus pequenino, Deus envolto em faixas!\n\nNasceu em pobreza, repousando em palhas.\nO nosso afeto lhe vamos dar. \nTanto amou-nos! Quem não há de amá-lo?\n\nA estrela do oriente, conduzem os magos\nE a este mistério, envolve em luz\nTal claridade, também seguiremos.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "natal"
@@ -1586,11 +1585,11 @@
         "title": "Estar em Tuas mãos",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Mão na terra e o coração além deste céu\nE a semente que brota é um germe de eternidade\nVai brotando, crescendo, esperando\nÉ a vida que vem despontar\nE este trigo maduro, a colheita o recolherá\n\nEstar em tuas mãos, ó Pai\nE a vida ofertar\nNo pão e no vinho a Ti\nE o céu se abrirá\nEstar em tuas mãos, Senhor\nE a vida entregar\nA minha oblação em Ti\nSe perderá, frutificará\nFrutificará, frutificará, frutificará!\n\nDa videira a flor não restará, passará\nE o fruto da terra surgirá, brotará\nPela força do vento, da chuva\nE do sol que traz vida e calor\nCada dia, crescendo e aprendendo a recomeçar",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1601,11 +1600,11 @@
         "title": "Minha vida tem sentido",
         "composer": "Padre Zezinho",
         "lyrics": "Minha vida tem sentido, cada vez que eu venho aqui,\nE te faço o meu pedido de não me esquecer de ti.\n\nMeu amor é como este pão, que era trigo,\nQue alguém plantou depois colheu.\nE depois, tornou-se salvação\nE deu mais vida e alimentou o povo meu.\n\nEu te ofereço este pão,\nEu te ofereço meu amor.\nEu te ofereço este pão,\nEu te ofereço meu amor.\n\nMinha vida tem sentido, cada vez que eu venho aqui,\nE te faço o meu pedido de não me esquecer de ti.\n\nMeu amor é como este vinho, que era fruto,\nQue alguém plantou, depois colheu.\nE depois encheu-se de carinho,\nE deu mais vida, e saciou o povo meu.\n\nEu te ofereço vinho e pão,\nEu te ofereço meu amor.\nEu te ofereço vinho e pão,\nEu te ofereço meu amor.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1616,11 +1615,11 @@
         "title": "Teu sou",
         "composer": "Eugênio Jorge",
         "lyrics": "1. Eu não sou nada e do pó nasci,\nMas Tu me amas e morrestes por mim\nDiante da cruz só posso exclamar\nTeu sou, Teu sou.\n\nToma minhas mãos te peço\nToma meus lábios, te amo\nToma minha vida, ó Pai Teu sou.\n\n2. Quando de joelhos te olho, ó Jesus\nVejo tua grandeza e minha pequenês\nQue posso dar-te eu? Só meu ser\nTeu sou, teu sou.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1631,11 +1630,11 @@
         "title": "Servo por Amor (doa a tua vida)",
         "composer": "Musicas Católicas",
         "lyrics": "1. Numa noite de fadiga, sobre o barco em alto mar\nO céu começa a clarear, a tua rede está vazia\nMas a voz que te chama, te mostrará um outro mar\nE sobre muitos corações a tua rede lançarás\n\nDoa a tua vida, como Maria aos pés da cruz\nE serás servo de cada homem\nServo por amor\nSacerdote da humanidade\n\n2. Caminhavas no silêncio, esperando além da dor\nQue a semente que tu lançavas\nNo bom terreno germinasse\nMas o coração exulta\nPorque o campo já está dourado\nO grão maduro pelo sol, no celeiro pode entrar.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1646,11 +1645,11 @@
         "title": "Pão e Vinho",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Pão e vinho te apresentamos nesse altar\nComo sinal que tu recolhes nossa oferta\nTudo o que somos deixamos aqui. (2x)\n\nÉ um milagre que se dá\nO pão e o vinho em corpo e sangue,\nVão se transformar\nNão há limites para o amor\nVem transformar também minha vida\nÓ senhor, é teu esse milagre de amor.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1661,11 +1660,11 @@
         "title": "Mistério de fé",
         "composer": "Musicas Católicas",
         "lyrics": "1. Um olhar, uma voz, um sentir\nÉ o que preciso diante de Ti\nOlhar Tua vida entregue neste altar\nRender-me ao teu eterno chamado ao amor\n\nUm coração seria pouco, meu Deus, para te amar\nReceba o pouco que eu sou, hoje quero me oferecer\nUm coração seria pouco, meu Deus, para te amar\nRecebo Tua graça neste altar\n\n2. Meu Jesus, o Teu Corpo se faz pão\nPara alimentar todo o meu ser\nLembrando Tua dor, meu sofrer se faz viver\nNo mistério da fé acreditar, me faz cantar",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1676,12 +1675,12 @@
         "title": "Que mistério de vida é esse",
         "composer": "Marcela Buback",
         "lyrics": "1. Que mistério de vida é este,\nQue assume o humano sofrer?\nQue impõe suas mãos sobre o mundo,\nPara o mundo poder nele crer?\nQue mistério de vida é este,\nQue se torna pastor do rebanho?\nQuem o segue não anda sozinho:\nMostra a todos amor sem tamanho?\n\nVós que estais aflitos,\nVinde a mim, vou socorrer,\nEis que escuto o grito,\nE vou logo atender.\nEu sou o mistério,\nSou mais vida feito pão,\nSou o próprio Cristo Jesus,\nNesta comunhão.\n\n2. Que mistério de vida é este,\nQue expulsa o mal e a dor?\nQue tem pena do povo que sofre,\nE acolhe a todos co’amor?\nQue mistério de vida é este,\nQue se dá em martírio total?\nQue carrega em seus ombros o peso,\nPra curar-nos de todo o mal?\n\n3. Que mistério de vida é este,\nQue revela amor aos pequenos,\nQue afasta de nós todo o medo,\nDe crescer em tão fértil terreno?\nQue mistério de vida é este,\nQue ensina a lei do Senhor?\nQue revela num só mandamento,\nA alegria da vida no amor?\n\n4. Que mistério de vida é este,\nQue nos faz enxergar sua luz?\nQue nos mostra qual é o caminho,\nQue à casa do Pai nos conduz?\nQue mistério de vida é este,\nQue nos faz exultar de alegria?\nÓ Mistério, que dom tão profundo,\nÉ Jesus feito eucaristia.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1692,11 +1691,11 @@
         "title": "A ti meu Deus",
         "composer": "Musicas Católicas",
         "lyrics": "1. A ti meu deus\nElevo meu coração\nElevo as minhas mãos \nMeu olhar, minha voz\nA ti meu Deus eu quero oferecer\nMeus passos e meu viver\nMeu caminhos, meu sofrer\n\nA tua ternura Senhor vem me abraçar\nE a tua bondade infinita me perdoar\nVou ser o teu seguidor e te dar o meu coração\nEu quero sentir o calor de tuas mãos\n\n2. A ti meu Deus\nQue és bom e que tens amor\nAo pobre, ao sofredor\nVos servir, esperar\nEm ti Senhor\nHumildes se alegrarão\nCantando a nossa canção\nDe esperança e de paz",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1707,11 +1706,11 @@
         "title": "Só em Ti viver",
         "composer": "Agnus Dei",
         "lyrics": "1. As coisas que o mundo oferecia\nMe impediam de Te encontrar\nDe ver que a vida e só em Ti\nMas, Tu vieste e tocaste\nBem no fundo do meu coração\nMe ensinaste a Te amar!\n\nÓ, Jesus, recebe então a minha vida\nRecebe as coisas que de Ti me afastam\nPois só em Ti quero viver\n\n2. Agora, que o meu coração é Teu\nQuero sempre Te louvar\nTua vida transbordar\nPara que mais gente experimente\nTeu amor nos transformando\nTua mão a nos tocar",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1722,11 +1721,11 @@
         "title": "Os dons que trago aqui",
         "composer": "Musicas Católicas",
         "lyrics": "1. Os dons que trago aqui são o que fiz, o que vivi.\nO pão que ofertarei, pouco depois comungarei.\nAssim, tudo o que é meu, sinto também que é de Deus.\n\nEsforços, trabalhos e sonhos,\nO amor concreto e feliz desse dia.\nPor cristo, com Cristo e em Cristo,\nTudo ofertamos ao Pai na alegria.\n\n2. Jesus nos quis chamar, para seguir e ajudar\nE aqui nos vai dizer, como servir e oferecer\nDeus põe nas minhas mãos, para eu partir com meus irmãos.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1737,11 +1736,11 @@
         "title": "Sobe a Jerusalém",
         "composer": "Musicas Católicas",
         "lyrics": "Sobe a Jerusalém, Virgem oferente sem igual\nVai, apresenta ao Pai, teu Menino: luz que chegou no Natal\nE, junto à sua cruz, quando Deus morrer fica de pé\nSim, Ele te salvou, mas o ofereceste por nós com toda fé\n\nNós vamos renovar este sacrifício de Jesus\nMorte e ressurreição, vida que brotou de sua oferta na cruz\nMãe, vem nos ensinar a fazer da vida uma oblação\nCulto agradável a Deus é fazer a oferta do próprio coração",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "natal"
@@ -1752,12 +1751,12 @@
         "title": "Alma de Cristo - Santa Missa Jovem",
         "composer": "Musicas Católicas",
         "lyrics": "Alma de Cristo, santificai-nos\nCorpo de Cristo, salvai-nos\nSangue de Cristo, inebriai-nos\nÁgua do lado de Cristo, lavai-nos\nPaixão de Cristo, confortai-nos\nÓ bom Jesus, ouvi-nos\n\nAdoramus te\nLaudamos te, domine\nAdoramus te\nLaudamos te, domine\n\nEm vossas chagas, escondei-nos\nDo inimigo, defendei-nos\nNão permitais que nos separemos de vós\nNa hora da nossa morte, chamai-nos\nPara louvar-vos com vossos santos\nPela eternidade",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1768,14 +1767,14 @@
         "title": "Divino Coração",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Divino Coração, fonte inesgotável da paz\nNo sangue, na água, nós somos lavados: Somos recriados em Ti\nDivino Coração, braseiro ardente de amor\nChama que queima, cura e purifica: Somos transformados em Ti\n\nComungamos teu corpo e sangue, confiamos no teu amor\nEscondidos em tuas chagas, para sempre queremos viver\nAdoramos teu corpo e sangue, confiamos no teu amor\nSacrifício, aliança eterna: Do altar da cruz, vida nova jorrará!\n\nDivino Coração, humanidade de Deus\nO céu se faz terra, toca nossa vida: Somos alcançados por ti\nDivino Coração, doce abaixar-se de Deus\nQue reveste o homem de sua realeza: Somos elevados por Ti\n\nComungamos teu corpo e sangue, confiamos no teu amor\nEscondidos em tuas chagas, para sempre queremos viver\nAdoramos teu corpo e sangue, confiamos no teu amor\nSacrifício, aliança eterna: Do altar da cruz, vida nova jorrará!",
-        "celebrationTypeIds": [
-            "missa",
-            "casamento"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas",
             "casamento-comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1786,12 +1785,12 @@
         "title": "Este pranto em minhas mãos",
         "composer": "Eugênio Jorge",
         "lyrics": "Muito alegre eu te pedi o que era meu partir\nUm sonho tão normal\nDissipei meus bens e o coração também\nNo fim meu mundo era irreal\n\nConfiei no teu amor e voltei, sim, aqui é meu lugar\nEu gastei teus bens ó Pai e te dou este pranto em minhas mãos\n\nMil amigos conheci disseram adeus caiu, a solidão em mim\nUm patrão cruel levou-me a refletir\nMeu pai não trata um servo assim\n\nConfiei no teu amor e voltei, sim, aqui é meu lugar\nEu gastei teus bens ó Pai e te dou este pranto em minhas mãos\n\nNem deixaste-me falar da ingratidão\nMorreu no abraço, o mal que eu fiz\nFesta, roupa nova, o anel, sandália aos pés\nVoltei à vida, sou feliz\n\nConfiei no teu amor e voltei, sim, aqui é meu lugar\nEu gastei teus bens ó Pai e te dou este pranto em minhas mãos",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "tempoComum"
@@ -1802,13 +1801,13 @@
         "title": "Milagre de Amor",
         "composer": "Juliana de Paula",
         "lyrics": "Que bom Te receber no meu coração\nTe tocar, ter-te em minhas mãos\nCom carinho Te acolher\nE Contigo ser um só\n\nTer Contigo uma perfeita comunhão\nCorpo e sangue vinho e pão\nMilagre de amor, fonte de vida\n\nÓ meu Jesus, Eucaristia\nEu Te recebo em comunhão\nPois mesmo sem que eu mereça\nVens fazer morada no meu coração\n\nEu te adoro, meu Jesus\nDoce mistério no meu coração\nComo um Deus tão grande e soberano\nSe faz pequeno um pedaço de pão?\nSó por amor",
-        "celebrationTypeIds": [
-            "missa",
-            "casamento"
-        ],
         "momentIds": [
             "comunhao",
             "casamento-comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1819,13 +1818,13 @@
         "title": "Caminhada",
         "composer": "Musicas Católicas",
         "lyrics": "1. Alguém chama, Ele me ama \nE me conduz e me quer feliz \nEle fala, só escuto, paro mudo \nE o que Ele me diz \n\nVem me seguir que eu caminho \nJunto com você ao fim \nDepois da caminhada você é feliz \nSe deixas todas coisas só por mim, por mim \nVem me seguir que o meu caminho \nÉ o da porta estreita, sim\nPorém ao acabar junto de mim \nVocê vai entender por que é bom, é bom servir \n\n2. Ele quer uma resposta\nTodo dia de você irmão \nÉ difícil a caminhada \nE por isso, ele lhe estende a mão",
-        "celebrationTypeIds": [
-            "missa",
-            "casamento"
-        ],
         "momentIds": [
             "comunhao",
             "casamento-comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1836,13 +1835,13 @@
         "title": "Deus presente",
         "composer": "Toca de Assis",
         "lyrics": "A cada dia vens \nEm sacrifício se dá \nCorpo e sangue vem nos ofertar \nA esperança de uma vida santa \nTodo aquele que teu corpo e sangue comungar\n\nNão é mais pão é Deus presente \nSe vê, se sente \nCordeiro imolado sobre o altar \nNão é mais vinho é o sangue do Senhor\nQue nos liberta \nE cura o nosso coração da dor",
-        "celebrationTypeIds": [
-            "missa",
-            "casamento"
-        ],
         "momentIds": [
             "comunhao",
             "casamento-comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1853,12 +1852,12 @@
         "title": "Vigiai, Ficai Atentos",
         "composer": "Musicas Católicas",
         "lyrics": "Um dia Jesus falou\nObservai, tomai cuidado\nPreparai-vos, pois não sabeis\nEm que dia o Senhor virá\nÀ tarde, à meia-noite\nDe madrugada, amanhecendo\nO que vos digo, digo a todos\nVigiai ficai atentos\n\nAbre, coração, e preparai\nVosso caminho com alegria\nPorque Jesus que vai chegar\nÉ o Messias(2x)\n\nUm dia o Senhor falou\nPelo profeta Isaías\nEis que envio meu mensageiro\nVoz que no deserto grita\nPreparai e endireitai\nO caminho do Senhor\nFoi assim que João Batista\nUm batismo ele pregou\n\nUm dia Deus enviou\nO seu anjo Gabriel\nQue saudou a Maria Virgem\nBoa Nova anunciou\nAlegra-te, ó Maria\nO Senhor contigo está\nDarás à luz e terás um Filho\nQue eternamente reinará",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "advento"
@@ -1869,13 +1868,13 @@
         "title": "Como És lindo",
         "composer": "Vida Reluz",
         "lyrics": "Que bom, Senhor, ir ao teu encontro\nPoder chegar e adentrar a tua casa\nSentar-me contigo e partilhar da mesma mesa\nTe olhar, te tocar e te dizer, meu Deus, como és lindo\nTe olhar, te tocar e te dizer, meu Deus, como és lindo\n\nÓ meu Senhor, sei que não sou nada\nSem merecer fizeste em mim tua morada\nMas ao receber-te perfeita comunhão se cria\nSou em ti, és em mim\nMinh‘alma diz, meu Deus, como és lindo\nSou em ti, és em mim\nMinh‘alma diz, meu Deus, como és lindo",
-        "celebrationTypeIds": [
-            "missa",
-            "casamento"
-        ],
         "momentIds": [
             "comunhao",
             "casamento-comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1886,14 +1885,14 @@
         "title": "Divino Esposo",
         "composer": "Suely Façanha",
         "lyrics": "Mais uma vez venho oferecer\nMeu coração pra que venhas habitar\nSei meu senhor digno não sou\nDe receber-te dentro de mim\n\nUm amor maior que toda imperfeição\nQue se faz vivo no partir do pão\nMaravilhado estou nesta comunhão\nDoce hospede da alma\nResta-me te adorar\n\nAdorar, teu santo corpo em mim\nAdorar, teu santo sangue em mim\nAdorar, divino esposo (adorar)\n\nJá não sou mais eu que vivo\nMas tu que vives em mim\n\nAdorar, teu santo corpo em mim\nAdorar, teu santo sangue em mim\nAdorar, divino esposo (adorar)",
-        "celebrationTypeIds": [
-            "missa",
-            "casamento"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas",
             "casamento-comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1904,11 +1903,11 @@
         "title": "Quando Teu Pai revelou",
         "composer": "Waldeci Farias",
         "lyrics": "Quando teu Pai revelou o segredo a Maria\nQue, pela força do Espírito, conceberia\nA Ti, Jesus, Ela não hesitou logo em responder\nFaça-se em mim, pobre serva o que a Deus aprouver!\n\nHoje imitando a Maria que é imagem da Igreja\nNossa família outra vez Te recebe e deseja\nCheia de fé, de esperança e de amor, dizer sim a Deus\nEis aqui os teus servos, Senhor!\n\nQue a graça de Deus cresça em nós sem cessar\nE de Ti, nosso Pai, venha o Espírito Santo de amor\nPra gerar e formar Cristo em nós\n\nPor um decreto do Pai Ela foi escolhida\nPara gerar-te, ó Senhor, que és origem da vida\nCheia do Espírito Santo no corpo e no coração\nFoi quem melhor cooperou com a Tua missão\n\nNa comunhão recebemos o Espírito Santo\nE vem contigo Jesus, o teu Pai sacrossanto\nVamos agora ajudar-te no plano da salvação\nEis aqui os teus servos, Senhor!\n\nQue a graça de Deus cresça em nós sem cessar\nE de Ti, nosso Pai, venha o Espírito Santo de amor\nPra gerar e formar Cristo em nós\n\nNo coração de Maria, no olhar doce e terno\nSempre tiveste na vida um apoio materno\nDesde Belém, Nazaré, só viveu para Te servir\nQuando morrias na cruz Tua mãe estava ali\n\nMãe amorosa da Igreja quer ser nosso auxílio\nReproduzir nos cristãos as feições de Teu Filho\nComo Ela fez em Caná, nos convida a Te obedecer\nEis aqui os Teus servos, Senhor!\n\nQue a graça de Deus cresça em nós sem cessar\nE de Ti, nosso Pai, venha o Espírito Santo de amor\nPra gerar e formar Cristo em nós",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1919,11 +1918,11 @@
         "title": "Vejam, Eu andei pelas  vilas",
         "composer": "Musicas Católicas",
         "lyrics": "Vejam: eu andei pelas vilas, apontei as saídas\nComo o Pai me pediu. Portas eu cheguei para abri-las,\nEu curei as feridas como nunca se viu.\n\nPor onde formos também nós que brilhe a tua luz\nFala, Senhor, na nossa voz, em nossa vida\nNosso caminho então conduz, queremos ser assim\nQue o pão da vida nos revigore em nosso \"sim\"\n\nVejam: fiz de novo a leitura das raízes da vida\nQue meu Pai vê melhor. Luzes acendi com brandura,\nPara a ovelha perdida não medi meu suor.\n\nVejam: procurei bem aqueles que ninguém procurava\nE falei de meu Pai. Pobres, a esperança que é deles\nEu não quis ver escrava de um poder que retrai.\n\nVejam: semeei consciência nos caminhos do povo,\nPois o Pai quer assim. Tramas, enfrentei\nPrepotência dos que temem o novo, qual perigo sem fim.\n\nVejam: eu quebrei as algemas, levantei os caídos,\nDo meu Pai fui as mãos. Laços, recusei os esquemas,\nEu não quero oprimidos, quero um povo de irmãos.\n\nVejam: procurei ser bem claro; o meu reino é diverso,\nNão precisa de rei. Tronos, outro jeito mais raro\nDe juntar os dispersos o meu pai tem por lei.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1934,11 +1933,11 @@
         "title": "Fonte do Viver",
         "composer": "Ministério Amor e Adoração",
         "lyrics": "Eis aqui a fonte do viver\nO pão e o vinho no altar sustenta a humanidade\n\nE em procissão vou receber\nO cristo vivo a se doar para a eternidade\n\nTodos tem o seu lugar, nesta mesa singular\nDe fraternidade e vida\n\nEis a tua vitória, vai além da história\nAmor tão grande assim\n\nEis o meu corpo partido por ti, fazei isto em memória de mim\nEis o meu sangue derramado na cruz, venham todos a mim: eu sou Jesus!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1949,12 +1948,12 @@
         "title": "Vou cantar teu amor",
         "composer": "Padre Fabio de Melo",
         "lyrics": "Vou cantar teu amor\nser no mundo um farol\neis-me aqui, Senhor\nvem abrir as janelas do meu coração\ne então falarei imitando tua voz\ncreio em ti, Senhor\nnas pegadas deixadas por ti\nvou andar\n\nVou falar do teu coração\ncom ternura nas mãos e na voz\nproclamar que a vida é bem mais\ndo que aquilo que o mundo ensina\ne cantar\n\nCantar um canto ensinado por Deus\ncom poesia ensinar nossa fé\nplantar o chão, cultivar o amor\ncomo poetas que querem sonhar\n\nPra realizar o que o mestre ensinou\nviemos cear, restaurar o coração\nfonte de vida no altar a brotar\na nos alimentar\n\nCelebrar meu viver\npra no mundo ser mais\nfaz de mim, Senhor\naprendiz da verdade, justiça e da paz\n\nComungar teu viver\nneste vinho, neste pão\nquero ser, Senhor\nnovo homem nascido do teu coração",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1965,11 +1964,11 @@
         "title": "Eu sou o Pão da vida",
         "composer": "Padre Marcelo Rossi",
         "lyrics": "Eu sou o pão, da vida o pão do céu\nEu sou o Rei dos Reis, o Salvador\nEu sou o Cristo, o filho do Deus Vivo\nMe dei por vós só por amor\n\nEste é meu corpo toma e comei\nEste é meu sangue\nToma e bebei\nRevesti-vos de minha força\nEstejais em mim\nEis que estou convosco até o fim\n\nEu venci o mundo, vos livrei do mal\nTomei vossos pecados, deixei lá na cruz\nVos livrei,\nDa morte tomei vossa dor\nVenha, tenha coragem, eu sou o Senhor\n\nEste é meu corpo toma e comei\nEste é meu sangue\nToma e bebei\nRevesti-vos de minha força\nEstejais em mim\nEis que estou convosco até o fim",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -1980,11 +1979,11 @@
         "title": "Tomai, Comei",
         "composer": "Musicas Católicas",
         "lyrics": "1. Eu quis comer esta ceia agora\nPois vou morrer já chegou minha hora\n\nTomai, comei, é meu corpo e meu sangue que dou\nVivei no amor, eu vou preparar a ceia na casa do Pai\n\n2. Comei o pão, é meu corpo imolado por vós\nPerdão para todo o pecado\n\nTomai, comei, é meu corpo e meu sangue que dou\nVivei no amor, eu vou preparar a ceia na casa do Pai\n\n3. E vai nascer do meu sangue a esperança\nO amor, a paz: Uma nova aliança\n\nTomai, comei, é meu corpo e meu sangue que dou\nVivei no amor, eu vou preparar a ceia na casa do Pai\n\n4. Vou partir; deixo o meu testamento\nVivei no amor: Eis meu mandamento\n\nComei, tomai, é meu corpo e meu sangue que dou\nVivei no amor, eu vou preparar a ceia na casa do Pai\n\n5. Irei ao Pai; sinto a vossa tristeza porém no céu\nVos preparo outra mesa\n\nTomai, comei, é meu corpo e meu sangue que dou\nVivei no amor, eu vou preparar a ceia na casa do Pai\n\n6. De Deus virá o Espírito Santo\nQue vou mandar pra enxugar vosso pranto\n\nTomai, comei, é meu corpo e meu sangue que dou\nVivei no amor, eu vou preparar a ceia na casa do Pai",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "quaresma"
@@ -1995,12 +1994,12 @@
         "title": "A barca",
         "composer": "Musicas Católicas",
         "lyrics": "Tu te abeiraste da praia\nNão buscaste nem sábios nem ricos\nSomente queres que eu te siga\n\nSenhor, Tu me olhaste nos olhos\nA sorrir, pronunciaste meu nome\nLá na praia, eu larguei o meu barco\nJunto a Ti, buscarei outro mar\n\nTu sabes bem que em meu barco\nEu não tenho nem ouro nem espadas\nSomente redes e o meu trabalho\n\nTu, minhas mãos solicitas\nMeu cansaço que a outros descanse\nAmor que almejas, seguir amando\n\nTu, pescador de outros lagos\nÂnsia eterna de almas que esperam\nBondoso amigo que assim me chamas",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2011,11 +2010,11 @@
         "title": "Só em Deus",
         "composer": "Maria do Rosário",
         "lyrics": "Só em Deus o repouso encontrei, só em Deus achei abrigo\nEle é a rocha firme amor, Ele é meu grande amigo.\n\nEle é Jesus meu Salvador, Jesus, meu Rei e Senhor eu sei\nEle é Jesus, meu Salvador, Jesus, meu Rei e Senhor. \n\nSó em Deus fortaleza encontrei pra vencer o inimigo\nSó em Deus a vitória alcancei, Ele sempre está comigo.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2026,12 +2025,12 @@
         "title": "Majestosa Eucaristia",
         "composer": "Anjos de Resgate",
         "lyrics": "Ao abrir meus olhos no altar\nVi o cálice sagrado com o sangue de Jesus\nE de dentro desse mesmo cálice subia\nMajestosa a eucaristia\n\nEm tua presença eu me sinto\nUm mendigo sentado à mesa de um rei\nE sem ter como pagar tamanha refeição\nSó posso dar-te eterna gratidão\nO cálice e a hóstia eram um\nMeu desejo também era com eles ser um\n\nSer um só coração, meu Senhor!\nO mesmo sangue nas veias, Senhor!\nTua carne em minha carne, Senhor!\nO teu sangue em meu sangue, Senhor!\nE estando unido a Ti, esquecer-me de mim\nConcedei que eu fique eternamente assim\nE estando unido a Ti, esquecer-me de mim\nConcedei que eu fique eternamente assim\n\nEm tua presença eu me sinto\nUm mendigo sentado à mesa de um rei\nE sem ter como pagar tamanha refeição\nSó posso dar-te eterna gratidão\nO cálice e a hóstia eram um\nMeu desejo também era com eles ser um\n\nSer um só coração, meu Senhor!\nO mesmo sangue nas veias, Senhor!\nTua carne em minha carne, Senhor!\nO teu sangue em meu sangue, senhor!\nE estando unido a Ti, esquecer-me de mim\nConcedei que eu fique eternamente assim",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2042,6 +2041,353 @@
         "title": "A primeira que comungou",
         "composer": "Toca de Assis",
         "lyrics": "A primeira que comungou foi a Virgem Maria\nA primeira que recebeu Jesus no coração\nA primeira que anunciou foi a Virgem Maria\nE gerou na fé o profeta que de Izabel nasceu\n\nFoi por ela que aconteceu a primeira adoração\nE quando os magos a encontraram\nHouve a primeira grande exposição\n\nMãe capela do Santíssimo sacrário do amor\nExpõe para nós teu filho\nExpõe para nós teu filho\nMãe capela do Santíssimo morada do Senhor\nExpõe para nós teu filho\nExpõe para nós teu filho\nPrimeiro ostensório do Senhor",
+        "momentIds": [
+            "comunhao",
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-bf5349d3",
+        "title": "Eu não sou digno",
+        "composer": "Padre Zezinho",
+        "lyrics": "Eu não sou digno, ó meu Senhor\nEu não sou digno\nDe que Tu entres, ó meu Senhor, na minha casa\nPorque és tão Santo e eu pecador\nEu nem me atrevo a ti pedir este favor\n\nEu não sou digna, ó meu Senhor\nEu não sou digna\nDe que Tu entres, ó meu Senhor, na minha casa\nMeu coração é tão pecador\nEu nem me atrevo a ti pedir este favor\n\nMas se disseres uma palavra\nA minha casa se transformará\nUma palavra é suficiente\nSuavemente ela nos salvará",
+        "momentIds": [
+            "comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-39bce28c",
+        "title": "Antes da Morte e Ressureição de Jesus",
+        "composer": "Musicas Católicas",
+        "lyrics": "1. Antes da morte e ressurreição de Jesus\nEle, na Ceia, quis se entregar:\nDeu-se em comida e bebida para nos salvar\n\nE quando amanhecer\nO dia eterno, a plena visão\nRessurgiremos por crer\nNesta vida escondida no pão\n\n2. Para lembrarmos a morte, a cruz do Senhor\nNós repetimos, como Ele fez:\nGestos, palavras, até que volte outra vez\n\n3. Este banquete alimenta o amor dos irmãos\nE nos prepara pra Glória do céu\nEle é força na caminhada pra Deus\n\n4. Eis o pão vivo mandado a nós por Deus pai\nQuem O recebe, não morrerá\nNo último dia, vai ressurgir, viverá\n\n5. Cristo está vivo, ressuscitou para nós\nEsta verdade vai anunciar\nA toda terra, com alegria, cantar",
+        "momentIds": [
+            "comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "pascoa"
+        ]
+    },
+    {
+        "id": "san-50035b2c",
+        "title": "Santo é o Senhor",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Santo, Santo, Santo é o Senhor \nSanto, Santo, Santo é o Senhor \n\nCéus e terra proclamam vossa glória \nHosana nas alturas \n\nSanto, Santo, Santo é o Senhor \nSanto, Santo, Santo é o Senhor \n\nBendito o que vem em nome do Senhor \nHosana nas alturas \n\nSanto, Santo, Santo é o Senhor \nSanto, Santo, Santo é o Senhor",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "santo"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "san-1309eb07",
+        "title": "Santo",
+        "composer": "Capella",
+        "lyrics": "Santo, Santo, Santo é o Senhor, Senhor Deus do universo\nO céu e a terra proclamam a vossa glória\nSanto, Santo, Santo é o Senhor, Senhor Deus do universo\nO céu e a terra proclamam a vossa glória\nHosana no alto céu\n\nBendito é aquele que vem, em nome do Senhor\nHosana, hosana no alto céu,\nHosana, hosana no alto céu\n\nSanto, Santo, Santo é o Senhor, Senhor Deus do universo\nO céu e a terra proclamam a vossa glória, \nHosana no alto céu",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "santo"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "san-c8394504",
+        "title": "Santo - tradicional",
+        "composer": "Musicas Católicas",
+        "lyrics": "Santo, Santo, Santo, Senhor Deus do universo,\nO Céu e a Terra proclamam a Vossa Glória.\n\nHosana nas alturas, hosana!\nHosana nas alturas, hosana!\n\nBendito aquele que vem em nome do Senhor\nBendito aquele que vem em nome do Senhor\n\nHosana nas alturas, hosana!\nHosana nas alturas, hosana!",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "santo"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "san-ba23e4e0",
+        "title": "Santo é o Senhor Deus do Universo",
+        "composer": "Musicas Católicas - Santa Missa Jovem",
+        "lyrics": "Santo, Santo, Santo é o Senhor Deus do universo\nSanto, Santo, o Céu e a Terra proclamam a Tua glória\n\nHosana no alto do Céu\nHosana no alto do Céu\n\nSanto, Santo, Santo é o Senhor Deus do universo\nSanto, Santo, o Céu e a Terra proclamam a Tua glória\n\nBendito o que vem em nome do Senhor\n\nHosana no alto do Céu\nHosana no alto do Céu\n\nSanto, Santo, Santo!",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "santo"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "san-c9b940b3",
+        "title": "Santo é o Senhor",
+        "composer": "Musicas Católicas - Santa Missa Jovem",
+        "lyrics": "Santo, Santo, Santo é o SenhorDeus do Universo, \ndo Céu e da Terra (2x)\nHosana, Hosana, Hosana,Nas alturas (2x)\nBendito o que vem em nome do Senhor\nHosana nas alturas, nas alturas. (2x)",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "santo"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "san-ab209e64",
+        "title": "O céu e a terra proclamam Vossa Glória",
+        "composer": "Musicas Católicas - Santa Missa Jovem",
+        "lyrics": "Santo, Santo, Santo é o Senhor Deus\nO céu e a terra proclamam a vossa glória\nHosana nas alturas, bendito o que vem\nEm nome do Senhor, hosana nas alturas\nSanto, Santo, Santo é o Senhor Deus\nO céu e a terra proclamam a vossa glória\nO céu e a terra proclamam a vossa glória",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "santo"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cor-3c5b0e0b",
+        "title": "Cordeiro 3",
+        "composer": "Santa Missa Jovem",
+        "lyrics": "Cordeiro de Deus que tirais o pecado do mundo\nTende piedade, tende piedade, tende piedade, piedade de nós.\nCordeiro de Deus que tirais o pecado do mundo\nTende piedade, tende piedade, tende piedade, piedade de nós.\nCordeiro de Deus que tirais o pecado do mundo\nDai-nos a paz, dai-nos a paz, dai-nos a paz, Senhor, a Vossa paz.",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "cordeiro"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cor-3c10c922",
+        "title": "Cordeiro 2",
+        "composer": "Santa Missa Jovem",
+        "lyrics": "Cordeiro de Deus que tirais o pecado do mundo\nTende piedade!\nCordeiro de Deus que tirais o pecado do mundo\nTende piedade!\n\nCordeiro de Deus que tirais o pecado do mundo\nDai-nos a paz! dai-nos a paz!\nDai-nos a vossa paz! dai-nos a paz!",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "cordeiro"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cor-a1444b51",
+        "title": "Cordeiro 1",
+        "composer": "Santa Missa Jovem",
+        "lyrics": "Cordeiro de Deus,\nQue tirais o pecado do mundo.\nTende Piedade, Piedade de nós.\n\nCordeiro de Deus,\nQue tirais o pecado do mundo.\nTende Piedade, Piedade de nós.\n\nCordeiro de Deus,\nQue tirais o pecado do mundo.\nDai-nos a Paz, a vossa Paz.",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "cordeiro"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cor-6c9d183f",
+        "title": "Cordeiro 4",
+        "composer": "Santa Missa Jovem",
+        "lyrics": "Cordeiro de Deus que tirais o pecado do mundo, \nTende piedade, piedade de nós\n\nCordeiro de Deus que tirais o pecado do mundo, \nTende piedade, piedade de nós\n\nCordeiro de Deus que tirais o pecado do mundo, \nDai-nos a paz!",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "cordeiro"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cor-96e133c4",
+        "title": "Agnus Dei",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Agnus Dei\nQui tollis peccata mundi\nMiserere nobis,\nMiserere nobis\n\nAgnus Dei\nQui tollis peccata mundi\nMiserere nobis,\nMiserere nobis\n\nAgnus Dei\nQui tollis peccata mundi\nDona nobis pacem\nDona nobis pacem\nPacem...",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "cordeiro"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "san-bf42d71d",
+        "title": "Sanctus",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Sanctus, Sanctus, Sanctus Dominus\nSanctus, Sanctus, Sanctus Dominus\nDeus Sabaoth\n\nPleni sunt cæli et terra gloria tua\nHosanna, Hosanna, Hosanna in excelsis\n\nBenedictus, qui venit in nomine Domini\nHosanna, Hosanna, Hosanna in excelsis\n\nSanctus, Sanctus, Sanctus Dominus\nSanctus, Sanctus, Sanctus Dominus",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "santo"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "cor-608d780e",
+        "title": "Agnus Dei",
+        "composer": "Canção Nova",
+        "lyrics": "Agnus Dei qui tolis, pecata mundi\nMiserere nobis, Miserere nobis\n\nAgnus Dei qui tolis, pecata mundi\nMiserere nobis, Miserere nobis\n\nAgnus Dei qui tolis, pecata mundi\ndona nobis pacem, dona nobis pacem.",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "cordeiro"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-7d7537fa",
+        "title": "Maria de Nazaré",
+        "composer": "Padre Zezinho",
+        "lyrics": "1. Maria de Nazaré, Maria me cativou\nFez mais forte a minha fé\nE por filho me adotou\n\n2. Às vezes eu paro e fico a pensar\nE sem perceber, me vejo a rezar\nE meu coração se põe a cantar\nPra Virgem de Nazaré\n\n3. Menina que Deus amou e escolheu\nPra mãe de Jesus, o Filho de Deus\nMaria que o povo inteiro elegeu\nSenhora e Mãe do Céu\n\nAve Maria, Ave Maria, Ave Maria, Mãe de Jesus!\n\n4. Maria que eu quero bem, Maria do puro amor\nIgual a você, ninguém\nMãe pura do meu Senhor\n\n5. Em cada mulher que a terra criou\nUm traço de Deus Maria deixou\nUm sonho de Mãe Maria plantou\nPro mundo encontrar a paz\nMaria que fez o Cristo falar\nMaria que fez Jesus caminhar\nMaria que só viveu pra seu Deus\nMaria do povo meu",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "entrada",
+            "final"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "fin-c50b576a",
+        "title": "Todo teu",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Em cada passo, em cada prece\nNo menor gesto lá estará\nNo meu silêncio, no meu falar\nMãe, vem comigo sempre estar\n\nNas minhas dores e alegrias\nEm todo momento lá estarás\nNo pensamento, no meu olhar\nMãe, vem comigo sempre estar\n\nSou todo teu, ó Mãe\nSou todo teu, Maria\nSou todo teu\nGuarda no céu o meu lugar\n\nEm cada passo, em cada prece\nNo menor gesto lá estarás\nNo meu silêncio, no meu olhar\nMãe vem comigo sempre estar\n\nNas minhas dores e alegrias\nTodo momento lá estarás\nNo pensamento, no meu falar\nMãe, vem comigo sempre estar\n\nSou todo teu, ó Mãe\nSou todo teu, Maria\nSou todo teu\nGuarda no céu o meu lugar\n\nTu serás, ó Mãe, minha rainha\nE o Teu Filho o meu Rei\nEssa vida não será mais minha\nUm livre escravo teu serei\n\nSou todo teu, ó Mãe\nSou todo teu, Maria\nSou todo teu\nGuarda no céu o meu lugar",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "final"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "fin-b0789ab1",
+        "title": "Segura na mão de Deus e vai",
+        "composer": "Padre Marcelo Rossi",
+        "lyrics": "Se as águas do mar da vida quiserem te afogar\nSegura na mão de Deus e vai\nSe as tristezas desta vida quiserem te sufocar\nSegura na mão de Deus e vai\n\nSegura na mão de Deus, segura na mão de Deus\nPois ela, ela te sustentará\nNão temas, segue adiante e não olhes para trás\nSegura na mão de Deus e vai\n\nSe a jornada é pesada e te cansas da caminhada\nSegura na mão de Deus e vai\nOrando, jejuando, confiando e confessando\nSegura na mão de Deus e vai\n\nO Espírito do Senhor sempre te revestirá\nSegura na mão de Deus e vai\nJesus Cristo prometeu que jamais te deixará\nSegura na mão de Deus e vai",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "final"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "fin-09b0403a",
+        "title": "Novo Sol Brilhou",
+        "composer": "Coral Palestrina",
+        "lyrics": "Novo sol brilhou! A vida superou\nSofrimento, dor e morte, tudo, enfim.\nNosso olhar se abriu, Deus mesmo se incumbiu\nDe tomar-nos pela mão assim. \n\nO Deus de amor jamais se descuidou\nEm seu vigor, Jesus ressuscitou.\n\nEstender a mão, abrir o coração,\nAcolher, compartilhar e perdoar\nÉ fazer o céu cumprir o seu papel:\nJá na terra tem de vigorar.",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "final"
+        ],
+        "liturgicalSeasons": [
+            "pascoa"
+        ]
+    },
+    {
+        "id": "ato-f2393e5b",
+        "title": "Confesso a Deus",
+        "composer": "Comunidade Recado",
+        "lyrics": "Confesso a Deus\nTodo-Poderoso\nE a vós, irmãos e irmãs\nQue pequei\n\nMuitas vezes por pensamentos\nPalavras, atos e omissões\nPor minha culpa\nTão grande culpa\n\nPiedade, piedade\nPiedade de nós, Senhor\nPiedade, piedade de nós\nPiedade, piedade\nPiedade de nós, Senhor\nPiedade, piedade de nós\n\nE peço a Virgem Maria\nAos anjos e santos\nE a vós, irmãos e irmãs\nQue rogueis por mim a Deus, nosso Senhor\n\nPiedade, piedade\nPiedade de nós, Senhor\nPiedade, piedade de nós\nPiedade, piedade\nPiedade de nós, Senhor\nPiedade, piedade de nós",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "ato"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "acl-6b4bddf4",
+        "title": "Shemá Yisrael - Santa Missa Jovem",
+        "composer": "Musicas Católicas",
+        "lyrics": "Shemá Yisrael Adonai Elohenu Adonai ehad\nShemá Yisrael Adonai Elohenu Adonai ehad  (2x)\n\nEscuta Israel o Senhor é nosso Deus grande Um é o Senhor\nEscuta Israel o Senhor é nosso Deus grande Um é o Senhor (2x)",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "aclamacao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ato-e7e441bb",
+        "title": "Muito Perdoais",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Senhor, que viestes\nNão para condenar\nMas para perdoar\nTende piedade de nós\nKyrie eleison\nKyrie eleison\nKyrie eleison\n\nCristo, que Vos alegrais\nPelo pecador arrependido\nTende piedade de nós\nChriste eleison\nChriste eleison\nChriste eleison\n\nSenhor, que muito perdoais\nA todo aquele que muito ama\nTende piedade de nós\nKyrie eleison\nKyrie eleison\nKyrie eleison",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "ato"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-f53d2733",
+        "title": "Mesmo Sendo Deus",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Mesmo sendo Deus\nSe esvaziou, fazendo-se escravo por amor\nMesmo sendo Deus\nFez-se como nós\nHumilhou-se até a morte numa cruz\nFoi morto e reina vivo meu Jesus\nOferta tão perfeita\nAmor que não rejeita a nossa imperfeição\n\nTeu corpo partido\nAlimento de minh'alma\nTernura que me atrai\nTeu sangue vertido\nEm minha fraqueza\nTua força, em meu coração a Tua paz\n\nMesmo sendo Deus\nFez-se como nós\nHumilhou-se até a morte numa cruz\nFoi morto e reina vivo meu Jesus\nOferta tão perfeita\nAmor que não rejeita a nossa imperfeição\n\nTeu corpo partido\nAlimento de minh'alma\nTernura que me atrai\nTeu sangue vertido\nEm minha fraqueza\nTua força, em meu coração a Tua paz\n\nJesus, Jesus Nome sobre todo nome\nJesus, Jesus Nome sobre todo nome\nJesus, Jesus Nome sobre todo nome\nJesus, Jesus Nome sobre todo nome",
         "celebrationTypeIds": [
             "missa"
         ],
@@ -2054,33 +2400,33 @@
         ]
     },
     {
-        "id": "com-bf5349d3",
-        "title": "Eu não sou digno",
-        "composer": "Padre Zezinho",
-        "lyrics": "Eu não sou digno, ó meu Senhor\nEu não sou digno\nDe que Tu entres, ó meu Senhor, na minha casa\nPorque és tão Santo e eu pecador\nEu nem me atrevo a ti pedir este favor\n\nEu não sou digna, ó meu Senhor\nEu não sou digna\nDe que Tu entres, ó meu Senhor, na minha casa\nMeu coração é tão pecador\nEu nem me atrevo a ti pedir este favor\n\nMas se disseres uma palavra\nA minha casa se transformará\nUma palavra é suficiente\nSuavemente ela nos salvará",
+        "id": "aca-e37f20ef",
+        "title": "A tua ternura",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Incomparável Deus, Amigo meu, Amado meu\nQuem poderá nos separar do Teu amor?\nMorte ou dor, guerra ou solidão\nNada é maior que a bondade do Teu coração\n\nO Teu amor me conquistou\nTua ternura me alcançou\nComo não te adorar? Me entregar?\nCorresponder ao Teu amor, que feriu meu coração\nE me ergueu com Seu perdão?\nTodo louvor a Ti, Aquele que tudo em mim realizou\n\nQuero amar-Te mais, bem mais que a mim, naqueles que Tu amas\nQuero amar-Te mais, bem mais que a mim, naqueles que Tu amas\n\nO Teu amor me conquistou\nTua ternura me alcançou\nComo não te adorar? Me entregar?\nCorresponder ao Teu amor, que feriu meu coração\nE me ergueu com Seu perdão?\nTodo louvor a Ti, Aquele que tudo em mim realizou\n\nNão posso mais reter em mim todo esse amor",
         "celebrationTypeIds": [
             "missa"
         ],
         "momentIds": [
-            "comunhao"
+            "acaoDeGracas"
         ],
         "liturgicalSeasons": [
             "todos"
         ]
     },
     {
-        "id": "com-39bce28c",
-        "title": "Antes da Morte e Ressureição de Jesus",
-        "composer": "Musicas Católicas",
-        "lyrics": "1. Antes da morte e ressurreição de Jesus\nEle, na Ceia, quis se entregar:\nDeu-se em comida e bebida para nos salvar\n\nE quando amanhecer\nO dia eterno, a plena visão\nRessurgiremos por crer\nNesta vida escondida no pão\n\n2. Para lembrarmos a morte, a cruz do Senhor\nNós repetimos, como Ele fez:\nGestos, palavras, até que volte outra vez\n\n3. Este banquete alimenta o amor dos irmãos\nE nos prepara pra Glória do céu\nEle é força na caminhada pra Deus\n\n4. Eis o pão vivo mandado a nós por Deus pai\nQuem O recebe, não morrerá\nNo último dia, vai ressurgir, viverá\n\n5. Cristo está vivo, ressuscitou para nós\nEsta verdade vai anunciar\nA toda terra, com alegria, cantar",
+        "id": "aca-2376c91e",
+        "title": "Que poderei retribuir",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Que poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor? (2x)\n\nQue poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor?\nElevo o cálice da minha salvação invocando o nome santo do Senhor\n\nQue poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor?\n\nVou cumprir minhas promessas ao Senhor na presença de Seu povo reunido. É sentida, por demais, pelo Senhor a morte de seus santos, seus amigos\n\nQue poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor?\n\nEis que sou o Vosso Servo, ó, Senhor. Vosso servo que nasceu de Vossa Serva. Mas me quebraste os grilhões da escravidão. Por isso oferto um sacrifício de louvor\n\nQue poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor? (2x)",
         "celebrationTypeIds": [
             "missa"
         ],
         "momentIds": [
-            "comunhao"
+            "acaoDeGracas"
         ],
         "liturgicalSeasons": [
-            "pascoa"
+            "todos"
         ]
     }
 ]
