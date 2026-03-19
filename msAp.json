@@ -961,7 +961,7 @@
     {
         "id": "ent-5db92888",
         "title": "Imaculada",
-        "composer": "Musicas Católicas",
+        "composer": "Frei Fabreti",
         "lyrics": "Imaculada, Maria de Deus\nCoração pobre acolhendo Jesus\nImaculada, Maria do povo\nMãe dos aflitos que estão junto à cruz\n\nUm coração que era sim para a vida\nUm coração que era sim para o irmão\nUm coração que era sim para Deus\nReino de Deus renovando este chão\n\nImaculada, Maria de Deus\nCoração pobre acolhendo Jesus\nImaculada, Maria do povo\nMãe dos aflitos que estão junto à cruz\n\nOlhos abertos pra sede do povo\nPasso bem firme que o medo desterra\nMãos estendidas que os tronos renegam\nReino de Deus que renova esta terra\n\nImaculada, Maria de Deus\nCoração pobre acolhendo Jesus\nImaculada, Maria do povo\nMãe dos aflitos que estão junto à cruz\n\nFaça-se, ó Pai, Vossa plena vontade\nQue os nossos passos se tornem memória\nDo amor fiel que Maria gerou\nReino de Deus atuando na história\n\nImaculada, Maria de Deus\nCoração pobre acolhendo Jesus\nImaculada, Maria do povo\nMãe dos aflitos que estão junto à cruz",
         "momentIds": [
             "entrada",
@@ -2087,11 +2087,11 @@
         "title": "Santo é o Senhor",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Santo, Santo, Santo é o Senhor \nSanto, Santo, Santo é o Senhor \n\nCéus e terra proclamam vossa glória \nHosana nas alturas \n\nSanto, Santo, Santo é o Senhor \nSanto, Santo, Santo é o Senhor \n\nBendito o que vem em nome do Senhor \nHosana nas alturas \n\nSanto, Santo, Santo é o Senhor \nSanto, Santo, Santo é o Senhor",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "santo"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2102,11 +2102,11 @@
         "title": "Santo",
         "composer": "Capella",
         "lyrics": "Santo, Santo, Santo é o Senhor, Senhor Deus do universo\nO céu e a terra proclamam a vossa glória\nSanto, Santo, Santo é o Senhor, Senhor Deus do universo\nO céu e a terra proclamam a vossa glória\nHosana no alto céu\n\nBendito é aquele que vem, em nome do Senhor\nHosana, hosana no alto céu,\nHosana, hosana no alto céu\n\nSanto, Santo, Santo é o Senhor, Senhor Deus do universo\nO céu e a terra proclamam a vossa glória, \nHosana no alto céu",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "santo"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2117,11 +2117,11 @@
         "title": "Santo - tradicional",
         "composer": "Musicas Católicas",
         "lyrics": "Santo, Santo, Santo, Senhor Deus do universo,\nO Céu e a Terra proclamam a Vossa Glória.\n\nHosana nas alturas, hosana!\nHosana nas alturas, hosana!\n\nBendito aquele que vem em nome do Senhor\nBendito aquele que vem em nome do Senhor\n\nHosana nas alturas, hosana!\nHosana nas alturas, hosana!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "santo"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2132,11 +2132,11 @@
         "title": "Santo é o Senhor Deus do Universo",
         "composer": "Musicas Católicas - Santa Missa Jovem",
         "lyrics": "Santo, Santo, Santo é o Senhor Deus do universo\nSanto, Santo, o Céu e a Terra proclamam a Tua glória\n\nHosana no alto do Céu\nHosana no alto do Céu\n\nSanto, Santo, Santo é o Senhor Deus do universo\nSanto, Santo, o Céu e a Terra proclamam a Tua glória\n\nBendito o que vem em nome do Senhor\n\nHosana no alto do Céu\nHosana no alto do Céu\n\nSanto, Santo, Santo!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "santo"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2147,11 +2147,11 @@
         "title": "Santo é o Senhor",
         "composer": "Musicas Católicas - Santa Missa Jovem",
         "lyrics": "Santo, Santo, Santo é o SenhorDeus do Universo, \ndo Céu e da Terra (2x)\nHosana, Hosana, Hosana,Nas alturas (2x)\nBendito o que vem em nome do Senhor\nHosana nas alturas, nas alturas. (2x)",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "santo"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2162,11 +2162,11 @@
         "title": "O céu e a terra proclamam Vossa Glória",
         "composer": "Musicas Católicas - Santa Missa Jovem",
         "lyrics": "Santo, Santo, Santo é o Senhor Deus\nO céu e a terra proclamam a vossa glória\nHosana nas alturas, bendito o que vem\nEm nome do Senhor, hosana nas alturas\nSanto, Santo, Santo é o Senhor Deus\nO céu e a terra proclamam a vossa glória\nO céu e a terra proclamam a vossa glória",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "santo"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2177,11 +2177,11 @@
         "title": "Cordeiro 3",
         "composer": "Santa Missa Jovem",
         "lyrics": "Cordeiro de Deus que tirais o pecado do mundo\nTende piedade, tende piedade, tende piedade, piedade de nós.\nCordeiro de Deus que tirais o pecado do mundo\nTende piedade, tende piedade, tende piedade, piedade de nós.\nCordeiro de Deus que tirais o pecado do mundo\nDai-nos a paz, dai-nos a paz, dai-nos a paz, Senhor, a Vossa paz.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "cordeiro"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2192,11 +2192,11 @@
         "title": "Cordeiro 2",
         "composer": "Santa Missa Jovem",
         "lyrics": "Cordeiro de Deus que tirais o pecado do mundo\nTende piedade!\nCordeiro de Deus que tirais o pecado do mundo\nTende piedade!\n\nCordeiro de Deus que tirais o pecado do mundo\nDai-nos a paz! dai-nos a paz!\nDai-nos a vossa paz! dai-nos a paz!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "cordeiro"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2207,11 +2207,11 @@
         "title": "Cordeiro 1",
         "composer": "Santa Missa Jovem",
         "lyrics": "Cordeiro de Deus,\nQue tirais o pecado do mundo.\nTende Piedade, Piedade de nós.\n\nCordeiro de Deus,\nQue tirais o pecado do mundo.\nTende Piedade, Piedade de nós.\n\nCordeiro de Deus,\nQue tirais o pecado do mundo.\nDai-nos a Paz, a vossa Paz.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "cordeiro"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2222,11 +2222,11 @@
         "title": "Cordeiro 4",
         "composer": "Santa Missa Jovem",
         "lyrics": "Cordeiro de Deus que tirais o pecado do mundo, \nTende piedade, piedade de nós\n\nCordeiro de Deus que tirais o pecado do mundo, \nTende piedade, piedade de nós\n\nCordeiro de Deus que tirais o pecado do mundo, \nDai-nos a paz!",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "cordeiro"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2237,11 +2237,11 @@
         "title": "Agnus Dei",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Agnus Dei\nQui tollis peccata mundi\nMiserere nobis,\nMiserere nobis\n\nAgnus Dei\nQui tollis peccata mundi\nMiserere nobis,\nMiserere nobis\n\nAgnus Dei\nQui tollis peccata mundi\nDona nobis pacem\nDona nobis pacem\nPacem...",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "cordeiro"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2252,11 +2252,11 @@
         "title": "Sanctus",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Sanctus, Sanctus, Sanctus Dominus\nSanctus, Sanctus, Sanctus Dominus\nDeus Sabaoth\n\nPleni sunt cæli et terra gloria tua\nHosanna, Hosanna, Hosanna in excelsis\n\nBenedictus, qui venit in nomine Domini\nHosanna, Hosanna, Hosanna in excelsis\n\nSanctus, Sanctus, Sanctus Dominus\nSanctus, Sanctus, Sanctus Dominus",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "santo"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2267,11 +2267,11 @@
         "title": "Agnus Dei",
         "composer": "Canção Nova",
         "lyrics": "Agnus Dei qui tolis, pecata mundi\nMiserere nobis, Miserere nobis\n\nAgnus Dei qui tolis, pecata mundi\nMiserere nobis, Miserere nobis\n\nAgnus Dei qui tolis, pecata mundi\ndona nobis pacem, dona nobis pacem.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "cordeiro"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2282,12 +2282,12 @@
         "title": "Maria de Nazaré",
         "composer": "Padre Zezinho",
         "lyrics": "1. Maria de Nazaré, Maria me cativou\nFez mais forte a minha fé\nE por filho me adotou\n\n2. Às vezes eu paro e fico a pensar\nE sem perceber, me vejo a rezar\nE meu coração se põe a cantar\nPra Virgem de Nazaré\n\n3. Menina que Deus amou e escolheu\nPra mãe de Jesus, o Filho de Deus\nMaria que o povo inteiro elegeu\nSenhora e Mãe do Céu\n\nAve Maria, Ave Maria, Ave Maria, Mãe de Jesus!\n\n4. Maria que eu quero bem, Maria do puro amor\nIgual a você, ninguém\nMãe pura do meu Senhor\n\n5. Em cada mulher que a terra criou\nUm traço de Deus Maria deixou\nUm sonho de Mãe Maria plantou\nPro mundo encontrar a paz\nMaria que fez o Cristo falar\nMaria que fez Jesus caminhar\nMaria que só viveu pra seu Deus\nMaria do povo meu",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "entrada",
             "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "tempoComum"
@@ -2298,11 +2298,11 @@
         "title": "Todo teu",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Em cada passo, em cada prece\nNo menor gesto lá estará\nNo meu silêncio, no meu falar\nMãe, vem comigo sempre estar\n\nNas minhas dores e alegrias\nEm todo momento lá estarás\nNo pensamento, no meu olhar\nMãe, vem comigo sempre estar\n\nSou todo teu, ó Mãe\nSou todo teu, Maria\nSou todo teu\nGuarda no céu o meu lugar\n\nEm cada passo, em cada prece\nNo menor gesto lá estarás\nNo meu silêncio, no meu olhar\nMãe vem comigo sempre estar\n\nNas minhas dores e alegrias\nTodo momento lá estarás\nNo pensamento, no meu falar\nMãe, vem comigo sempre estar\n\nSou todo teu, ó Mãe\nSou todo teu, Maria\nSou todo teu\nGuarda no céu o meu lugar\n\nTu serás, ó Mãe, minha rainha\nE o Teu Filho o meu Rei\nEssa vida não será mais minha\nUm livre escravo teu serei\n\nSou todo teu, ó Mãe\nSou todo teu, Maria\nSou todo teu\nGuarda no céu o meu lugar",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "tempoComum"
@@ -2313,11 +2313,11 @@
         "title": "Segura na mão de Deus e vai",
         "composer": "Padre Marcelo Rossi",
         "lyrics": "Se as águas do mar da vida quiserem te afogar\nSegura na mão de Deus e vai\nSe as tristezas desta vida quiserem te sufocar\nSegura na mão de Deus e vai\n\nSegura na mão de Deus, segura na mão de Deus\nPois ela, ela te sustentará\nNão temas, segue adiante e não olhes para trás\nSegura na mão de Deus e vai\n\nSe a jornada é pesada e te cansas da caminhada\nSegura na mão de Deus e vai\nOrando, jejuando, confiando e confessando\nSegura na mão de Deus e vai\n\nO Espírito do Senhor sempre te revestirá\nSegura na mão de Deus e vai\nJesus Cristo prometeu que jamais te deixará\nSegura na mão de Deus e vai",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "tempoComum"
@@ -2328,11 +2328,11 @@
         "title": "Novo Sol Brilhou",
         "composer": "Coral Palestrina",
         "lyrics": "Novo sol brilhou! A vida superou\nSofrimento, dor e morte, tudo, enfim.\nNosso olhar se abriu, Deus mesmo se incumbiu\nDe tomar-nos pela mão assim. \n\nO Deus de amor jamais se descuidou\nEm seu vigor, Jesus ressuscitou.\n\nEstender a mão, abrir o coração,\nAcolher, compartilhar e perdoar\nÉ fazer o céu cumprir o seu papel:\nJá na terra tem de vigorar.",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "pascoa"
@@ -2343,11 +2343,11 @@
         "title": "Confesso a Deus",
         "composer": "Comunidade Recado",
         "lyrics": "Confesso a Deus\nTodo-Poderoso\nE a vós, irmãos e irmãs\nQue pequei\n\nMuitas vezes por pensamentos\nPalavras, atos e omissões\nPor minha culpa\nTão grande culpa\n\nPiedade, piedade\nPiedade de nós, Senhor\nPiedade, piedade de nós\nPiedade, piedade\nPiedade de nós, Senhor\nPiedade, piedade de nós\n\nE peço a Virgem Maria\nAos anjos e santos\nE a vós, irmãos e irmãs\nQue rogueis por mim a Deus, nosso Senhor\n\nPiedade, piedade\nPiedade de nós, Senhor\nPiedade, piedade de nós\nPiedade, piedade\nPiedade de nós, Senhor\nPiedade, piedade de nós",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2358,11 +2358,11 @@
         "title": "Shemá Yisrael - Santa Missa Jovem",
         "composer": "Musicas Católicas",
         "lyrics": "Shemá Yisrael Adonai Elohenu Adonai ehad\nShemá Yisrael Adonai Elohenu Adonai ehad  (2x)\n\nEscuta Israel o Senhor é nosso Deus grande Um é o Senhor\nEscuta Israel o Senhor é nosso Deus grande Um é o Senhor (2x)",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "aclamacao"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2373,11 +2373,11 @@
         "title": "Muito Perdoais",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Senhor, que viestes\nNão para condenar\nMas para perdoar\nTende piedade de nós\nKyrie eleison\nKyrie eleison\nKyrie eleison\n\nCristo, que Vos alegrais\nPelo pecador arrependido\nTende piedade de nós\nChriste eleison\nChriste eleison\nChriste eleison\n\nSenhor, que muito perdoais\nA todo aquele que muito ama\nTende piedade de nós\nKyrie eleison\nKyrie eleison\nKyrie eleison",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "ato"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2388,12 +2388,12 @@
         "title": "Mesmo Sendo Deus",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Mesmo sendo Deus\nSe esvaziou, fazendo-se escravo por amor\nMesmo sendo Deus\nFez-se como nós\nHumilhou-se até a morte numa cruz\nFoi morto e reina vivo meu Jesus\nOferta tão perfeita\nAmor que não rejeita a nossa imperfeição\n\nTeu corpo partido\nAlimento de minh'alma\nTernura que me atrai\nTeu sangue vertido\nEm minha fraqueza\nTua força, em meu coração a Tua paz\n\nMesmo sendo Deus\nFez-se como nós\nHumilhou-se até a morte numa cruz\nFoi morto e reina vivo meu Jesus\nOferta tão perfeita\nAmor que não rejeita a nossa imperfeição\n\nTeu corpo partido\nAlimento de minh'alma\nTernura que me atrai\nTeu sangue vertido\nEm minha fraqueza\nTua força, em meu coração a Tua paz\n\nJesus, Jesus Nome sobre todo nome\nJesus, Jesus Nome sobre todo nome\nJesus, Jesus Nome sobre todo nome\nJesus, Jesus Nome sobre todo nome",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "comunhao",
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2404,11 +2404,11 @@
         "title": "A tua ternura",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Incomparável Deus, Amigo meu, Amado meu\nQuem poderá nos separar do Teu amor?\nMorte ou dor, guerra ou solidão\nNada é maior que a bondade do Teu coração\n\nO Teu amor me conquistou\nTua ternura me alcançou\nComo não te adorar? Me entregar?\nCorresponder ao Teu amor, que feriu meu coração\nE me ergueu com Seu perdão?\nTodo louvor a Ti, Aquele que tudo em mim realizou\n\nQuero amar-Te mais, bem mais que a mim, naqueles que Tu amas\nQuero amar-Te mais, bem mais que a mim, naqueles que Tu amas\n\nO Teu amor me conquistou\nTua ternura me alcançou\nComo não te adorar? Me entregar?\nCorresponder ao Teu amor, que feriu meu coração\nE me ergueu com Seu perdão?\nTodo louvor a Ti, Aquele que tudo em mim realizou\n\nNão posso mais reter em mim todo esse amor",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
@@ -2419,29 +2419,781 @@
         "title": "Que poderei retribuir",
         "composer": "Comunidade Católica Shalom",
         "lyrics": "Que poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor? (2x)\n\nQue poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor?\nElevo o cálice da minha salvação invocando o nome santo do Senhor\n\nQue poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor?\n\nVou cumprir minhas promessas ao Senhor na presença de Seu povo reunido. É sentida, por demais, pelo Senhor a morte de seus santos, seus amigos\n\nQue poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor?\n\nEis que sou o Vosso Servo, ó, Senhor. Vosso servo que nasceu de Vossa Serva. Mas me quebraste os grilhões da escravidão. Por isso oferto um sacrifício de louvor\n\nQue poderei retribuir ao Senhor Deus por tudo aquilo que Ele fez em meu favor? (2x)",
-        "celebrationTypeIds": [
-            "missa"
-        ],
         "momentIds": [
             "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
         ],
         "liturgicalSeasons": [
             "todos"
         ]
     },
-  {
-    "id": "sal-4dfe577e",
-    "title": "Ano A - Salmo 62 (63): A MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR",
-    "composer": "Salmos Missa",
-    "lyrics": "A MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR. (BIS)\n\nSOIS VÓS, Ó SENHOR, O MEU DEUS!\nDESDE A AURORA ANSIOSO VOS BUSCO!\nA MINH'ALMA TEM SEDE DE VÓS,\nMINHA CARNE TAMBÉM VOS DESEJA,\nCOMO TERRA SEDENTA E SEM ÁGUA\nCOMO TERRA SEDENTA E SEM ÁGUA!\n\nA MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR.\n\nVENHO, ASSIM, CONTEMPLAR-VOS NO TEMPLO,\nPARA VER VOSSA GLÓRIA E PODER.\nVOSSO AMOR VALE MAIS DO QUE A VIDA:\nE POR ISSO MEUS LÁBIOS VOS LOUVAM.\n\nA MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR.\n\nQUERO, POIS VOS LOUVAR PELA VIDA,\nE ELEVAR PARA VÓS MINHAS MÃOS!\nA MINH'ALMA SERÁ SACIADA,\nCOMO EM GRANDE BANQUETE DE FESTA;\nCANTARÁ A ALEGRIA EM MEUS LÁBIOS.\n\nA MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR.\n\nPENSO EM VÓS NO MEU LEITO, DE NOITE,\nNAS VIGÍLIAS SUSPIRO POR VÓS!\nPARA MIM FOSTES SEMPRE UM SOCORRO;\nDE VOSSAS ASAS À SOMBRA EU EXULTO!\n\nA MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR (BIS)",
-    "celebrationTypeIds": [
-        "missa"
-    ],
-    "momentIds": [
-        "salmos"
-    ],
-    "liturgicalSeasons": [
-        "todos"
-    ]
-}
+    {
+        "id": "sal-4dfe577e",
+        "title": "Ano A - Salmo 62 (63): A MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR",
+        "composer": "Salmos Missa",
+        "lyrics": "A MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR. (BIS)\n\nSOIS VÓS, Ó SENHOR, O MEU DEUS!\nDESDE A AURORA ANSIOSO VOS BUSCO!\nA MINH'ALMA TEM SEDE DE VÓS,\nMINHA CARNE TAMBÉM VOS DESEJA,\nCOMO TERRA SEDENTA E SEM ÁGUA\nCOMO TERRA SEDENTA E SEM ÁGUA!\n\nA MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR.\n\nVENHO, ASSIM, CONTEMPLAR-VOS NO TEMPLO,\nPARA VER VOSSA GLÓRIA E PODER.\nVOSSO AMOR VALE MAIS DO QUE A VIDA:\nE POR ISSO MEUS LÁBIOS VOS LOUVAM.\n\nA MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR.\n\nQUERO, POIS VOS LOUVAR PELA VIDA,\nE ELEVAR PARA VÓS MINHAS MÃOS!\nA MINH'ALMA SERÁ SACIADA,\nCOMO EM GRANDE BANQUETE DE FESTA;\nCANTARÁ A ALEGRIA EM MEUS LÁBIOS.\n\nA MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR.\n\nPENSO EM VÓS NO MEU LEITO, DE NOITE,\nNAS VIGÍLIAS SUSPIRO POR VÓS!\nPARA MIM FOSTES SEMPRE UM SOCORRO;\nDE VOSSAS ASAS À SOMBRA EU EXULTO!\n\nA MINH'ALMA TEM SEDE DE VÓS, E VOS DESEJA, Ó SENHOR (BIS)",
+        "momentIds": [
+            "salmos"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ado-d2011164",
+        "title": "De Ti Preciso",
+        "composer": "Frei Gilson",
+        "lyrics": "Eu vou te buscar, Senhor\nDe todo o meu coração\nEu vou te buscar, Senhor\nCom determinação\n\nEu preciso mais de ti\nEu preciso mais de ti\nEu preciso mais de ti, meu Deus\nEu preciso mais de ti\nEu preciso mais de ti\nEu preciso mais de ti, meu Deus\n\nrepete trecho acima (2x)\n\nMais que a vida, eu preciso de ti\nMais que o ar, eu preciso de ti\nMais que as riquezas, eu preciso de ti, meu Deus\n\nMais que a vida, eu preciso de ti\nMais que o ar, eu preciso de ti\nMais que as riquezas, eu preciso de ti, meu Deus\n\nDe ti preciso, preciso mais que tudo nessa vida\nPreciso, preciso, és a razão do meu viver\nIncomparável és, sou todo teu, sou todo teu",
+        "momentIds": [
+            "adoracao-adoracao",
+            "louvor-abertura",
+            "louvor-ministração"
+        ],
+        "celebrationTypeIds": [
+            "adoracao",
+            "louvor"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "ent-44e9c7f6",
+        "title": "Tu És o centro",
+        "composer": "Frei Gilson",
+        "lyrics": "Quero Te louvar, Te engrandecer\nE proclamar Tua vitória em mim\nSer todo Teu é o meu prazer\nTe seguirei aonde fores, Senhor\n\nTu és o centro da minha vida\nÉs a razão da minha alegria\nNão quero tirar os meus olhos de Ti\nQuero que sejas o centro, Senhor (2x)\nDa minha vida",
+        "momentIds": [
+            "entrada",
+            "adoracao-adoracao",
+            "louvor-abertura",
+            "louvor-ministração"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "adoracao",
+            "louvor"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-f3226ed0",
+        "title": "Eu seguirei",
+        "composer": "Frei Gilson",
+        "lyrics": "Eu vou Deixar-me guiar\nE me abandonar no Teu querer\nPreciso fazer a Tua vontade em minha vida\n\nEu vou Deixar-me guiar\nE me abandonar no Teu querer\nPreciso fazer a Tua vontade em minha vida\n\nPara onde eu irei?\nEm quem me apoiarei?\nPara onde eu irei?\nEm quem me apoiarei?\n\nEu seguirei\nEu irei aonde fores, Senhor\nEu seguirei\nEu irei aonde fores, Senhor\n\nTua graça me basta\nTeu amor me sustenta\nTua graça me basta\nTeu amor me sustenta",
+        "momentIds": [
+            "entrada",
+            "louvor-abertura",
+            "louvor-ministração",
+            "louvor-encerramento"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "louvor"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ado-f0427d8d",
+        "title": "De Ti Preciso",
+        "composer": "Frei Gilson",
+        "lyrics": "Eu vou te buscar, Senhor\nDe todo o meu coração\nEu vou te buscar, Senhor\nCom determinação\n\nEu preciso mais de ti\nEu preciso mais de ti\nEu preciso mais de ti, meu Deus\nEu preciso mais de ti\nEu preciso mais de ti\nEu preciso mais de ti, meu Deus\n\n(2x)\n\nMais que a vida, eu preciso de ti\nMais que o ar, eu preciso de ti\nMais que as riquezas, eu preciso de ti, meu Deus (2x)\n\nDe ti preciso, preciso mais que tudo nessa vida\nPreciso, preciso, és a razão do meu viver\nIncomparável és, sou todo teu, sou todo teu (2x)\n\nMais que a vida, eu preciso de ti\nMais que o ar, eu preciso de ti\nMais que as riquezas, eu preciso de ti, meu Deus\n\nDe ti preciso, preciso mais que tudo nessa vida\nPreciso, preciso, és a razão do meu viver\nIncomparável és, sou todo teu, sou todo teu (2x)",
+        "momentIds": [
+            "adoracao-adoracao",
+            "louvor-abertura",
+            "louvor-ministração"
+        ],
+        "celebrationTypeIds": [
+            "adoracao",
+            "louvor"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "ent-9a4971b8",
+        "title": "Eu te levantarei",
+        "composer": "Frei Gilson",
+        "lyrics": "Eu te levantarei \nEu te levantarei\nFilho amado, filho querido (2x)\n\nRestituirei tuas forças\nE te atrairei a mim\nE te darei novas vestes, filho amado (2x)\n\nDeus te levantou\nDeus te levantou\nVocê é amado, você é querido\n\nRestituirei tuas forças\nE te atrairei a mim\nE te darei novas vestes, filho amado (2x)",
+        "momentIds": [
+            "entrada",
+            "final",
+            "louvor-ministração"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "louvor"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "aca-3388d92c",
+        "title": "Acalma a minha tempestade",
+        "composer": "Frei Gilson",
+        "lyrics": "Quando estou em alto mar\nE as ondas vêm me agitar\nMinha fé começa a fraquejar\nO medo se instala no lugar\n\nEsqueço da Sua promessa\nDe que sempre estás comigo\nPosso ouvir a Tua voz\nMe dizendo\n\nPor que tendes medo?\nPor que tendes medo?\nPor que tendes medo?\n\nPor que tendes medo?\nPor que tendes medo?\nPor que tendes medo?\n\nAcalma minha tempestade\nAcalma o meu coração\nDevolve a paz que vem de Ti, Senhor\n\nAumenta minha fé em Ti\nNão me deixa fraquejar jamais\nAo som da Tua voz tudo vai calar\nSó preciso esperar\nA tempestade vai acalmar",
+        "momentIds": [
+            "acaoDeGracas",
+            "louvor-ministração"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "adoracao",
+            "louvor"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "lou-9f533be9",
+        "title": "Colo de Mãe",
+        "composer": "Frei Gilson",
+        "lyrics": "Eu preciso tanto do teu colo de mãe\nEu preciso tanto do teu colo de mãe\n\nQue me ama, me ampara, me protege\nCom manto protetor intercede sempre em meu favor\nQue me ama, me ampara, me protege\nCom manto protetor intercede sempre em meu favor\n\nMe ama, me abraça, me esconde, em teu manto\nMe ama, me abraça, me esconde, em teu manto",
+        "momentIds": [
+            "louvor-abertura",
+            "louvor-ministração",
+            "louvor-encerramento"
+        ],
+        "celebrationTypeIds": [
+            "louvor"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "lou-955ce2ba",
+        "title": "Por que choras",
+        "composer": "Frei Gilson",
+        "lyrics": "Por que choras? Por que choras?\nFilho amado meu, filho amado meu\nPor que te preocupas? Por que te preocupas?\nContigo sempre estou, contigo sempre estou (2x)\n\nTodo choro pode durar uma noite\nMas a alegria vem ao amanhecer\nÉ promessa do Senhor pra nós\nEntão, não vou desanimar\nÉ promessa do Senhor pra nós\nEu só preciso confiar\n\nPor que choras? Por que choras?\nFilho amado meu, filho amado meu\nPor que te preocupas? Por que te preocupas?\nContigo sempre estou, contigo sempre estou\n\nTodo choro pode durar uma noite\nMas a alegria vem ao amanhecer\nÉ promessa do Senhor pra nós\nEntão, não vou desanimar\nÉ promessa do Senhor pra nós\nEu só preciso confiar (2x)\n\nPor que choras? Por que choras?\nFilho amado meu, filho amado meu\nPor que te preocupas? Por que te preocupas?\nContigo sempre estou, contigo sempre estou\n\nNão seremos abalados\nNão seremos derrotados\nNão seremos amedrontados\nDeus conosco está (2x)\n\nPor que choras? Por que choras?\nFilho amado meu, filho amado meu\nPor que te preocupas? Por que te preocupas?\nContigo sempre estou, contigo sempre estou",
+        "momentIds": [
+            "louvor-ministração"
+        ],
+        "celebrationTypeIds": [
+            "louvor"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "ofe-eaa0add2",
+        "title": "És O sentido",
+        "composer": "Suely Façanha",
+        "lyrics": "Quero te dar meu coração\nÀ luz de uma nova decisão\nDe amar-te mais que a tudo\nQue um dia eu possa ter\n\nAbraçando então o que é real\nProvando e amando o essencial\nE escrevendo a nova história\nVivendo em teu amor\n\nMinha vida é toda tua\nOs meus planos, os meus sonhos\nDe nada vale o existir\nSe não for pra te ofertar\n\nE em cada passo descobrir\nQue o tempo esconde o que é eterno\nQue Tu és o sentido\nÓ, meu Senhor, de tudo",
+        "momentIds": [
+            "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-f839c2c1",
+        "title": "Hino a São José",
+        "composer": "Marcela Buback",
+        "lyrics": "Hoje aos teus pés deixamos nossa vida\nHoje aos teus pés\nGlorioso São José \nOuça a nossa oração e por tua intercessão \nAlcançaremos a paz do coração \n\nEm Nazaré com Maria Virgem e Santa\nEm Nazaré\nGlorioso São José \nPor Tua grande virtude cuidou de Jesus\nFoi guardião da Divina Luz\n \nTeu jeito simples humilde carpinteiro\nTeu jeito simples\nGlorioso São José \nCumpriu a Tua missão\nMissão para o Senhor \nOferecendo trabalho e oração \n\nTiveste fé em Deus e em sua promessa \nTiveste fé\nGlorioso São José \nMestre de oração que vem nos ensinar\nA escutar e seguir a voz de Deus",
+        "momentIds": [
+            "entrada",
+            "final",
+            "casamento-noivo"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ado-f06d3cee",
+        "title": "O céu se abre",
+        "composer": "Walmir Alencar",
+        "lyrics": "Hoje o céu se abre pra derramar\nSobre os corações toda a graça do Pai\nEu também quero me derramar\nDe todo o meu coração nos braços do Pai\n\nVem, Espírito Santo, com Teu poder\nTocar meu ser, fluir em mim\nVem, Espírito Santo, com Teu poder\nTocar meu ser, fluir em mim\n\nHoje eu posso ser um novo homem\nPelo Teu poder, renascer\nHoje eu posso ser um novo homem\nPelo Teu poder, renascer",
+        "momentIds": [
+            "adoracao-adoracao",
+            "louvor-ministração"
+        ],
+        "celebrationTypeIds": [
+            "adoracao",
+            "louvor"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "fin-41d4b6f5",
+        "title": "José, feliz esposo",
+        "composer": "Marcela Buback",
+        "lyrics": "José, feliz esposo da Virgem Mãe de Deus,\nCom teu favor poderoso\namparai os filhos teus\namparai os filhos teus\n\nEntre os varões mais célebres,\nTu só foste escolhido\nPor guarda fidelíssimo\nDo Redentor nascido.\n\nBanhado em ternas lágrimas,\nViste aos acenos teus\nSujeito o Rei da Glória,\nO Criador dos Céus.\n\nProféticas visões\nEm ti se averiguaram;\nA ti o Sol e a Lua\nHumildes se inclinaram.\n\nMorreste entre os amplexos\nDa Virgem, tua esposa,\nE do divino Filho!\nÓ morte venturosa!\n\nQuando chegar terrível\nMinha última agonia,\nÓ vinde em meu socorro,\nJesus, José, Maria!",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "fin-4e98cee5",
+        "title": "São José, do Céu a glória",
+        "composer": "Marcela Buback",
+        "lyrics": "São José, do céu a glória,\nesperança verdadeira\nque reluz na nossa vida,\nproteção de todo o mundo,\nouve os cantos e louvores\nda Igreja agradecida.\n\nA ti, filho de Davi,\ncomo esposo de Maria\nescolheu o Criador.\nQuis que fosses pai do Verbo\ne da nossa salvação\ndiligente servidor.\n\nReclinado no presépio,\no Esperado dos profetas,\nRedentor do mundo inteiro,\ntu contemplas, venturoso,\ne, unido à Virgem Mãe,\no adoras por primeiro.\n\nO Senhor e Deus do mundo,\nRei dos reis, a cujo aceno\nse ajoelha o céu fulgente\ne os infernos estremecem,\nrevestindo a nossa carne,\nfez-se a ti obediente.\n\nGlória eterna à Divindade,\nUnidade na Trindade,\nDeus imenso, Sumo Bem,\nque te deu tão grande graça.\nPor ti, dê-nos sua vida\ne alegria eterna. Amém.",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-4ec6cfc8",
+        "title": "Cantico a São José",
+        "composer": "Marcela Buback",
+        "lyrics": "Vinde alegres cantemos\nA Deus demos louvor\nE ao Pai exaltemos\nSempre com mais fervor\n\nR.: SÃO JOSÉ, A VOZ NOSSO AMOR, \nSEDE NOSSO BOM PROTETOR, \nAUMENTAI O NOSSO FERVOR. \n\nQuis o verbo Divino, \ndar-vos o nome de pai. \nUm glorioso destino, \npara nós impetrai. \n\nVós, esposo preclaro, \nAmantíssimo pai. \nDos cristãos firme amparo, \neste canto aceitai. \n\nSão José triunfante, \nquis a glória gozar. \nE para sempre reinante, \nno Senhor repousar.",
+        "momentIds": [
+            "entrada",
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "fin-17a36a0b",
+        "title": "Coração de Mãe",
+        "composer": "Marcela Buback",
+        "lyrics": "Coração pleno da graça e do amor\nÓ coração da mãe e serva do senhor\nDeus contemplou toda grandeza do vosso humilde coração\nE nele fez morada, ó nobre filha de Sião!\n\nR: Ó mãe, em vosso coração\nEncontro meu refúgio e salvação\nEsperança dos sofredores, refúgio dos pecadores\nRainha da paz, abismo de compaixão\n\nCoração todo disponível ao projeto do senhor\nEm vós tudo é sinal de seu amor\nCoração obediente da perfeita oblação\nÓ mãe da misericórdia, salvai-me por compaixão\n\nRefrão\n\nCoração, lirio de pureza, e sacrário do redentor\nFazei-me crescer no santo amor!\nCoração todo enamorado, sinal da eternidade\nDai-me aprender a vossa santa humildade\n\nRefrão\n\nCoração pleno de amor, sempre atento ao seu redor\nCoração que oferta ao pai o que há de melhor\nÓ mãe em vossos braços, encontro a proteção\nGuardai-me em vosso santo imaculado coração\n\nRefrão",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "fin-17a6b148",
+        "title": "Mais que aurora surgiste formosa",
+        "composer": "Marcela Buback",
+        "lyrics": "1. Mais que aurora surgistes formosa,\nDoce luz espargindo na terra,\nE entre os astros que a noite descerra,\nNenhum há mais brilhante que Vós!\n\nR. Sois mais alva que a lua,\nMais que o sol sois brilhante,\nMesmo o céu fulgurante,\nPerde em brilho perante Vós.\n\n2. Vem do céu esse brilho das vestes,\nE esse azul que no manto flutua,\nSeus encantos cedeu-vos a lua,\nDoze estrelas vos vêm coroar!\n\n3. São mais belos que o mar vossos olhos,\nMais que o lis, vossa fonte é formosa,\nTendes faces que vencem a rosa,\nVossos lábios são flor em botão.\n\n4. Vós venceis os diamantes no brilho,\nE excedeis o rubi nos fulgores;\nMais beleza Vós tendes que as flores;\nSois Maria, um retrato de Deus.",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "aca-db677607",
+        "title": "Regina Caeli",
+        "composer": "Marcela Buback",
+        "lyrics": "Regina Caeli, laetáre Alleluia\nQuia quem meruisti portare Alleluia\nResurréxit, sicut dixit Alleluia\nOra pro nobis Deum Alleluia",
+        "momentIds": [
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "pascoa"
+        ]
+    },
+    {
+        "id": "aca-327ae3d4",
+        "title": "Nada te perturbe | Santa Teresa D'Ávila",
+        "composer": "Marcela Buback (Ir. Miria T. Kollin)",
+        "lyrics": "Nada te perturbe\nNada te espante\nTudo tudo passa\nSó Deus não muda\nA paciência tudo alcança\nNada te falta com Deus no coração\nSó Deus só Deus te basta",
+        "momentIds": [
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "aca-476d4cd8",
+        "title": "Vossa sou",
+        "composer": "Marcela Buback",
+        "lyrics": "Vossa sou pois me criastes\nVossa sou pois me redimistes,\nporque me atraístes, e me suportastes,\ne me esperastes, e me salvastes; por fim:\no que mandais fazer de mim?\no que mandais fazer de mim, de mim?\n\nEis aqui, meu coração,\nei-lo, pois, em vossa Mão,\neis a minha alma, vida e afeição,\nó Doce Esposo meu, Doce Amor, Redenção:\npara entregar-me a vós eu vim\no que mandais fazer de mim, de mim?\n\nEis-me aqui: dai-me riquezas\neis-me aqui: dai-me pobreza,\nglória ou labéu, dai-me pena ou Céu...\ndai-me alegria, ou dai-me a dor ou troféu:\npois me rendi toda, enfim\no que mandais fazer de mim, de mim?\n\nSe quereis que eu descanse,\npor amor vou neste instante,\ne, se trabalhando, vós assim mandais,\ntrabalhando então até o fim hei de estar!\ndizei-me: onde? como? enfim,\no que mandais fazer de mim, de mim?",
+        "momentIds": [
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-04d22e00",
+        "title": "Deus habita em seu templo santo",
+        "composer": "Marcela Buback",
+        "lyrics": "Deus habita em seu templo santo\nReúne seus filhos em sua casa\nÉ ele que dá força e poder\nA seu povo, a seu povo\n\nEis que Deus se põe de pé, e os inimigos se dispersam!\nFogem longe de sua face os que odeiam o Senhor.\n\nEm seu templo ele é admirável e a seu povo dá poder.\nBendito seja o Senhor Deus, agora e sempre. Amém, Amém!",
+        "momentIds": [
+            "entrada"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-33b751f4",
+        "title": "Assim, eu vos digo",
+        "composer": "Marcela Buback",
+        "lyrics": "Assim, eu vos digo, \nhaverá alegria entre os anjos de Deus \npor um só pecador que se arrepende.\n\n1.  Feliz o homem que foi perdoado * e cuja falta já foi encoberta! \nFeliz o homem a quem o Senhor † não olha mais como sendo culpado, * \ne em cuja alma não há falsidade! \n\n2. Enquanto eu silenciei meu pecado, † dentro de mim definhavam meus ossos * \ne eu gemia por dias inteiros, \n\n3. porque sentia pesar sobre mim * a vossa mão, ó Senhor, noite e dia; \ne minhas forças estavam fugindo, * tal como a seiva da planta no estio. \n\n4. Eu confessei, afinal, meu pecado, * e minha falta vos fiz conhecer. \nDisse: 'Eu irei confessar meu pecado!' * E perdoastes, Senhor, minha falta. \n\n5. Sois para mim proteção e refúgio; * na minha angústia me haveis de salvar, \ne envolvereis a minha alma no gozo * da salvação que me vem só de vós. \n\n6. Vou instruir-te e te dar um conselho; † vou te dar um conselho a seguir, * \ne sobre ti pousarei os meus olhos: \n\n7. Muito sofrer é a parte dos ímpios; † mas quem confia em Deus, o Senhor, * \né envolvido por graça e perdão. \n\n8. Regozijai-vos, ó justos, em Deus, † e no Senhor exultai de alegria! * \nCorações retos, cantai jubilosos!",
+        "momentIds": [
+            "comunhao",
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-be408cc4",
+        "title": "Eis os pensamentos do seu coração",
+        "composer": "Marcela Buback",
+        "lyrics": "Eis os pensamentos do seu coração, \nque permanecem ao longo das gerações: \nlibertar da morte todos os homens \ne conservar-lhes a vida em tempo de penúria.\n\n1. Feliz o povo cujo Deus é o Senhor, *e a nação que escolheu por sua herança! \nDos altos céus o Senhor olha e observa; * ele se inclina para olhar todos os homens. \n\n2. Ele contempla do lugar onde reside *e vê a todos os que habitam sobre a terra. \nEle formou o coração de cada um *e por todos os seus atos se interessa. \n\n3. Um rei não vence pela força do exército, * nem o guerreiro escapará por seu vigor. \nNão são cavalos que garantem a vitória; * ninguém se salvará por sua força.",
+        "momentIds": [
+            "entrada"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "fin-ade47847",
+        "title": "Eu canto louvando Maria",
+        "composer": "Marcela Buback",
+        "lyrics": "EU CANTO LOUVANDO MARIA, MINHA MÃE.\nA ELA UM ETERNO “OBRIGADO” EU DIREI:\nMARIA FOI QUEM ME ENSINOU A VIVER.\nMARIA FOI QUEM ME ENSINOU A SOFRER\n \n1. Maria, em minha vida, é luz a me guiar,\né Mãe que me aconselha, me ajuda a caminhar.\nMãe do Bom Conselho, rogai por nós!\n\t\n2. Quando eu sentir tristeza, sentir a cruz pesar,\nÓ Virgem Mãe das dores, de ti vou me lembrar.\nVirgem Mãe das Dores, rogai por nós!\n\t\n3. Se um dia o desespero vier me atormentar,\na força da Esperança em ti vou encontrar.\nMãe da Esperança, rogai por nós.\n\t\n4. Nas horas de incerteza, ó Mãe, vem me ajudar!\nQue eu sinta a confiança na paz do teu olhar.\nMãe da Confiança, rogai por nós!\n \n5. Que eu diga a vida inteira o “Sim” aos meus irmãos.\nO “Sim” que tu disseste de todo coração.\nVirgem Mãe dos Homens, rogai por nós.",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "fin-9aba89ad",
+        "title": "Salve Rainha",
+        "composer": "Marcela Buback",
+        "lyrics": "Salve, rainha\nMãe de misericórdia\nVida, doçura\nEsperança nossa, salve\n\nA Vós, bradamos\nOs desgregados filhos de Eva\nA vós, suspiramos\nGemendo e chorando\n\nNeste vale de lágrimas\nEia pois, advogada nossa\n\nEsses vossos olhos misericordiosos\nA nós volvei\nE depois deste desterro\nMostrai-nos Jesus\n\nBendito o fruto do vosso ventre\nÓ clemente, ó piedosa\nÓ doce sempre Virgem Maria",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-46fca965",
+        "title": "Adoro Te devoto",
+        "composer": "Marcela Buback",
+        "lyrics": "Eu te adoro, ó Cristo, Deus no santo altar, \nno teu sacramento vivo a palpitar! \nDou-te, sem partilha, vida e coração; \npois de amor me inflamo na contemplação.\n\nTato e vista falham, bem como o sabor; \nsó por meu ouvido tem a fé vigor. \nCreio o que disseste, ó Jesus, meu Deus,\nVerbo da Verdade, vindo a nós dos céus.\n\nTua divindade não se viu na cruz,\nnem a humanidade vê-se aqui, Jesus; \nambas eu confesso como o bom ladrão, \ne um lugar espero na eternal mansão.\n\nNão me deste a dita como a São Tomé, \nde tocar as chagas, mas eu tenho fé. \nFaze que ela cresça com o meu amor, \ne minha esperança tenha novo ardor.\n\nDos teus sofrimentos é memorial, \neste pão de vida, pão celestial; \ndele eu sempre queira mais me alimentar, \nsentir-lhe a doçura divinal sem par.\n\nBom Pastor piedoso, Cristo meu senhor, \nlava no teu sangue a mim pecador, \npois que uma só gota pode resgatar \ndo pecado o mundo e o purificar.\n\nOra te contemplo, com espesso véu, \nmas desejo ver-te, bom Jesus, no céu. \nFace a face um dia, hei de ti gozar, \nnessa doce Pátria sem fim te amar. Amém",
+        "momentIds": [
+            "comunhao",
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-7c5f9fd2",
+        "title": "Coração Tão Humilde e Manso",
+        "composer": "Marcela Buback",
+        "lyrics": "1-  Coração tão Humilde e manso, transpassado pela dor,\n     Ferido pela lança e pelo Amor\n     Fornalha de Caridade, Ternura de Deus Pai,\n     De Ti não me separe jamais! \n\nRef.: Jesus, confio em Vós, confio em Vós, \nEm Ti a minha Paz, Jesus\nDe Teu Sagrado Coração, \nDe Teu Sagrado Coração\nNão me aparte jamais! Jamais!\n\n2- Grande Amor que jamais se cansa de remir e de perdoar,\n     Amor que não se esgota jamais!\n     Refúgio dos pecadores, Olhar de Compaixão,\n    Ó Fonte de Bondade e Perdão.\n\n3- Por tão grande Misericórdia, e infinita Compaixão,\n   redimes nosso pobre coração.\n   Amor que do Céu desceu e com Sangue nos lavou;\n   Amar assim, ninguém jamais amou!",
+        "momentIds": [
+            "comunhao",
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-798b57ff",
+        "title": "Hostia Santa",
+        "composer": "Marcela Buback",
+        "lyrics": "1. Rumo à Hóstia Santa, Jesus me espera, \nHumildemente ergo os olhos e O contemplo.\nNo silêncio, Jesus me espera, \nMinh’alma desfalece buscando o seu sabor\nEle então me olha, tão misteriosamente, \nInvisível nesta Hóstia, olha para mim\nCom seu Amor ardente transfigura o coração, \nDas trevas para a luz Ele me leva\nFogo que jorra do Sagrado Coração, \nInvisível nesta Hóstia olha para mim\n\n2. Ó belo mistério de Jesus Hóstia, \nQue está ardente de amor e me espera\nPaciência infinita, verdadeira Caridade, \nPorta sempre aberta esperando o meu sim\nDa Hóstia Ele me olha com tanta humildade, \nSem luz, sem brilho, olha para mim\nA Hóstia Santa guarda os segredos de Jesus, \nTão perto está a Luz diante de mim\nÓ tão grande rei que se entrega como servo, \nQuero viver diante desta Luz\n\n3. Resplandecente bondade de Jesus, \nAlvorada iluminando as sombras com sua Luz\nÓ vivificante doçura inefável, \nCorpo precioso escondido nesta Hóstia\nSuprema grandeza que se deixa contemplar, \nNa pobreza do pão meu Deus se entrega\nAmor infinito a inclinar-se para mim, \nNo Coração aberto dar o Reino\nVem visitar Jesus meu coração que seco está, \nSeu Amor torrencial vem derramar\n\n4. Esta chama Eterna, noite e dia, \nVai afastando as sombras, espalhando seu calor\nComo uma criança indefesa e confiante, \nEu me aproximo atraída pela Luz\nJesus está presente e diante dEle estou, \nO Rei dos reis olha para mim\nReúne os tempos, Pão da eternidade, \nÉ o Verbo da verdade vindo a nós do Céu\nÓ Eterno Sol, vem transformar meu coração, \nTão pesada é a miséria longe do Céu\nHóstia Santa!",
+        "momentIds": [
+            "comunhao",
+            "casamento-comunhao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "fin-d6e3187b",
+        "title": "Ó Maria concebida",
+        "composer": "Marcela Buback",
+        "lyrics": "Ó Maria, concebida\nSem pecado original,\nQuero amar-vos toda a vida,\nCom ternura filial.\n\nRefrão:\nVosso olhar a nós volvei!\nVossos filhos protegei!\nÓ Maria, ó Maria,\nVosso filhos protegei! (bis)\n\nMais que a aurora sois formosa,\nMais que o sol resplandeceis!\nDo universo, Mãe bondosa,\nO louvor vós mereceis.\n\nRefrão\n\nNesta terra peregrina,\nNós buscamos vida e luz;\nVirgem santa, conduzi-nos\nPara o Reino de jesus!\n\nRefrão\n\nExaltamos a beleza\nCom que Deus vos quis ornar.\nVossa graça de pureza\nVenha em nós também brilhar.\n\nRefrão",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "com-f064a699",
+        "title": "Vem e Eu mostrarei",
+        "composer": "Marcela Buback (Waldeci Farias)",
+        "lyrics": "Vem, e eu mostrarei que o meu caminho te leva ao pai\nGuiarei os passos teus e junto a ti hei de seguir\nSim, eu irei e saberei como chegar ao fim\nDe onde vim, aonde vou, por onde irás, irei também\n\nVem, eu te direi o que ainda estás a procurar\nA verdade é como o Sol e invadirá teu coração\nSim, eu irei e aprenderei minha razão de ser\nEu creio em ti que crês em mim e à tua luz verei a luz\n\nVem, e eu te farei da minha vida participar\nViverás em mim aqui, viver em mim é o bem maior\nSim, eu irei e viverei a vida inteira assim\nEternidade é na verdade, o amor vivendo sempre em nós\n\nVem, que a terra espera quem possa e queira realizar\nCom amor, a construção de um mundo novo muito melhor\nSim, eu irei e levarei teu nome aos meus irmãos\nIremos nós e o teu amor vai construir enfim a paz",
+        "momentIds": [
+            "comunhao",
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ofe-d9630dbc",
+        "title": "Meu Deus eu me entrego - Fulton J. Sheen",
+        "composer": "Marcela Buback",
+        "lyrics": "Meu Deus, eu me entrego em vossas mãos\nToma o meu corpo toma o meu sangue.     \nMinha vontade e energia, minha força e saúde\nToma os meus bens, tudo o que sou e que possuo\nPois eu me consagro inteiramente a vós\n\nTransforma o pobre pão, pão da minha vida\nNa vossa vida, vida divina.                   \nTransforma o vinho da minha vida no vosso divino espírito\nTransforma a minha cruz, une o meu coração\ncoração despedaçado, ao Vosso Coração\n\nNão deixes que se percam minha dor e abandono\nJunta os meus, os meus fragmentos.               \nAssim como a gota de água é incorporada ao vinho\nDeixe que a minha vida incorpore à Vossa Vida\nDeixe que a minha pequena cruz  se una à Grande Cruz\n\nQue a minha cruz pequena se una à Vossa Grande cruz\n Alegria eterna em união convosco.         \nConsagra as provações da minha existência\nPois elas só serão recompensadas\nPor meio da minha união com o Senhor\n\nTransubstancia-me tal como o pão e o vinho\nQue será vosso corpo  e será vosso sangue. \nNão me importa que as aparências permaneçam inalteradas\nNos meus deveres, trabalho e família\nSão as espécies da minha vida entregues a Vós\n\nMeu coração e meu espírito, minha alma e vontade\nTransubstancia-os no Vosso serviço\nA substância da minha vida se transforme em vossa essência\nQue todo o meu ser possa saber e sentir\nToda a doçura do amor de Cristo\nAmém, Amém, Amém",
+        "momentIds": [
+            "ofertorio"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-0a5e7ec2",
+        "title": "Podes Reinar",
+        "composer": "Agnus Dei",
+        "lyrics": "Senhor, eu sei que é teu este lugar\nTodos querem te adorar\nToma Tu a direção\nSim, ó Vem, ó Santo Espírito\nOs espaços preencher\nReverência à tua voz vamos fazer\n\nPodes reinar\nSenhor Jesus, oh sim\nO teu poder teu povo sentirá\nQue bom Senhor\nSaber que estás presente aqui\nReina, Senhor, neste lugar\n\nVisita cada irmão, oh meu Senhor\nDá-lhe paz interior\nE razões pra te louvar\nDesfaz todas as tristezas\nIncertezas, desamor\nGlorifica o teu nome, oh meu senhor\n\nPodes reinar\nSenhor Jesus, ó sim!\nO teu poder teu povo sentirá\nQue bom, Senhor\nSaber que estás presente aqui\nReina, Senhor, neste lugar!",
+        "momentIds": [
+            "entrada"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "aca-97b286b0",
+        "title": "Teus Planos",
+        "composer": "Juninho Cassimiro",
+        "lyrics": "Eu me abro ao Teu querer\nEu me rendo a Tua voz\nQuero me submeter\nQuero conhecer Teus planos\n\nOs passos que dei sem Você\nSó me fizeram fracassar\nO tanto que eu já chorei\nMe arrependo dos meus planos\n\nSem Ti nada posso fazer\nOnde eu posso ir, se o céu que eu procuro\nSó virá por Tua voz?\n\nOs meus passos são Teus\nO meu próximo minuto é Teu\nSe não for assim, não me deixe ir\nDou minha mão para Ti\nFecho os olhos e confio em Ti\nLeva-me, Senhor\nOh, oh, oh\n\nSem Ti nada posso fazer\nOnde eu posso ir, se o céu que eu procuro\nSó virá por Tua voz?\n\nOs meus passos são Teus\nO meu próximo minuto é Teu\nSe não for assim, não me deixe ir\nDou minha mão para Ti\nFecho os olhos e confio em Ti\nLeva-me, Senhor\n\nOs meus passos são Teus\nO meu próximo minuto é Teu\nSe não for assim, não me deixe ir\nDou minha mão para Ti\nFecho os olhos e confio em Ti\nLeva-me, Senhor\nOh, oh, oh\n\nQuero me submeter\nQuero conhecer Teus planos",
+        "momentIds": [
+            "acaoDeGracas",
+            "casamento-assinaturas",
+            "adoracao-adoracao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "casamento",
+            "adoracao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "aca-90fcb35f",
+        "title": "O convivio dos Eleitos",
+        "composer": "Juninho Cassimiro",
+        "lyrics": "O Senhor me libertou\nO que mais me prende aqui\nNada me seduz, ah, ah\nO meu amor por Ti, Jesus\nÉ o que tenho de valor\nNada me atrai, nada\n\nTarde Te amei, mas Te encontrei, amor\nO meu maior bem é ser todo Teu, Jesus\nPor nada eu Te trocaria\nPor nada eu Te deixaria\nNada, nada\n\nConcedei-me o convívio dos eleitos\nEu sonho com o Céu a todo tempo\nConcedei-me o convívio dos eleitos\nEu sonho com o Céu a todo tempo\n\nO Senhor me libertou\nO que mais me prende aqui\nNada me seduz (nada)\nMeu amor por Ti, Jesus\nÉ o que tenho de valor\nNada me atrai, ah\n\nTarde Te amei, mas Te encontrei, amor\nO meu maior bem é ser todo Teu, Jesus\nPor nada eu Te trocaria\nPor nada eu Te deixaria\n(Nada) nada, (nada)\n\nNão quero as honras\nNem quero riquezas\nQuero me esconder\nEu prefiro o Paraíso\n\nNão quero as honras\nNem quero riquezas\nQuero me esconder\nEu prefiro o Paraíso\nOh, oh\n\nConcedei-me o convívio dos eleitos\nEu sonho com o Céu a todo tempo\nConcedei-me o convívio dos eleitos\nEu sonho com o Céu a todo tempo \n\nConcedei-me o convívio dos eleitos\nEu sonho com o Céu a todo tempo, todo tempo\nEu sonho com o Céu a todo tempo\n\nParaíso, Paraíso\nEu prefiro o Paraíso\nParaíso, Paraíso\nParaíso",
+        "momentIds": [
+            "acaoDeGracas",
+            "adoracao-adoracao",
+            "louvor-abertura",
+            "louvor-ministração",
+            "louvor-encerramento"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "adoracao",
+            "louvor"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "aca-6558b24c",
+        "title": "Determinada decisão",
+        "composer": "Juninho Cassemiro",
+        "lyrics": "Há um horizonte pra alcançar\nHá um oceano pra navegar\nCom lutas e perdas\nCom dores e cruz\n\nEste horizonte parece longe\nMas pra alcançar preciso entrar\nno mar e avançar a cada dia\nDeterminada decisão!\n\nSó o amor faz mover a minha vida\nEm direção a santidade\nO reino dos Céus é dos violentos\nSó por amor ao meu Senhor tomo minha cruz\nE crucificado amar Jesus\nHá um horizonte pra conquistar\n\nTenho pra mim que os sofrimentos\nDa presente vida não tem proporção\nCom a glória futura que os santos já vivem\nDeterminada decisão!\n\nSó o amor faz mover a minha vida\nEm direção a santidade\nO reino dos Céus é dos violentos\nSó por amor ao meu Senhor tomo minha cruz\nE crucificado amar Jesus\nHá um horizonte pra conquistar (2x)",
+        "momentIds": [
+            "acaoDeGracas",
+            "adoracao-adoracao",
+            "louvor-abertura",
+            "louvor-ministração",
+            "louvor-encerramento"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "adoracao",
+            "louvor"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "aca-667da7c3",
+        "title": "Castelo Interior",
+        "composer": "Juninho Cassimiro",
+        "lyrics": "Tu estás no centro do meu ser\nTu moras em mim\nMe inquietei\nQuando Te procurei\nFora de mim\nLouca ilusão, querer Te encontrar\nNas coisas que vi\nAgora estou aqui\nOlhando para mim, sedento\n\nMas eu nada sou, pequeno sou\nComo adentrar meu coração?\nUm castelo sou, na porta estou\nE a chave pra entrar é a oração\nOh meu esposo\nMeu amado!\nOuça o meu grito!\nPois logo estarei em Teus braços!\nMeu amado\nEnfrentarei minhas fraquezas\nFarei de tudo para subir\nTu estás no centro do meu ser\nTu moras em mim\nMas, sofri quando eu percebi\nQuão sujo estou\nTenho que perder\nSó assim para ganhar\nAs chaves das moradas\nMais puro estarei\nEntão enxergarei a luz\nEncontrar o amor, e assim amar\nMais perto estarei do Teu olhar\nMesmo à noite irei continuar\nPois logo me unirei a Ti\n\nOh meu esposo\nMeu amado\nOuça o meu sim!\nSerei fiel a Ti para sempre\nMeu amado\nO Teu amor\nÉ forte como a morte",
+        "momentIds": [
+            "acaoDeGracas",
+            "adoracao-adoracao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "adoracao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "aca-77a57175",
+        "title": "O poço",
+        "composer": "Juninho Cassimiro",
+        "lyrics": "Quer se encontrar com o amor?\nQuer se deparar com o olhar mais profundo?\nEle está sentado logo ali\nNa beira de um poço, com uma sede de amar\n\nQue tal sentar naquele poço\nE dar de beber ao Deus sedento?\nParece que o poço é fundo\nMas se conhecesses o dom\nDo Deus sedento, do Deus sedento\n\nSede de ganhar teu coração\nSede de que tenha sede Dele\nSede de ganhar teu coração\n\nMas quer fugir e mentir\nSe esconder, se isolar\nMas, no fundo, o poço é fundo\nTem medo de enfrentar\n\nDeus, neste momento\nEstá querendo se encontrar com você\n\nVai lá, chama a tua verdade e vem aqui\nVai lá, rasga o teu coração e vem aqui\nConta para Ele como está\nDeixa Ele falar quem você é\nO Seu amor é tudo que você precisa ter\n\nO amor desse Deus só quer te libertar\nVocê precisa ter coragem e o levar\nAo lugar sagrado que tu tens\nOnde estão segredos que ninguém vê\nOnde está o sonho de ser livre, livre\n\nA verdade te libertará\nO amor não vai te condenar\nE, no fim de tudo, é Ele quem te saciará, te saciará\nÉ Ele quem te saciará",
+        "momentIds": [
+            "acaoDeGracas"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-2dde1019",
+        "title": "Deixa a luz do Céu entrar",
+        "composer": "Musicas Católicas",
+        "lyrics": "Tu anseias, eu bem sei, por salvação\nTens desejo de banir a escuridão\nAbre, pois, de par em par, teu coração\nE deixa a luz do céu entrar\n\nR: Deixa a luz do céu entrar\nDeixa a luz do céu entrar \nAbre bem as portas do teu coração\nE deixa a luz do céu entrar\n\nCristo, a luz do céu, em ti quer habitar\nPara as trevas do pecado dissipar\nTeu caminho e coração iluminar\nE deixa a luz do céu entrar\n\nRefrão\n\nQue alegria andar ao brilho dessa luz\nVida eterna e paz no coração produz\nOh! Aceita agora o Salvador Jesus\nE deixa a luz do céu entrar\n\nRefrão",
+        "momentIds": [
+            "entrada",
+            "louvor-abertura"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "louvor"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ent-ef2eb9ba",
+        "title": "Vem, vem, vem Espirito Santo",
+        "composer": "Padre Zeca",
+        "lyrics": "Vem, vem, vem, Espírito Santo\nTransforma a minha vida, quero renascer\nVem, vem, vem, Espírito Santo\nTransforma a minha vida, quero renascer\n\nQuero abandonar-me em Seu amor\nEncharcar-me em Seus rios, Senhor\nDerrubar as barreiras em meu coração\nQuero abandonar-me em Seu amor\nEncharcar-me em Seus rios, Senhor\nDerrubar as barreiras em meu coração",
+        "momentIds": [
+            "entrada",
+            "louvor-abertura"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "louvor"
+        ],
+        "liturgicalSeasons": [
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "ado-24ee060e",
+        "title": "Tão Sublime Sacramento",
+        "composer": "Musicas Católicas",
+        "lyrics": "Tão sublime sacramento\nAdoremos neste altar\nPois o Antigo Testamento\nDeu ao Novo seu lugar\nVenha a fé, por suplemento\nOs sentidos completar\n\nAo eterno Pai cantemos\nE a Jesus, o Salvador\nAo Espírito exaltemos\nNa Trindade, eterno amor\nAo Deus uno e trino demos\nA alegria do louvor\n\nAmém! Amém!",
+        "momentIds": [
+            "adoracao-bencao"
+        ],
+        "celebrationTypeIds": [
+            "adoracao"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "fin-a9d714da",
+        "title": "Pelas estradas da vida",
+        "composer": "Musicas Católicas",
+        "lyrics": "Pelas estradas da vida, nunca sozinho estás\nContigo pelo caminho, Santa Maria vai\n\nÓ, vem conosco, vem caminhar\nSanta Maria vem\nÓ, vem conosco, vem caminhar\nSanta Maria vem\n\nMesmo que digam os homens\nTu nada podes mudar\nLuta por um mundo novo\nDe unidade e paz\n\nÓ, vem conosco, vem caminhar\nSanta Maria vem\nÓ, vem conosco, vem caminhar\nSanta Maria vem\n\nSe pelo mundo os homens\nSem conhecer-se, vão\nNão negues nunca a tua mão\nA quem te encontrar\n\nÓ, vem conosco, vem caminhar\nSanta Maria vem\nÓ, vem conosco, vem caminhar\nSanta Maria vem\n\nSe parecer tua vida\nInútil caminhar\nLembra que abres caminho\nOutros te seguirão\n\nÓ, vem conosco, vem caminhar\nSanta Maria vem\nÓ, vem conosco, vem caminhar\nSanta Maria vem",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "aca-d8f615ab",
+        "title": "Fogo abrasador",
+        "composer": "Comunidade Católica Shalom",
+        "lyrics": "Se Tu inflamas o meu coração\nSe Tu somente és a minha razão\nDe viver e amar\nEm Tuas mãos minha vida está\nTeu coração é onde quero morar\nE unir-me em amor\n\nComo um fogo abrasador inflama\nFaz subir Tuas centelhas de amor em chamas\nDo Teu coração aberto meu Senhor\n\nSeja adorado pra sempre Senhor\nQuero Te amar como amado eu sou\nEm louvor me darei\nTua vontade e a minha uma só\nTeu coração e o meu sejam um só\nMovimento de amor\n\nComo um fogo abrasador inflama\nFaz subir Tuas centelhas de amor em chamas\nDo Teu coração aberto meu Senhor",
+        "momentIds": [
+            "acaoDeGracas",
+            "adoracao-adoracao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "adoracao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "aca-bd8e7718",
+        "title": "Yeshua",
+        "composer": "Frei Gilson",
+        "lyrics": "Te chamam de Deus e de Senhor\nTe chamam de Rei, de Salvador\nE eu me atrevo a Te chamar de meu Amor\n\nYeshua, Yeshua\nTu és tão lindo\nQue eu nem sei me expressar\nYeshua, Tu és tão lindo",
+        "momentIds": [
+            "acaoDeGracas",
+            "adoracao-adoracao"
+        ],
+        "celebrationTypeIds": [
+            "missa",
+            "adoracao"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ado-e3d7c740",
+        "title": "Sopra em nós",
+        "composer": "Ministério Mensageiros do Espírito",
+        "lyrics": "Minh'alma tem sede de Ti, ó meu Deus\nMinh'alma suspira por Ti\nMinh'alma tem sede de Ti, ó meu Deus\nMinh'alma suspira por Ti\n\nSopra em nós, sopra em nós\nSomos Teus filhos, ó Pai\nEstamos reunidos em Teu nome\nSopra em nós, sopra em nós\nSomos Teus filhos, ó Pai\nEstamos reunidos em Teu nome",
+        "momentIds": [
+            "adoracao-adoracao"
+        ],
+        "celebrationTypeIds": [
+            "adoracao"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "ado-ffbb622b",
+        "title": "Via sacra",
+        "composer": "Ir Kelly Patricia",
+        "lyrics": "Senhor, pela Tua paixão no abandono da cruz, tem piedade de nós\nJesus, pelo sangue jorrado do Teu coração pelo Teu sacrifício, misericórdia\n\nDeus santo, Deus forte, Deus imortal e de poder\nNós Te adoramos, Te bendizemos, Te glorificamos, ó senhor\nDeus santo, Deus forte, Deus imortal e de poder\nNós Te adoramos, Te bendizemos, Te glorificamos, ó senhor\n\nDeus pai, Vos ofertamos o corpo e o sangue de Cristo\nSua alma e Sua divindade em espiação dos nossos pecados\nDeus santo, Deus forte, Deus imortal e de poder\nNós Te adoramos, Te bendizemos, Te glorificamos, ó senhor\nDeus santo, Deus forte, Deus imortal e de poder\nNós Te adoramos, Te bendizemos, Te glorificamos, ó senhor",
+        "momentIds": [
+            "adoracao-exposicao",
+            "adoracao-adoracao",
+            "adoracao-bencao"
+        ],
+        "celebrationTypeIds": [
+            "adoracao"
+        ],
+        "liturgicalSeasons": []
+    },
+    {
+        "id": "fin-5d665585",
+        "title": "Regaço acolhedor",
+        "composer": "Ir Kelly Patricia",
+        "lyrics": "Ó, minh'alma\nRetorna à tua paz\nComo criança bem tranquila\nNo regaço acolhedor de sua mãe\n\nÓ, minh'alma\nRetorna à tua paz\nComo criança bem tranquila\nNo regaço acolhedor de sua mãe\n\nMinha mãe é a Virgem Maria\nÉ Ela que agora vai\nMe acolher, me abraçar\nMe perdoar, me compreender\n\nMe acalmar, me ensinar, me educar\nMe formar, me amar\n\nMinha mãe é a Virgem Maria\nÉ Ela que agora vai\nMe acolher, me abraçar\nMe perdoar, me compreender\n\nMe acalmar, me ensinar\nMe educar\nMe formar, me amar\n\nÓ, minh'alma\nRetorna à tua paz",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "fin-1167b99d",
+        "title": "Consagração a N. S. de La Salette",
+        "composer": "Marcela Buback",
+        "lyrics": "1. Bela Senhora Virgem da Salette, Mãe padroeira nossa\nConsagrado minha maternidade, entrego meu cansaço\nMinhas preocupações e minhas dores, A Ti tudo irei consagrar\n\nR: CONSAGRO A TI, MARIA, DOCE MÃE DO AMOR (2X)\nCONSAGRO A TI Ó MÃE, MEUS FILHOS, MINHA FAMÍLIA\nCONSAGRO A TI Ó MÃE, MEUS FILHOS, MINHA FAMÍLIA\n\n2. Bela Senhora, Virgem da Salette, que chora por nossos pecados\nÉs Mãe reconciliadora, eu confio em tua proteção, em teu amparo,\nÉs meu consolo, a Ti tudo irei consagrar\n\nRefrão\n\n3. Espelho de Perfeição, quero trilhar um caminho de santidade\nPorta do céu, conduza-me ao teu Filho Jesus\nAbriga-me em teu Imaculado Coração\n\nRefrão",
+        "momentIds": [
+            "final"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
+    },
+    {
+        "id": "ado-6aca3075",
+        "title": "A Ele a Glória",
+        "composer": "Mensagem Brasil",
+        "lyrics": "Alfa, Ômega, Princípio e Fim, sim Ele É, sim Ele É.\nAlfa, Ômega, Princípio e Fim, sim Ele É, sim Ele É.\nLírio do Vale, Estrela da Manhã,\nPara sempre cantarei o seu louvor.\n\nLírio do Vale, Estrela da Manhã,\nA Ele a Glória, a Ele o Louvor,\nA Ele o Domínio, Ele é o Senhor.\nA Ele a Glória, a Ele o Louvor, a Ele o Domínio, Ele é...\n\nAlfa, Ômega, Princípio e Fim, sim Ele É, sim Ele É.\nAlfa, Ômega, Princípio e Fim, sim Ele É, sim Ele É.\nLírio do Vale, Estrela da Manhã,\nPara sempre cantarei o seu louvor.\n\nLírio do Vale, Estrela da Manhã,\nA Ele a Glória, a Ele o Louvor,\nA Ele o Domínio, Ele é o Senhor.\nA Ele a Glória, a Ele o Louvor, a Ele o Domínio, Ele é...",
+        "celebrationTypeIds": [
+            "adoracao"
+        ],
+        "momentIds": [
+            "adoracao-exposicao",
+            "adoracao-adoracao",
+            "adoracao-bencao"
+        ],
+        "liturgicalSeasons": []
+    }
 ]
