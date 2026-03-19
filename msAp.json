@@ -1276,21 +1276,6 @@
         ]
     },
     {
-        "id": "glo-e0698c76",
-        "title": "Glória - banda Ciros",
-        "composer": "Banda Ciros",
-        "lyrics": "Glória, glória a Deus no céu e paz na Terra\n\nDeus e Pai nós vos louvamos\nAdoramos, bendizemos\nDamos glória ao vosso nome\nVossos dons agradecemos\n\nGlória, glória a Deus no céu e paz na Terra\n\nSenhor nosso Jesus Cristo\nUnigênito do Pai\nVoz de Deus, Cordeiro Santo\nNossas culpas perdoai\n\nGlória, glória a Deus no céu e paz na Terra\n\nVós que estais junto do Pai\nComo nosso intercessor\nAcolhei nossos pedidos\nAtendei nosso clamor\n\nGlória, glória a Deus no céu e paz na Terra\n\nVós, somente, sois o Santo\nO Altíssimo, o Senhor\nCom o Espírito Divino\nDe Deus Pai no esplendor\n\nGlória, glória a Deus no céu e paz na Terra\nGlória, glória a Deus no céu e paz na Terra",
-        "momentIds": [
-            "gloria"
-        ],
-        "celebrationTypeIds": [
-            "missa"
-        ],
-        "liturgicalSeasons": [
-            "todos"
-        ]
-    },
-    {
         "id": "glo-223e4fcd",
         "title": "Gloria - paz na terra",
         "composer": "Comunidade Católica Shalom",
@@ -3186,14 +3171,131 @@
         "title": "A Ele a Glória",
         "composer": "Mensagem Brasil",
         "lyrics": "Alfa, Ômega, Princípio e Fim, sim Ele É, sim Ele É.\nAlfa, Ômega, Princípio e Fim, sim Ele É, sim Ele É.\nLírio do Vale, Estrela da Manhã,\nPara sempre cantarei o seu louvor.\n\nLírio do Vale, Estrela da Manhã,\nA Ele a Glória, a Ele o Louvor,\nA Ele o Domínio, Ele é o Senhor.\nA Ele a Glória, a Ele o Louvor, a Ele o Domínio, Ele é...\n\nAlfa, Ômega, Princípio e Fim, sim Ele É, sim Ele É.\nAlfa, Ômega, Princípio e Fim, sim Ele É, sim Ele É.\nLírio do Vale, Estrela da Manhã,\nPara sempre cantarei o seu louvor.\n\nLírio do Vale, Estrela da Manhã,\nA Ele a Glória, a Ele o Louvor,\nA Ele o Domínio, Ele é o Senhor.\nA Ele a Glória, a Ele o Louvor, a Ele o Domínio, Ele é...",
-        "celebrationTypeIds": [
-            "adoracao"
-        ],
         "momentIds": [
             "adoracao-exposicao",
             "adoracao-adoracao",
             "adoracao-bencao"
         ],
+        "celebrationTypeIds": [
+            "adoracao"
+        ],
         "liturgicalSeasons": []
+    },
+    {
+        "id": "glo-8fc613ba",
+        "title": "Gloria a Deus nas alturas",
+        "composer": "Ministério Amor e Adoração",
+        "lyrics": "Glória a Deus nas alturas, Glória a Deus nas alturas\nE paz na Terra aos homens por Ele amados\nGlória a Deus nas alturas, Glória a Deus nas alturas\nE paz na Terra aos homens por Ele amados\n\nSenhor Deus, Rei dos Céus\nDeus Pai Todo Poderoso\nNós Vos louvamos\nVos bendizemos\nNós Vos adoramos e glorificamos\nNós Vos damos graças\nPor Vossa imensa Glória\n\nGlória a Deus nas alturas, Glória a Deus nas alturas\nE paz na Terra aos homens por Ele amados\n\nSenhor, Jesus Cristo, Filho Unigênito\nSenhor Deus, Cordeiro de Deus\nFilho de Deus Pai\nVós que tirais o pecado do mundo\nTende piedade de nós\nVós que tirais o pecado do mundo\nAcolhei a nossa súplica\nVós que estais a direita do Pai\nTende piedade de nós\n\nSó Vós sois o Santo\nSó Vós, o Senhor\nSó Vós o Altíssimo, Jesus Cristo\nCom o Espírito Santo\nNa glória de Deus Pai\nAmém!\n\nGlória a Deus nas alturas, Glória a Deus nas alturas\nE paz na Terra aos homens por Ele amados\nGlória a Deus nas alturas, Glória a Deus nas alturas\nE paz na Terra aos homens por Ele amados",
+        "momentIds": [
+            "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "natal",
+            "pascoa",
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "glo-dd883667",
+        "title": "Gloria Liturgico",
+        "composer": "Coral N. Sra. das Graças",
+        "lyrics": "Glória a Deus nas alturas e paz na terra \naos homens por Ele amados .\n\n1.Senhor Deus Rei dos céus, Deus Pai todo poderoso,\n Nós vos louvamos,nós vos bendizemos,\n Nós adoramos ,\n Nós vos glorificamos.\nNós vos damos graças ,por imensa glória .\nSenhor Jesus Cristo, Filho Unigênito . \nSenhor Deus, cordeiro de Deus , Filho de Deus Pai....\n\n2.Vós que tirais o pecado do mundo ,tende piedade de nós.\nVós que tirais o pecado do mundo, acolhei a nossa suplica; \nVós que estais a direita do pai, tende piedade de nós .\nSó vós sois santo,só vós o senhor, só vós o altíssimo, \nJesus Cristo,com o espírito santo,na glória de Deus pai.\nAmém, amém , amém",
+        "momentIds": [
+            "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "natal",
+            "pascoa",
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "glo-11119555",
+        "title": "Glória a Deus nas alturas",
+        "composer": "Marcela Buback",
+        "lyrics": "Glória a Deus nas alturas,\ne paz na terra aos homens por Ele amados.\nSenhor Deus, rei dos céus, Deus Pai todo-poderoso.\n\nNós vos louvamos, nós vos bendizemos,\nnós vos adoramos, nós vos glorificamos,\nnós vos damos graças por vossa imensa glória.\n\nSenhor Jesus Cristo, Filho Unigênito, Senhor Deus, Cordeiro de Deus,\nFilho de Deus Pai.\nVós que tirais o pecado do mundo,\ntende piedade de nós. Vós que tirais o pecado do mundo,\nacolhei a nossa súplica. Vós que estais à direita do Pai,\ntende piedade de nós.\n\nSó Vós sois o Santo, só vós, o Senhor, só vós, o Altíssimo, Jesus Cristo,\ncom o Espírito Santo, na glória de Deus Pai. Amém.",
+        "momentIds": [
+            "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "natal",
+            "pascoa",
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "glo-f85749ec",
+        "title": "Gloria - CD na Santa Eucaristia",
+        "composer": "Coral Canção Nova",
+        "lyrics": "Glória a Deus nas alturas\ne paz na Terra aos homens, por Ele amados.\nSenhor Deus, Rei dos céus, Deus Pai Todo-Poderoso\nNós Vos louvamos, Vos bendizemos,Vos adoramos, Vos glorificamos\nNós Vos damos graças por Vossa imensa glória.\nSenhor, Jesus Cristo, Filho Unigênito,\nSenhor Deus, Cordeiro de Deus,\nFilho de Deus Pai.\nVós que tirais o pecado do mundo\nTende piedade de nós!\nVós que tirais o pecado do mundo,\nacolhei a nossa súplica.\nVós que estais à direita do Pai,\nTende piedade de nós!\nSó Vós sois o Santo, só Vós o Senhor,\nSó Vós o Altíssimo, Jesus Cristo,\nCom o Espírito Santo, na glória de Deus Pai, amém!",
+        "momentIds": [
+            "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "natal",
+            "pascoa",
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "glo-6f89aee1",
+        "title": "Glória",
+        "composer": "Padre Ney Brasil",
+        "lyrics": "Glória a Deus nas alturas \ne paz na terra aos homens por Ele amados.\n\n1. Senhor Deus, Rei dos céus, Deus Pai todo-poderoso.\nNós vos louvamos, nós vos bendizemos,\nNós vos adoramos, nós vos glorificamos,\n\n2. Nós vos damos graças por vossa imensa glória.\nSenhor Jesus Cristo, Filho Unigênito.\nSenhor Deus, Cordeiro de Deus, Filho de Deus Pai.\n\n\n3. Vós que tirais o pecado do mundo, \ntende piedade de nós!\n\nVós que tirais o pecado do mundo,\n acolhei a nossa súplica!\nVós que estais à direita do Pai,\n tende piedade de nós!\n\n\n4. Só vós sois Santo, só vós o Senhor,\nSó vós o Altíssimo, Jesus Cristo.\nCom o Espírito Santo na glória de Deus Pai,\n Amém!",
+        "momentIds": [
+            "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "natal",
+            "pascoa",
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "glo-b8e95ac8",
+        "title": "Glória",
+        "composer": "Adenor João Terra",
+        "lyrics": "Glória, Glória, Glória a Deus nas alturas e na terra paz aos homens.\n\nSenhor Deus, Rei dos céus, Deus Pai todo-poderoso: \nNós Vos louvamos, nós Vos bendizemos, \nnós Vos adoramos, nós Vos glorificamos.\n\nNós Vos damos graças por vossa imensa glória.\nSenhor Jesus Cristo, Filho Unigênito, \nSenhor Deus, Cordeiro de Deus, Filho de Deus Pai.\n\nVós que tirais o pecado do mundo, tende piedade de nós; \nVós que tirais o pecado do mundo, acolhei a nossa súplica; \n\nVós que estais à direita do Pai, tende piedade de nós.\nSó Vós sois o Santo; só Vós, o Senhor; \nsó Vós, o Altíssimo, Jesus Cristo; \ncom o Espírito Santo na glória de Deus Pai. Amém.",
+        "momentIds": [
+            "gloria"
+        ],
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "liturgicalSeasons": [
+            "natal",
+            "pascoa",
+            "tempoComum"
+        ]
+    },
+    {
+        "id": "ato-26b17132",
+        "title": "Kyrie",
+        "composer": "Capella",
+        "lyrics": "Senhor, que viestes ao mundo para nos salvar, tem piedade de nós\nKyrie, Kyrie, Kyrie Eleison\nKyrie, Kyrie, Kyrie Eleison\n\nÓ Cristo, que continuais a nos visitar, tem piedade de nós\nChriste, Christe, Christe Eleison\nChriste, Christe, Christe Eleison\n\nSenhor, que vireis um dia para nos julgar, tem piedade de nós\nKyrie, Kyrie, Kyrie Eleison\nKyrie, Kyrie, Kyrie Eleison",
+        "celebrationTypeIds": [
+            "missa"
+        ],
+        "momentIds": [
+            "ato"
+        ],
+        "liturgicalSeasons": [
+            "todos"
+        ]
     }
 ]
