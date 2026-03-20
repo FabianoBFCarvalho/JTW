@@ -3297,5 +3297,1861 @@
         "liturgicalSeasons": [
             "todos"
         ]
+    },
+  { "id": "sal-01", "title": "Ano A: 1º Dom Advento - Salmo 121(122): Que alegria, quando ouvi que me disseram: 'Vamos à casa do Senhor!'", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Que alegria, quando ouvi que me disseram: 'Vamos à casa do Senhor!'", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-02", "title": "Ano A: 2º Dom Advento - Salmo 71(72): Nos seus dias a justiça florirá e paz em abundância para sempre.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Nos seus dias a justiça florirá e paz em abundância para sempre.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-03", "title": "Ano A: 3º Dom Advento - Salmo 145(146): Vinde, Senhor, para salvar o vosso povo!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Vinde, Senhor, para salvar o vosso povo!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-04", "title": "Ano A: 4º Dom Advento - Salmo 23(24): O Senhor vai entrar, é o Rei da glória!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "O Senhor vai entrar, é o Rei da glória!", "celebrationTypeIds": ["missa"] },
+
+  { "id": "sal-05", "title": "Ano A: Natal (Noite) - Salmo 95(96): Hoje nasceu para nós o Salvador, que é Cristo, o Senhor.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Hoje nasceu para nós o Salvador, que é Cristo, o Senhor.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-06", "title": "Ano A: Sagrada Família - Salmo 127(128): Felizes os que temem o Senhor e trilham seus caminhos!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Felizes os que temem o Senhor e trilham seus caminhos!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-07", "title": "Ano A: Santa Maria, Mãe de Deus - Salmo 66(67): Que Deus nos dê a sua graça e sua bênção.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Que Deus nos dê a sua graça e sua bênção.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-08", "title": "Ano A: Epifania do Senhor - Salmo 71(72): As nações de toda a terra hão de adorar-vos, ó Senhor!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "As nações de toda a terra hão de adorar-vos, ó Senhor!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-09", "title": "Ano A: Batismo do Senhor - Salmo 28(29): Que o Senhor abençoe, com a paz, o seu povo!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Que o Senhor abençoe, com a paz, o seu povo!", "celebrationTypeIds": ["missa"] },
+
+  { "id": "sal-10", "title": "Ano A: 2º Dom Tempo Comum - Salmo 39(40): Eis que venho fazer, com prazer, a vossa vontade, Senhor!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Eis que venho fazer, com prazer, a vossa vontade, Senhor!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-11", "title": "Ano A: 3º Dom Tempo Comum - Salmo 26(27): O Senhor é minha luz e salvação.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "O Senhor é minha luz e salvação.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-12", "title": "Ano A: 4º Dom Tempo Comum - Salmo 145(146): Felizes os pobres em espírito, porque deles é o Reino dos Céus.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Felizes os pobres em espírito, porque deles é o Reino dos Céus.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-13", "title": "Ano A: 5º Dom Tempo Comum - Salmo 111(112): Uma luz brilha nas trevas para o justo, permanece para sempre o bem que fez.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Uma luz brilha nas trevas para o justo, permanece para sempre o bem que fez.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-14", "title": "Ano A: 6º Dom Tempo Comum - Salmo 118(119): Feliz o homem sem pecado em seu caminho, que na lei do Senhor Deus vai progredindo!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Feliz o homem sem pecado em seu caminho, que na lei do Senhor Deus vai progredindo!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-15", "title": "Ano A: 7º Dom Tempo Comum - Salmo 102(103): O Senhor é bondoso e compassivo.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "O Senhor é bondoso e compassivo.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-16", "title": "Ano A: 8º Dom Tempo Comum - Salmo 61(62): Só em Deus a minha alma tem repouso, porque dele é que me vem a salvação!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Só em Deus a minha alma tem repouso, porque dele é que me vem a salvação!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-17", "title": "Ano A: 9º Dom Tempo Comum - Salmo 30(31): Senhor, sede uma rocha protetora para mim!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Senhor, sede uma rocha protetora para mim!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-18", "title": "Ano A: 10º Dom Tempo Comum - Salmo 49(50): A todo homem que procede retamente, eu mostrarei a salvação que vem de Deus.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "A todo homem que procede retamente, eu mostrarei a salvação que vem de Deus.", "celebrationTypeIds": ["missa"] },
+
+  { "id": "sal-19", "title": "Ano A: 11º Dom Tempo Comum - Salmo 99(100): Nós somos o povo e o rebanho do Senhor.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Nós somos o povo e o rebanho do Senhor.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-20", "title": "Ano A: 12º Dom Tempo Comum - Salmo 68(69): Atendei-me, ó Senhor, pelo vosso imenso amor!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Atendei-me, ó Senhor, pelo vosso imenso amor!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-21", "title": "Ano A: 13º Dom Tempo Comum - Salmo 88(89): Cantarei eternamente o amor do Senhor.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Cantarei eternamente o amor do Senhor.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-22", "title": "Ano A: 14º Dom Tempo Comum - Salmo 144(145): Bendirei, eternamente, vosso nome, ó Senhor!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Bendirei, eternamente, vosso nome, ó Senhor!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-23", "title": "Ano A: 15º Dom Tempo Comum - Salmo 64(65): A semente caiu em terra boa e deu fruto.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "A semente caiu em terra boa e deu fruto.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-24", "title": "Ano A: 16º Dom Tempo Comum - Salmo 85(86): Ó Senhor, vós sois bom, sois clemente e fiel!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Ó Senhor, vós sois bom, sois clemente e fiel!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-25", "title": "Ano A: 17º Dom Tempo Comum - Salmo 118(119): Como eu amo, Senhor, a vossa lei, vossa palavra!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Como eu amo, Senhor, a vossa lei, vossa palavra!", "celebrationTypeIds": ["missa"] },
+
+  { "id": "sal-26", "title": "Ano A: 18º Dom Tempo Comum - Salmo 144(145): Vós abris a vossa mão e saciai os vossos filhos!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Vós abris a vossa mão e saciai os vossos filhos!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-27", "title": "Ano A: 19º Dom Tempo Comum - Salmo 84(85): Mostrai-nos, ó Senhor, vossa bondade e a vossa salvação nos concedei!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Mostrai-nos, ó Senhor, vossa bondade e a vossa salvação nos concedei!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-28", "title": "Ano A: 20º Dom Tempo Comum - Salmo 66(67): Que as nações vos glorifiquem, ó Senhor, que todas as nações vos glorifiquem!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Que as nações vos glorifiquem, ó Senhor, que todas as nações vos glorifiquem!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-29", "title": "Ano A: 21º Dom Tempo Comum - Salmo 137(138): Ó Senhor, vossa bondade é para sempre! Completai em mim a obra começada!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Ó Senhor, vossa bondade é para sempre! Completai em mim a obra começada!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-30", "title": "Ano A: 22º Dom Tempo Comum - Salmo 62(63): A minh'alma tem sede de vós, como a terra sedenta, ó meu Deus!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "A minh'alma tem sede de vós, como a terra sedenta, ó meu Deus!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-31", "title": "Ano A: 23º Dom Tempo Comum - Salmo 94(95): Oxalá ouvísseis hoje a sua voz: Não fecheis os vossos corações.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Oxalá ouvísseis hoje a sua voz: Não fecheis os vossos corações.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-32", "title": "Ano A: 24º Dom Tempo Comum - Salmo 102(103): O Senhor é bondoso, compassivo e carinhoso.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "O Senhor é bondoso, compassivo e carinhoso.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-33", "title": "Ano A: 25º Dom Tempo Comum - Salmo 144(145): O Senhor está perto da pessoa que o invoca!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "O Senhor está perto da pessoa que o invoca!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-34", "title": "Ano A: 26º Dom Tempo Comum - Salmo 24(25): Recordai, Senhor meu Deus, vossa ternura e a vossa compaixão que são eternas!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Recordai, Senhor meu Deus, vossa ternura e a vossa compaixão que são eternas!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-35", "title": "Ano A: 27º Dom Tempo Comum - Salmo 79(80): A vinha do Senhor é a casa de Israel.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "A vinha do Senhor é a casa de Israel.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-36", "title": "Ano A: 28º Dom Tempo Comum - Salmo 22(23): Na casa do Senhor habitarei eternamente.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Na casa do Senhor habitarei eternamente.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-37", "title": "Ano A: 29º Dom Tempo Comum - Salmo 95(96): Ó família das nações, dai ao Senhor poder e glória!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Ó família das nações, dai ao Senhor poder e glória!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-38", "title": "Ano A: 30º Dom Tempo Comum - Salmo 17(18): Eu vos amo, ó Senhor, sois minha força e salvação!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Eu vos amo, ó Senhor, sois minha força e salvação!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-39", "title": "Ano A: 31º Dom Tempo Comum - Salmo 130(131): Guardai-me, em paz, junto a vós, ó Senhor!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Guardai-me, em paz, junto a vós, ó Senhor!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-40", "title": "Ano A: 32º Dom Tempo Comum - Salmo 62(63): A minh'alma tem sede de vós, ó Senhor!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "A minh'alma tem sede de vós, ó Senhor!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-41", "title": "Ano A: 33º Dom Tempo Comum - Salmo 127(128): Felizes os que temem o Senhor e trilham seus caminhos!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Felizes os que temem o Senhor e trilham seus caminhos!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-42", "title": "Ano A: Cristo Rei - Salmo 22(23): O Senhor é o pastor que me conduz; não me falta coisa alguma.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "O Senhor é o pastor que me conduz; não me falta coisa alguma.", "celebrationTypeIds": ["missa"] },
+
+  { "id": "sal-43", "title": "Ano A: 1º Dom Quaresma - Salmo 50(51): Piedade, ó Senhor, tende piedade, pois pecamos contra vós.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Piedade, ó Senhor, tende piedade, pois pecamos contra vós.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-44", "title": "Ano A: 2º Dom Quaresma - Salmo 32(33): Sobre nós venha, Senhor, a vossa graça, da mesma forma que em vós nós esperamos!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Sobre nós venha, Senhor, a vossa graça, da mesma forma que em vós nós esperamos!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-45", "title": "Ano A: 3º Dom Quaresma - Salmo 94(95): Oxalá ouvísseis hoje a sua voz: Não fecheis os vossos corações.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Oxalá ouvísseis hoje a sua voz: Não fecheis os vossos corações.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-46", "title": "Ano A: 4º Dom Quaresma - Salmo 22(23): O Senhor é o pastor que me conduz; não me falta coisa alguma.", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "O Senhor é o pastor que me conduz; não me falta coisa alguma.", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-47", "title": "Ano A: 5º Dom Quaresma - Salmo 129(130): No Senhor toda graça e redenção!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "No Senhor toda graça e redenção!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-48", "title": "Ano A: Domingo de Ramos - Salmo 21(22): Meu Deus, meu Deus, por que me abandonastes?", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Meu Deus, meu Deus, por que me abandonastes?", "celebrationTypeIds": ["missa"] },
+
+  { "id": "sal-49", "title": "Ano A: Páscoa - Salmo 117(118): Este é o dia que o Senhor fez para nós: alegremo-nos e nele exultemos!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Este é o dia que o Senhor fez para nós: alegremo-nos e nele exultemos!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-50", "title": "Ano A: Ascensão do Senhor - Salmo 46(47): Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-51", "title": "Ano A: Pentecostes - Salmo 103(104): Enviai o vosso Espírito, Senhor, e da terra toda a face renovai!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-52", "title": "Ano A: Santíssima Trindade - Salmo Dn 3: A vós louvor, honra e glória eternamente!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "A vós louvor, honra e glória eternamente!", "celebrationTypeIds": ["missa"] },
+  { "id": "sal-53", "title": "Ano A: Corpus Christi - Salmo 147(147B): Glorifica o Senhor, Jerusalém; celebra teu Deus, ó Sião!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "Glorifica o Senhor, Jerusalém; celebra teu Deus, ó Sião!", "celebrationTypeIds": ["missa"] },
+    { "id": "sal-46732", "title": "Ano A: Assunção Maria - Sl 44(45): À vossa direita se encontra a rainha, com veste esplendente de ouro de Ofir!", "composer": "Salmos", "liturgicalSeasons": ["todos"], "momentIds": ["salmos"], "lyrics": "À vossa direita se encontra a rainha, com veste esplendente de ouro de Ofir", "celebrationTypeIds": ["missa"] },
+{
+    "id": "sal-54",
+    "title": "Ano A: 2º Dom Páscoa - Salmo 117(118): Dai graças ao Senhor, porque ele é bom; eterna é a sua misericórdia!",
+    "composer": "Salmos",
+    "liturgicalSeasons": ["todos"],
+    "momentIds": ["salmos"],
+    "lyrics": "Dai graças ao Senhor, porque ele é bom; eterna é a sua misericórdia!",
+    "celebrationTypeIds": ["missa"]
+  },
+  {
+    "id": "sal-55",
+    "title": "Ano A: 3º Dom Páscoa - Salmo 15(16): Vós me ensinais vosso caminho para a vida; junto a vós, felicidade sem limites!",
+    "composer": "Salmos",
+    "liturgicalSeasons": ["todos"],
+    "momentIds": ["salmos"],
+    "lyrics": "Vós me ensinais vosso caminho para a vida; junto a vós, felicidade sem limites!",
+    "celebrationTypeIds": ["missa"]
+  },
+  {
+    "id": "sal-56",
+    "title": "Ano A: 4º Dom Páscoa - Salmo 22(23): O Senhor é o pastor que me conduz; não me falta coisa alguma.",
+    "composer": "Salmos",
+    "liturgicalSeasons": ["todos"],
+    "momentIds": ["salmos"],
+    "lyrics": "O Senhor é o pastor que me conduz; não me falta coisa alguma.",
+    "celebrationTypeIds": ["missa"]
+  },
+  {
+    "id": "sal-57",
+    "title": "Ano A: 5º Dom Páscoa - Salmo 32(33): Sobre nós venha, Senhor, a vossa graça, da mesma forma que em vós nós esperamos!",
+    "composer": "Salmos",
+    "liturgicalSeasons": ["todos"],
+    "momentIds": ["salmos"],
+    "lyrics": "Sobre nós venha, Senhor, a vossa graça, da mesma forma que em vós nós esperamos!",
+    "celebrationTypeIds": ["missa"]
+  },
+  {
+    "id": "sal-58",
+    "title": "Ano A: 6º Dom Páscoa - Salmo 65(66): Aclamai o Senhor Deus, ó terra inteira, cantai salmos a seu nome glorioso!",
+    "composer": "Salmos",
+    "liturgicalSeasons": ["todos"],
+    "momentIds": ["salmos"],
+    "lyrics": "Aclamai o Senhor Deus, ó terra inteira, cantai salmos a seu nome glorioso!",
+    "celebrationTypeIds": ["missa"]
+  },
+  {
+    "id": "sal-59",
+    "title": "Ano A: 7º Dom Páscoa - Salmo 26(27): O Senhor é minha luz e salvação.",
+    "composer": "Salmos",
+    "liturgicalSeasons": ["todos"],
+    "momentIds": ["salmos"],
+    "lyrics": "O Senhor é minha luz e salvação.",
+    "celebrationTypeIds": ["missa"]
+  },
+    {
+        "id": "salb-01",
+        "title": "Ano B: 1º Dom Advento - Salmo 24(25): Senhor meu Deus, a vós elevo a minha alma!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Senhor meu Deus, a vós elevo a minha alma!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-02",
+        "title": "Ano B: 2º Dom Advento - Salmo 84(85): Mostrai-nos, ó Senhor, vossa bondade, e a vossa salvação nos concedei!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Mostrai-nos, ó Senhor, vossa bondade, e a vossa salvação nos concedei!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-03",
+        "title": "Ano B: 3º Dom Advento - Salmo Is 61: A minha alma se alegra no meu Deus.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "A minha alma se alegra no meu Deus.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-04",
+        "title": "Ano B: 4º Dom Advento - Salmo 88(89): Ó Senhor, eu cantarei eternamente o vosso amor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Ó Senhor, eu cantarei eternamente o vosso amor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-05",
+        "title": "Ano B: Natal (Noite) - Salmo 95(96): Hoje nasceu para nós o Salvador, que é Cristo, o Senhor.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Hoje nasceu para nós o Salvador, que é Cristo, o Senhor.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-06",
+        "title": "Ano B: Natal (Dia) - Salmo 97(98): Os confins do universo contemplaram a salvação do nosso Deus.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Os confins do universo contemplaram a salvação do nosso Deus.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-07",
+        "title": "Ano B: Sagrada Família - Salmo 127(128): Felizes os que temem o Senhor e trilham seus caminhos!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Felizes os que temem o Senhor e trilham seus caminhos!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-08",
+        "title": "Ano B: Santa Maria, Mãe de Deus - Salmo 66(67): Que Deus nos dê a sua graça e sua bênção.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Que Deus nos dê a sua graça e sua bênção.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-09",
+        "title": "Ano B: Epifania do Senhor - Salmo 71(72): As nações de toda a terra hão de adorar-vos, ó Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "As nações de toda a terra hão de adorar-vos, ó Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-10",
+        "title": "Ano B: Batismo do Senhor - Salmo Is 12: Com alegria bebereis do manancial da salvação.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Com alegria bebereis do manancial da salvação.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-11",
+        "title": "Ano B: 2º Dom Tempo Comum - Salmo 39(40): Eu disse: Eis que venho, Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Eu disse: Eis que venho, Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-12",
+        "title": "Ano B: 3º Dom Tempo Comum - Salmo 24(25): Mostrai-me, ó Senhor, vossos caminhos.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Mostrai-me, ó Senhor, vossos caminhos.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-13",
+        "title": "Ano B: 4º Dom Tempo Comum - Salmo 94(95): Não fecheis o coração, ouvi hoje a voz de Deus!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Não fecheis o coração, ouvi hoje a voz de Deus!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-14",
+        "title": "Ano B: 5º Dom Tempo Comum - Salmo 146(147): Louvai a Deus, porque ele é bom e conforta os corações.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Louvai a Deus, porque ele é bom e conforta os corações.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-15",
+        "title": "Ano B: 6º Dom Tempo Comum - Salmo 31(32): Sois, Senhor, para mim, alegria e refúgio.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Sois, Senhor, para mim, alegria e refúgio.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-16",
+        "title": "Ano B: 7º Dom Tempo Comum - Salmo 40(41): Senhor, tende piedade e curai-me.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Senhor, tende piedade e curai-me.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-17",
+        "title": "Ano B: 8º Dom Tempo Comum - Salmo 91(92): Como é bom agradecermos ao Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Como é bom agradecermos ao Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-18",
+        "title": "Ano B: 9º Dom Tempo Comum - Salmo 80(81): Exultai no Senhor, nossa força!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Exultai no Senhor, nossa força!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-19",
+        "title": "Ano B: 10º Dom Tempo Comum - Salmo 129(130): No Senhor toda graça e redenção!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "No Senhor toda graça e redenção!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-20",
+        "title": "Ano B: 1º Dom Quaresma - Salmo 24(25): Verdade e amor são os caminhos do Senhor.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Verdade e amor são os caminhos do Senhor.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-21",
+        "title": "Ano B: 2º Dom Quaresma - Salmo 115(116): Andarei na presença de Deus, junto a ele na terra dos vivos.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Andarei na presença de Deus, junto a ele na terra dos vivos.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-22",
+        "title": "Ano B: 3º Dom Quaresma - Salmo 18(19): Senhor, vós tendes palavras de vida eterna.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Senhor, vós tendes palavras de vida eterna.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-23",
+        "title": "Ano B: 4º Dom Quaresma - Salmo 136(137): Que se prenda a minha língua ao céu da boca se de ti, Jerusalém, eu me esquecer!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Que se prenda a minha língua ao céu da boca se de ti, Jerusalém, eu me esquecer!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-24",
+        "title": "Ano B: 5º Dom Quaresma - Salmo 50(51): Criai em mim um coração que seja puro.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Criai em mim um coração que seja puro.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-25",
+        "title": "Ano B: Domingo de Ramos - Salmo 21(22): Meu Deus, meu Deus, por que me abandonastes?",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Meu Deus, meu Deus, por que me abandonastes?",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-26",
+        "title": "Ano B: Páscoa - Salmo 117(118): Este é o dia que o Senhor fez para nós: alegremo-nos e nele exultemos!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Este é o dia que o Senhor fez para nós: alegremo-nos e nele exultemos!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-27",
+        "title": "Ano B: 2º Dom Páscoa - Salmo 117(118): Dai graças ao Senhor porque ele é bom; eterna é a sua misericórdia!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Dai graças ao Senhor porque ele é bom; eterna é a sua misericórdia!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-28",
+        "title": "Ano B: 3º Dom Páscoa - Salmo 4: Sobre nós fazei brilhar o esplendor de vossa face!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Sobre nós fazei brilhar o esplendor de vossa face!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-29",
+        "title": "Ano B: 4º Dom Páscoa - Salmo 117(118): A pedra que os pedreiros rejeitaram tornou-se agora a pedra angular.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "A pedra que os pedreiros rejeitaram tornou-se agora a pedra angular.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-30",
+        "title": "Ano B: 5º Dom Páscoa - Salmo 21(22): Senhor, sois meu louvor em meio à grande assembleia!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Senhor, sois meu louvor em meio à grande assembleia!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-31",
+        "title": "Ano B: Ascensão do Senhor - Salmo 46(47): Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-32",
+        "title": "Ano B: Pentecostes - Salmo 103(104): Enviai o vosso Espírito, Senhor, e da terra toda a face renovai.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-36",
+        "title": "Ano B: 11º Dom Tempo Comum - Salmo 91(92): Como é bom agradecermos ao Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Como é bom agradecermos ao Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-37",
+        "title": "Ano B: 12º Dom Tempo Comum - Salmo 106(107): Dai graças ao Senhor, porque ele é bom, porque eterna é a sua misericórdia!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Dai graças ao Senhor, porque ele é bom, porque eterna é a sua misericórdia!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-38",
+        "title": "Ano B: 13º Dom Tempo Comum - Salmo 29(30): Eu vos exalto, ó Senhor, porque vós me livrastes!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Eu vos exalto, ó Senhor, porque vós me livrastes!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-39",
+        "title": "Ano B: 14º Dom Tempo Comum - Salmo 122(123): Nossos olhos, estão voltados para o Senhor, até de nós ter piedade.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Nossos olhos, estão voltados para o Senhor, até de nós ter piedade.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-40",
+        "title": "Ano B: 15º Dom Tempo Comum - Salmo 84(85): Mostrai-nos, ó Senhor, vossa bondade, e a vossa salvação nos concedei!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Mostrai-nos, ó Senhor, vossa bondade, e a vossa salvação nos concedei!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-41",
+        "title": "Ano B: 16º Dom Tempo Comum - Salmo 22(23): O Senhor é o pastor que me conduz, não me falta coisa alguma.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "O Senhor é o pastor que me conduz, não me falta coisa alguma.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-42",
+        "title": "Ano B: 17º Dom Tempo Comum - Salmo 144(145): Abri a vossa mão, ó Senhor, e saciai os vossos filhos!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Abri a vossa mão, ó Senhor, e saciai os vossos filhos!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-43",
+        "title": "Ano B: 18º Dom Tempo Comum - Salmo 77(78): O Senhor deu a comer o pão do céu.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "O Senhor deu a comer o pão do céu.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-44",
+        "title": "Ano B: 19º Dom Tempo Comum - Salmo 33(34): Provai e vede quão suave é o Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Provai e vede quão suave é o Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-45",
+        "title": "Ano B: 20º Dom Tempo Comum - Salmo 33(34): Provai e vede quão suave é o Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Provai e vede quão suave é o Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-46",
+        "title": "Ano B: 21º Dom Tempo Comum - Salmo 33(34): Provai e vede quão suave é o Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Provai e vede quão suave é o Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-47",
+        "title": "Ano B: 22º Dom Tempo Comum - Salmo 14(15): Senhor, quem morará em vossa casa?",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Senhor, quem morará em vossa casa?",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-48",
+        "title": "Ano B: 23º Dom Tempo Comum - Salmo 145(146): Bendize, ó minha alma, ao Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Bendize, ó minha alma, ao Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-49",
+        "title": "Ano B: 24º Dom Tempo Comum - Salmo 114(115): Andarei na presença de Deus, junto a ele na terra dos vivos.",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Andarei na presença de Deus, junto a ele na terra dos vivos.",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-50",
+        "title": "Ano B: 25º Dom Tempo Comum - Salmo 53(54): É o Senhor quem sustenta minha vida!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "É o Senhor quem sustenta minha vida!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-51",
+        "title": "Ano B: 26º Dom Tempo Comum - Salmo 18(19): A lei do Senhor Deus é perfeita, conforto para a alma!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "A lei do Senhor Deus é perfeita, conforto para a alma!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-52",
+        "title": "Ano B: 27º Dom Tempo Comum - Salmo 127(128): Que o Senhor nos abençoe todos os dias de nossa vida!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Que o Senhor nos abençoe todos os dias de nossa vida!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-53",
+        "title": "Ano B: 28º Dom Tempo Comum - Salmo 89(90): Saciai-nos, ó Senhor, com vosso amor, e exultaremos de alegria!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Saciai-nos, ó Senhor, com vosso amor, e exultaremos de alegria!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-54",
+        "title": "Ano B: 29º Dom Tempo Comum - Salmo 32(33): Transborda em toda a terra a bondade do Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Transborda em toda a terra a bondade do Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-55",
+        "title": "Ano B: 30º Dom Tempo Comum - Salmo 125(126): Maravilhas fez conosco o Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Maravilhas fez conosco o Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-56",
+        "title": "Ano B: 31º Dom Tempo Comum - Salmo 17(18): Eu vos amo, ó Senhor, sois minha força e salvação!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Eu vos amo, ó Senhor, sois minha força e salvação!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-57",
+        "title": "Ano B: 32º Dom Tempo Comum - Salmo 145(146): Bendize, ó minha alma, ao Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Bendize, ó minha alma, ao Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-58",
+        "title": "Ano B: 33º Dom Tempo Comum - Salmo 15(16): Guardai-me, ó Deus, porque em vós me refugio!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Guardai-me, ó Deus, porque em vós me refugio!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salb-59",
+        "title": "Ano B: Cristo Rei - Salmo 92(93): Deus é Rei e se vestiu de majestade, glória ao Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Deus é Rei e se vestiu de majestade, glória ao Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+
+    {
+        "id": "salc-01",
+        "title": "Ano C: 1º Dom Advento - Salmo 24(25): Senhor meu Deus, a vós elevo a minha alma!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Senhor meu Deus, a vós elevo a minha alma!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-02",
+        "title": "Ano C: 2º Dom Advento - Salmo 84(85): Mostrai-nos, ó Senhor, vossa bondade, e a vossa salvação nos concedei!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Mostrai-nos, ó Senhor, vossa bondade, e a vossa salvação nos concedei!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-03",
+        "title": "Ano C: 3º Dom Advento - Salmo 145(146): Vinde, Senhor, para salvar o vosso povo!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Vinde, Senhor, para salvar o vosso povo!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-04",
+        "title": "Ano C: 4º Dom Advento - Salmo 79(80): Iluminai a vossa face sobre nós, convertei-nos, para que sejamos salvos!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Iluminai a vossa face sobre nós, convertei-nos, para que sejamos salvos!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-05",
+        "title": "Ano C: Natal - Salmo 95(96): Hoje nasceu para nós o Salvador, que é Cristo, o Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Hoje nasceu para nós o Salvador, que é Cristo, o Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-06",
+        "title": "Ano C: Sagrada Família - Salmo 127(128): Felizes os que temem o Senhor e trilham seus caminhos!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Felizes os que temem o Senhor e trilham seus caminhos!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-07",
+        "title": "Ano C: Santa Maria, Mãe de Deus - Salmo 66(67): Que Deus nos dê a sua graça e sua bênção!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Que Deus nos dê a sua graça e sua bênção!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-08",
+        "title": "Ano C: Epifania do Senhor - Salmo 71(72): As nações de toda a terra hão de adorar-vos, ó Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "As nações de toda a terra hão de adorar-vos, ó Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-09",
+        "title": "Ano C: Batismo do Senhor - Salmo 28(29): Que o Senhor abençoe, com a paz, o seu povo!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Que o Senhor abençoe, com a paz, o seu povo!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-10",
+        "title": "Ano C: 1º Dom Tempo Comum - Salmo 39(40): Eis que venho fazer, com prazer, a vossa vontade, Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Eis que venho fazer, com prazer, a vossa vontade, Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-11",
+        "title": "Ano C: 2º Dom Tempo Comum - Salmo 95(96): Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-12",
+        "title": "Ano C: 3º Dom Tempo Comum - Salmo 18(19): Vossas palavras, Senhor, são espírito e vida!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Vossas palavras, Senhor, são espírito e vida!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-13",
+        "title": "Ano C: 4º Dom Tempo Comum - Salmo 70(71): Minha boca anunciará todos os dias vossas graças incontáveis, ó Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Minha boca anunciará todos os dias vossas graças incontáveis, ó Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-14",
+        "title": "Ano C: 5º Dom Tempo Comum - Salmo 137(138): Vou cantar-vos ante os anjos, ó Senhor, e ante o vosso templo vou prostrar-me!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Vou cantar-vos ante os anjos, ó Senhor, e ante o vosso templo vou prostrar-me!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-15",
+        "title": "Ano C: 6º Dom Tempo Comum - Salmo 1: É feliz quem a Deus se confia!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "É feliz quem a Deus se confia!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-16",
+        "title": "Ano C: 7º Dom Tempo Comum - Salmo 102(103): O Senhor é bondoso e compassivo!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "O Senhor é bondoso e compassivo!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-17",
+        "title": "Ano C: 8º Dom Tempo Comum - Salmo 91(92): Como é bom agradecermos ao Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Como é bom agradecermos ao Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-18",
+        "title": "Ano C: 9º Dom Tempo Comum - Salmo 116(117): Ide por todo o mundo, a todos pregai o Evangelho!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Ide por todo o mundo, a todos pregai o Evangelho!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-19",
+        "title": "Ano C: 10º Dom Tempo Comum - Salmo 29(30): Eu vos exalto, ó Senhor, pois me livrastes!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Eu vos exalto, ó Senhor, pois me livrastes!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-20",
+        "title": "Ano C: 1º Dom Quaresma - Salmo 90(91): Em minhas dores, ó Senhor, permanecei junto de mim!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Em minhas dores, ó Senhor, permanecei junto de mim!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-21",
+        "title": "Ano C: 2º Dom Quaresma - Salmo 26(27): O Senhor é minha luz e salvação!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "O Senhor é minha luz e salvação!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-22",
+        "title": "Ano C: 3º Dom Quaresma - Salmo 102(103): O Senhor é bondoso e compassivo!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "O Senhor é bondoso e compassivo!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-23",
+        "title": "Ano C: 4º Dom Quaresma - Salmo 33(34): Provai e vede quão suave é o Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Provai e vede quão suave é o Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-24",
+        "title": "Ano C: 5º Dom Quaresma - Salmo 125(126): Maravilhas fez conosco o Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Maravilhas fez conosco o Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-25",
+        "title": "Ano C: Domingo de Ramos - Salmo 21(22): Meu Deus, meu Deus, por que me abandonastes?",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Meu Deus, meu Deus, por que me abandonastes?",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-26",
+        "title": "Ano C: Domingo de Páscoa - Salmo 117(118): Este é o dia que o Senhor fez para nós: alegremo-nos e nele exultemos!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Este é o dia que o Senhor fez para nós: alegremo-nos e nele exultemos!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-27",
+        "title": "Ano C: 2º Dom Páscoa - Salmo 117(118): Dai graças ao Senhor, porque ele é bom; eterna é a sua misericórdia!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Dai graças ao Senhor, porque ele é bom; eterna é a sua misericórdia!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-28",
+        "title": "Ano C: 3º Dom Páscoa - Salmo 29(30): Eu vos exalto, ó Senhor, porque vós me livrastes!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Eu vos exalto, ó Senhor, porque vós me livrastes!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-29",
+        "title": "Ano C: 4º Dom Páscoa - Salmo 99(100): Sabei que o Senhor, só ele, é Deus, nós somos seu povo e seu rebanho!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Sabei que o Senhor, só ele, é Deus, nós somos seu povo e seu rebanho!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-30",
+        "title": "Ano C: 5º Dom Páscoa - Salmo 144(145): Bendirei o vosso nome, ó meu Deus, meu Senhor e meu rei para sempre!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Bendirei o vosso nome, ó meu Deus, meu Senhor e meu rei para sempre!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-31",
+        "title": "Ano C: 6º Dom Páscoa - Salmo 66(67): Que as nações vos glorifiquem, ó Senhor, que todas as nações vos glorifiquem!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Que as nações vos glorifiquem, ó Senhor, que todas as nações vos glorifiquem!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-32",
+        "title": "Ano C: Ascensão do Senhor - Salmo 46(47): Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-33",
+        "title": "Ano C: 7º Dom Páscoa - Salmo 96(97): Reina o Senhor, exulte a terra inteira!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Reina o Senhor, exulte a terra inteira!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-34",
+        "title": "Ano C: Pentecostes - Salmo 103(104): Enviai o vosso Espírito, Senhor, e da terra toda a face renovai!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-35",
+        "title": "Ano C: Santíssima Trindade - Salmo 8: Ó Senhor nosso Deus, como é grande vosso nome por todo o universo!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Ó Senhor nosso Deus, como é grande vosso nome por todo o universo!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-36",
+        "title": "Ano C: Corpus Christi - Salmo 109(110): Tu és sacerdote eternamente segundo a ordem do rei Melquisedeque!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Tu és sacerdote eternamente segundo a ordem do rei Melquisedeque!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-37",
+        "title": "Ano C: 11º Dom Tempo Comum - Salmo 31(32): Eu confessei, afinal, meu pecado, e perdoastes, Senhor, minha falta!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Eu confessei, afinal, meu pecado, e perdoastes, Senhor, minha falta!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-38",
+        "title": "Ano C: 12º Dom Tempo Comum - Salmo 62(63): A minh’alma tem sede de vós, como a terra sedenta, ó meu Deus!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "A minh’alma tem sede de vós, como a terra sedenta, ó meu Deus!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-39",
+        "title": "Ano C: 13º Dom Tempo Comum - Salmo 15(16): Ó Senhor, sois minha herança para sempre!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Ó Senhor, sois minha herança para sempre!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-40",
+        "title": "Ano C: 14º Dom Tempo Comum - Salmo 65(66): Aclamai o Senhor Deus, ó terra inteira!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Aclamai o Senhor Deus, ó terra inteira!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-41",
+        "title": "Ano C: 15º Dom Tempo Comum - Salmo 68(69): Humildes, buscai a Deus e alegrai-vos: o vosso coração reviverá!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Humildes, buscai a Deus e alegrai-vos: o vosso coração reviverá!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-42",
+        "title": "Ano C: 16º Dom Tempo Comum - Salmo 14(15): Senhor, quem morará em vossa casa?",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Senhor, quem morará em vossa casa?",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-43",
+        "title": "Ano C: 17º Dom Tempo Comum - Salmo 137(138): Naquele dia em que gritei, vós me escutastes, ó Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Naquele dia em que gritei, vós me escutastes, ó Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-44",
+        "title": "Ano C: 18º Dom Tempo Comum - Salmo 89(90): Vós fostes, ó Senhor, um refúgio para nós!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Vós fostes, ó Senhor, um refúgio para nós!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-45",
+        "title": "Ano C: 19º Dom Tempo Comum - Salmo 32(33): Feliz o povo que o Senhor escolheu por sua herança!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Feliz o povo que o Senhor escolheu por sua herança!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-46",
+        "title": "Ano C: 20º Dom Tempo Comum - Salmo 39(40): Socorrei-me, ó Senhor, vinde logo em meu auxílio!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Socorrei-me, ó Senhor, vinde logo em meu auxílio!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-47",
+        "title": "Ano C: 21º Dom Tempo Comum - Salmo 116(117): Ide por todo o mundo, a todos pregai o Evangelho!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Ide por todo o mundo, a todos pregai o Evangelho!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-48",
+        "title": "Ano C: 22º Dom Tempo Comum - Salmo 67(68): Com carinho preparastes uma mesa para o pobre!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Com carinho preparastes uma mesa para o pobre!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-49",
+        "title": "Ano C: 23º Dom Tempo Comum - Salmo 89(90): Vós fostes, ó Senhor, um refúgio para nós!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Vós fostes, ó Senhor, um refúgio para nós!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-50",
+        "title": "Ano C: 24º Dom Tempo Comum - Salmo 50(51): Vou levantar-me e vou a meu pai!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Vou levantar-me e vou a meu pai!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-51",
+        "title": "Ano C: 25º Dom Tempo Comum - Salmo 112(113): Louvai o Senhor, que eleva os pobres!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Louvai o Senhor, que eleva os pobres!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-52",
+        "title": "Ano C: 26º Dom Tempo Comum - Salmo 145(146): Bendize, ó minha alma, ao Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Bendize, ó minha alma, ao Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-53",
+        "title": "Ano C: 27º Dom Tempo Comum - Salmo 94(95): Oxalá ouvísseis hoje a sua voz: Não fecheis os vossos corações!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Oxalá ouvísseis hoje a sua voz: Não fecheis os vossos corações!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-54",
+        "title": "Ano C: 28º Dom Tempo Comum - Salmo 97(98): O Senhor fez conhecer a salvação!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "O Senhor fez conhecer a salvação!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-55",
+        "title": "Ano C: 29º Dom Tempo Comum - Salmo 120(121): Do Senhor é que me vem o meu socorro, do Senhor que fez o céu e fez a terra!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Do Senhor é que me vem o meu socorro, do Senhor que fez o céu e fez a terra!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-56",
+        "title": "Ano C: 30º Dom Tempo Comum - Salmo 33(34): O pobre clama a Deus e ele escuta!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "O pobre clama a Deus e ele escuta!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-57",
+        "title": "Ano C: 31º Dom Tempo Comum - Salmo 144(145): Bendirei o vosso nome, ó meu Deus, meu Senhor e meu rei para sempre!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Bendirei o vosso nome, ó meu Deus, meu Senhor e meu rei para sempre!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-58",
+        "title": "Ano C: 32º Dom Tempo Comum - Salmo 16(17): Ao despertar, me saciará vossa presença, ó Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Ao despertar, me saciará vossa presença, ó Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-59",
+        "title": "Ano C: 33º Dom Tempo Comum - Salmo 97(98): O Senhor virá julgar a terra inteira; com justiça julgará!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "O Senhor virá julgar a terra inteira; com justiça julgará!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
+    },
+    {
+        "id": "salc-60",
+        "title": "Ano C: Cristo Rei - Salmo 121(122): Que alegria, quando ouvi que me disseram: Vamos à casa do Senhor!",
+        "composer": "Salmos",
+        "liturgicalSeasons": [
+            "todos"
+        ],
+        "momentIds": [
+            "salmos"
+        ],
+        "lyrics": "Que alegria, quando ouvi que me disseram: Vamos à casa do Senhor!",
+        "celebrationTypeIds": [
+            "missa"
+        ]
     }
 ]
+
